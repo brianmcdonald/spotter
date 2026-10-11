@@ -25,7 +25,6 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run check
-      # The field guide content (public/books/) is git-ignored, so it is never in this build.
       - run: npm run build
       - uses: actions/upload-pages-artifact@v3
         with:

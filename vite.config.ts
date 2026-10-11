@@ -7,8 +7,8 @@ import { existsSync } from 'node:fs';
 export default defineConfig({
   base: './',
   plugins: [svelte()],
-  // Field guide content exists only where scripts/extract-books.py has run; builds
-  // without it (e.g. CI) skip the request instead of logging a 404.
+  // Field guide content (public/books/) is optional; builds
+  // without it skip the request instead of logging a 404.
   define: { __HAS_BOOKS__: JSON.stringify(existsSync('public/books/books.json')) },
   // The bundled Kenya species catalogue (~2,000 entries) makes the main chunk ~1 MB raw / ~180 KB gzipped.
   build: { chunkSizeWarningLimit: 1500 }

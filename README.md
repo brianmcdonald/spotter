@@ -38,7 +38,7 @@ src/
     export.ts                      file download/upload helpers
     components/                    UI components
 scripts/fetch-species.ts     builds the catalogue from iNaturalist and eBird
-scripts/extract-books.py     pulls accounts and pictures from your field guide PDFs (local only)
+scripts/extract-books.py     pulls accounts and pictures from the field guide PDFs into public/books/
 scripts/fetch-images.ts      bundles photos for hand-written species from Wikimedia Commons
 public/images/               bundled species photos
 ```
@@ -58,7 +58,7 @@ EBIRD_API_KEY=your-key npm run species # also enrich birds from eBird
 
 Observation counts reflect where people go and what they photograph, so rarity is a guide rather than a measure of population. That's why hand-written entries keep their own rarity: sanctuary rhinos would otherwise come out as "Common".
 
-### Field guides (local only)
+### Field guides
 
 ```bash
 brew install poppler && pip3 install Pillow numpy   # once
@@ -73,7 +73,7 @@ Put the PDFs anywhere under `sources/` (e.g. `sources/birds/`, `sources/animals/
 - `src/lib/data/book-facts.json`: each bird's length and Kenyan abundance, and each fish's maximum size, used for size and rarity (hand-written values still win). These are facts rather than the books' text, so this file is committed.
 - `src/lib/data/book-species.json`: coastal fish whose distribution in the fish guide names Kenya but which have no research-grade iNaturalist records in Kenya. `npm run species` adds them to the catalogue (marked as known from the book), with iNaturalist photos, summaries and IUCN status where iNaturalist has them. Their rarity comes from the guide's remarks ("common", "rare"…), or Rare if it doesn't say.
 
-The books are copyrighted. Their text and pictures are git-ignored, so they are never committed or deployed by CI, and the app skips them when they are missing. `vite build` copies everything in `public/`, so **don't publish a `dist/` you built locally** while `public/books/` exists. Deploy from CI, or delete the folder first. The Safari Guide PDF is an OCR scan, so expect the odd misread word.
+The books are copyrighted and their content is published here with the publishers' permission. The extracted text and pictures in `public/books/` are committed and deployed; the PDFs themselves (`sources/`, `*.pdf`) are git-ignored and never committed. The app skips the book content if `public/books/` is missing. The Safari Guide PDF is an OCR scan, so expect the odd misread word.
 
 ### Adding hand-written details
 

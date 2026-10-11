@@ -6,7 +6,7 @@ android
 .cache
 .env
 
-# Field guide PDFs and their extracted (copyrighted) content: local use only
+# Field guide PDFs: never committed (their extracted content in public/books/ is
+# published with the publishers' permission)
 *.pdf
-public/books/
 sources/

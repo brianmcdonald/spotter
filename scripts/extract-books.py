@@ -11,8 +11,8 @@ and links them to species in the catalogue:
   (Heemstra et al., 5 volumes + colour plates)     plate photos and line drawings
 
 Writes
-  public/books/books.json   accounts per species id      } local only: git-ignored,
-  public/books/img/...      plate crops and photos       } never committed or deployed
+  public/books/books.json   accounts per species id      } published with the publishers'
+  public/books/img/...      plate crops and photos       } permission; the PDFs are never committed
   src/lib/data/book-facts.json  bird lengths and Kenyan abundance, fish sizes (facts only; committed)
   src/lib/data/book-species.json  Kenyan fish in the WIO guide that iNaturalist has no Kenyan
                                   records of; npm run species adds them (facts only; committed)
@@ -22,7 +22,7 @@ Writes
 
 PDFs are found anywhere under sources/ (or the project folder).
 
-The books are copyrighted, so their text and pictures stay on this machine.
+The books are copyrighted; their content is published with the publishers' permission.
 The app shows them when public/books/ exists and quietly skips them otherwise.
 """
 from __future__ import annotations
@@ -1058,7 +1058,7 @@ def main():
                   ensure_ascii=False, indent=0)
         open(BOOK_SPECIES, 'a').write('\n')
     n_img = sum(len(x['images']) for items in entries.values() for x in items)
-    print(f'\nWrote accounts for {len(entries)} species ({n_img} pictures) to public/books/ (local only).')
+    print(f'\nWrote accounts for {len(entries)} species ({n_img} pictures) to public/books/.')
     print(f'Wrote facts for {len(facts)} species to src/lib/data/book-facts.json.')
     if new_species is not None:
         print(f'Wrote {len(new_species)} Kenyan fish to src/lib/data/book-species.json — run npm run species to add them.')

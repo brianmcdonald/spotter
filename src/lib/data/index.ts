@@ -65,8 +65,8 @@ function lazyJson<T extends object>(url: string, empty: T) {
 
 const summaries = lazyJson<Record<string, string>>('data/summaries.json', {});
 const gallery = lazyJson<Record<string, Photo[]>>('data/photos.json', {});
-// Field guide content exists only where scripts/extract-books.py has been run
-// (it is copyrighted, so it is never committed or deployed).
+// Field guide content (public/books/, from scripts/extract-books.py; optional)
+// is loaded on demand; the PDFs themselves are never committed.
 const books = lazyJson<{ sources: Record<string, BookSource>; entries: Record<string, BookEntry[]> }>(
   'books/books.json',
   { sources: {}, entries: {} }

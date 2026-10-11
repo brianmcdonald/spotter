@@ -1,0 +1,2532 @@
+[
+{
+"id": "acanthoplesiops-indicus",
+"scientificName": "Acanthoplesiops indicus",
+"name": "Scottie",
+"family": "Plesiopidae",
+"size": "Up to 5 cm TL",
+"rarity": "Rare",
+"inatId": 619348
+},
+{
+"id": "acanthurus-blochii",
+"scientificName": "Acanthurus blochii",
+"name": "Ringtail surgeonfish",
+"family": "Acanthuridae",
+"size": "Up to 42 cm TL",
+"rarity": "Rare",
+"inatId": 132411
+},
+{
+"id": "acanthurus-leucocheilus",
+"scientificName": "Acanthurus leucocheilus",
+"name": "Pale-lipped surgeonfish",
+"family": "Acanthuridae",
+"rarity": "Rare",
+"inatId": 186999
+},
+{
+"id": "alopias-pelagicus",
+"scientificName": "Alopias pelagicus",
+"name": "Pelagic thresher",
+"family": "Alopiidae",
+"size": "Up to 3.8 m TL",
+"rarity": "Rare",
+"inatId": 68050
+},
+{
+"id": "ambassis-ambassis",
+"scientificName": "Ambassis ambassis",
+"name": "Commerson’s glassy",
+"family": "Ambassidae",
+"size": "Up to 15 cm TL",
+"rarity": "Rare"
+},
+{
+"id": "amblyrhynchote-honckenii",
+"scientificName": "Amblyrhynchote honckenii",
+"name": "Evil-eye puffer",
+"family": "Tetraodontidae",
+"size": "Up to 30 cm TL",
+"rarity": "Rare",
+"inatId": 1316529
+},
+{
+"id": "anarchias-allardicei",
+"scientificName": "Anarchias allardicei",
+"name": "Nondescript moray",
+"family": "Muraenidae",
+"size": "Up to 17 cm TL",
+"rarity": "Rare",
+"inatId": 617643
+},
+{
+"id": "anguilla-bengalensis",
+"scientificName": "Anguilla bengalensis",
+"name": "African or Indian mottled eel",
+"family": "Anguillidae",
+"size": "Up to 160 cm TL",
+"rarity": "Rare",
+"inatId": 94106
+},
+{
+"id": "anguilla-marmorata",
+"scientificName": "Anguilla marmorata",
+"name": "Madagascar mottled eel",
+"family": "Anguillidae",
+"size": "Up to 150 cm TL",
+"rarity": "Rare",
+"inatId": 128424
+},
+{
+"id": "anguilla-mossambica",
+"scientificName": "Anguilla mossambica",
+"name": "African longfin eel",
+"family": "Anguillidae",
+"size": "Up to 120 cm TL",
+"rarity": "Rare",
+"inatId": 372318
+},
+{
+"id": "anisochromis-kenyae",
+"scientificName": "Anisochromis kenyae",
+"name": "African annie",
+"family": "Pseudochromidae",
+"size": "Up to 3 cm TL",
+"rarity": "Rare",
+"inatId": 619741
+},
+{
+"id": "antennablennius-variopunctatus",
+"scientificName": "Antennablennius variopunctatus",
+"name": "Orangedotted blenny",
+"family": "Blenniidae",
+"size": "Up to 75 mm TL",
+"rarity": "Rare",
+"inatId": 445658
+},
+{
+"id": "antennarius-hispidus",
+"scientificName": "Antennarius hispidus",
+"name": "Shaggy frogfish",
+"family": "Antennariidae",
+"size": "Up to 15 cm SL",
+"rarity": "Rare",
+"inatId": 470193
+},
+{
+"id": "antennatus-dorehensis",
+"scientificName": "Antennatus dorehensis",
+"name": "New Guinean frogfish",
+"family": "Antennariidae",
+"size": "Up to 7 cm TL",
+"rarity": "Rare",
+"inatId": 1316900
+},
+{
+"id": "antigonia-hulleyi",
+"scientificName": "Antigonia hulleyi",
+"family": "Caproidae",
+"size": "Up to 8 cm SL",
+"rarity": "Rare",
+"inatId": 609895
+},
+{
+"id": "antigonia-undulata",
+"scientificName": "Antigonia undulata",
+"family": "Caproidae",
+"size": "Up to 8 cm SL",
+"rarity": "Rare",
+"inatId": 609902
+},
+{
+"id": "aphareus-furca",
+"scientificName": "Aphareus furca",
+"name": "Smalltooth jobfish",
+"family": "Lutjanidae",
+"size": "Up to 70 cm TL",
+"rarity": "Rare",
+"inatId": 130764
+},
+{
+"id": "apogonichthyoides-timorensis",
+"scientificName": "Apogonichthyoides timorensis",
+"name": "Timor cardinalfish",
+"family": "Apogonidae",
+"size": "Up to 69 mm SL",
+"rarity": "Rare",
+"inatId": 529417
+},
+{
+"id": "aporops-bilinearis",
+"scientificName": "Aporops bilinearis",
+"name": "Blotched podge",
+"family": "Epinephelidae",
+"size": "Up to 10 cm SL",
+"rarity": "Rare",
+"inatId": 530808
+},
+{
+"id": "arcygobius-baliurus",
+"scientificName": "Arcygobius baliurus",
+"name": "Isthmus goby",
+"family": "Gobiidae",
+"size": "Up to 83 mm SL",
+"rarity": "Rare",
+"inatId": 475954
+},
+{
+"id": "argentina-euchus",
+"scientificName": "Argentina euchus",
+"name": "Smooth argentine",
+"family": "Argentinidae",
+"size": "Up to 15 cm TL",
+"rarity": "Rare",
+"inatId": 608521
+},
+{
+"id": "arnoglossus-dalgleishi",
+"scientificName": "Arnoglossus dalgleishi",
+"name": "East-coast flounder",
+"family": "Bothidae",
+"size": "Up to 19 cm SL",
+"rarity": "Rare",
+"inatId": 529553
+},
+{
+"id": "aseraggodes-diringeri",
+"scientificName": "Aseraggodes diringeri",
+"name": "Reef sole",
+"family": "Soleidae",
+"size": "Up to 11 cm SL",
+"rarity": "Rare",
+"inatId": 417617
+},
+{
+"id": "atrobucca-nibe",
+"scientificName": "Atrobucca nibe",
+"name": "Japanese blackmouth croaker",
+"family": "Sciaenidae",
+"size": "Up to 45 cm TL",
+"rarity": "Rare",
+"inatId": 530763
+},
+{
+"id": "atrosalarias-fuscus",
+"scientificName": "Atrosalarias fuscus",
+"name": "Brown coral blenny",
+"family": "Blenniidae",
+"size": "Up to 14.5 cm TL",
+"rarity": "Rare",
+"inatId": 355399
+},
+{
+"id": "awaous-aeneofuscus",
+"scientificName": "Awaous aeneofuscus",
+"name": "Freshwater goby",
+"family": "Gobiidae",
+"size": "Up to 21.5 cm SL",
+"rarity": "Rare",
+"inatId": 614328
+},
+{
+"id": "bathygobius-cotticeps",
+"scientificName": "Bathygobius cotticeps",
+"name": "Scaly-cheek frillgoby",
+"family": "Gobiidae",
+"size": "Up to 105 mm SL",
+"rarity": "Rare",
+"inatId": 489362
+},
+{
+"id": "bathyphylax-bombifrons",
+"scientificName": "Bathyphylax bombifrons",
+"family": "Triacanthodidae",
+"size": "Up to 93 mm SL",
+"rarity": "Rare",
+"inatId": 531058
+},
+{
+"id": "bathysolea-lagarderae",
+"scientificName": "Bathysolea lagarderae",
+"name": "Madagascar sole",
+"family": "Soleidae",
+"size": "Up to 12 cm SL",
+"rarity": "Rare",
+"inatId": 620996
+},
+{
+"id": "bembrops-nematopterus",
+"scientificName": "Bembrops nematopterus",
+"family": "Percophidae",
+"size": "Up to 19.5 cm SL",
+"rarity": "Rare",
+"inatId": 619088
+},
+{
+"id": "benthodesmus-elongatus",
+"scientificName": "Benthodesmus elongatus",
+"name": "Elongate frostfish",
+"family": "Trichiuridae",
+"size": "Up to 100 cm SL",
+"rarity": "Rare",
+"inatId": 317536
+},
+{
+"id": "bodianus-macrognathos",
+"scientificName": "Bodianus macrognathos",
+"name": "Giant hogfish",
+"family": "Labridae",
+"size": "Up to 83 cm TL",
+"rarity": "Rare",
+"inatId": 95828
+},
+{
+"id": "bodianus-opercularis",
+"scientificName": "Bodianus opercularis",
+"name": "Red-striped hogfish",
+"family": "Labridae",
+"size": "Up to 18 cm TL",
+"rarity": "Rare",
+"inatId": 95834
+},
+{
+"id": "bothus-mancus",
+"scientificName": "Bothus mancus",
+"name": "Peacock flounder",
+"family": "Bothidae",
+"size": "Up to 47 cm SL",
+"rarity": "Rare",
+"inatId": 95920
+},
+{
+"id": "brama-orcini",
+"scientificName": "Brama orcini",
+"name": "Tropical pomfret",
+"family": "Bramidae",
+"size": "Up to 35 cm TL",
+"rarity": "Rare",
+"inatId": 529608
+},
+{
+"id": "bulbonaricus-davaoensis",
+"scientificName": "Bulbonaricus davaoensis",
+"name": "Davao pughead pipefish",
+"family": "Syngnathidae",
+"size": "Up to 43 mm SL",
+"rarity": "Rare",
+"inatId": 530950
+},
+{
+"id": "caesio-varilineata",
+"scientificName": "Caesio varilineata",
+"name": "Variable-lined fusilier",
+"family": "Caesionidae",
+"size": "Up to 40 cm TL",
+"rarity": "Uncommon",
+"inatId": 448078
+},
+{
+"id": "callechelys-bitaeniata",
+"scientificName": "Callechelys bitaeniata",
+"name": "Bicoloured snake-eel",
+"family": "Ophichthidae",
+"size": "Up to 82 cm TL",
+"rarity": "Rare",
+"inatId": 96452
+},
+{
+"id": "callionymus-africanus",
+"scientificName": "Callionymus africanus",
+"name": "African deepwater dragonet",
+"family": "Callionymidae",
+"size": "Up to 13 cm TL",
+"rarity": "Rare",
+"inatId": 609754
+},
+{
+"id": "callogobius-plumatus",
+"scientificName": "Callogobius plumatus",
+"name": "Feather goby",
+"family": "Gobiidae",
+"size": "Up to 41 mm SL",
+"rarity": "Rare",
+"inatId": 614389
+},
+{
+"id": "carangoides-gymnostethus",
+"scientificName": "Carangoides gymnostethus",
+"name": "Bludger",
+"family": "Carangidae",
+"size": "Up to 90 cm TL",
+"rarity": "Common",
+"inatId": 1360114
+},
+{
+"id": "carangoides-hedlandensis",
+"scientificName": "Carangoides hedlandensis",
+"name": "Bumpnose trevally",
+"family": "Carangidae",
+"size": "Up to 35 cm TL",
+"rarity": "Rare",
+"inatId": 1360113
+},
+{
+"id": "carcharhinus-albimarginatus",
+"scientificName": "Carcharhinus albimarginatus",
+"name": "Silvertip shark",
+"family": "Carcharhinidae",
+"size": "Up to 3 m TL",
+"rarity": "Common",
+"inatId": 52315
+},
+{
+"id": "carcharhinus-amblyrhynchos",
+"scientificName": "Carcharhinus amblyrhynchos",
+"name": "Grey reef shark",
+"family": "Carcharhinidae",
+"size": "Up to 255 cm TL",
+"rarity": "Common",
+"inatId": 67970
+},
+{
+"id": "carcharodon-carcharias",
+"scientificName": "Carcharodon carcharias",
+"name": "White shark",
+"family": "Lamnidae",
+"size": "Up to 6.4 m TL",
+"rarity": "Uncommon",
+"inatId": 50873
+},
+{
+"id": "cephalopholis-sexmaculata",
+"scientificName": "Cephalopholis sexmaculata",
+"name": "Sixblotch hind",
+"family": "Epinephelidae",
+"size": "Up to 50 cm TL",
+"rarity": "Rare",
+"inatId": 97003
+},
+{
+"id": "chaetodon-blackburnii",
+"scientificName": "Chaetodon blackburnii",
+"name": "Blackburnie",
+"family": "Chaetodontidae",
+"size": "Up to 13 cm TL",
+"rarity": "Rare",
+"inatId": 97148
+},
+{
+"id": "champsodon-capensis",
+"scientificName": "Champsodon capensis",
+"name": "Cape gaper",
+"family": "Champsodontidae",
+"size": "Up to 12 cm SL",
+"rarity": "Rare",
+"inatId": 97263
+},
+{
+"id": "chaunax-heemstraorum",
+"scientificName": "Chaunax heemstraorum",
+"name": "Heemstras’ frogmouth",
+"family": "Chaunacidae",
+"size": "Up to 25 cm TL",
+"rarity": "Rare",
+"inatId": 786180
+},
+{
+"id": "chaunax-penicillatus",
+"scientificName": "Chaunax penicillatus",
+"name": "Pencil coffinfish",
+"family": "Chaunacidae",
+"size": "Up to 35 cm TL",
+"rarity": "Rare",
+"inatId": 529767
+},
+{
+"id": "cheilopogon-cyanopterus",
+"scientificName": "Cheilopogon cyanopterus",
+"name": "Blackwing flyingfish",
+"family": "Exocoetidae",
+"size": "Up to 34 cm SL",
+"rarity": "Rare",
+"inatId": 317045
+},
+{
+"id": "chirocentrus-nudus",
+"scientificName": "Chirocentrus nudus",
+"name": "Pale-fin wolf-herring",
+"family": "Chirocentridae",
+"size": "Up to 120 cm SL",
+"rarity": "Rare",
+"inatId": 368232
+},
+{
+"id": "chlopsis-dentatus",
+"scientificName": "Chlopsis dentatus",
+"name": "Mottled false moray",
+"family": "Chlopsidae",
+"size": "Up to 20 cm TL",
+"rarity": "Rare",
+"inatId": 317052
+},
+{
+"id": "choeroichthys-sculptus",
+"scientificName": "Choeroichthys sculptus",
+"name": "Sculptured pipefish",
+"family": "Syngnathidae",
+"size": "Up to 80 mm SL",
+"rarity": "Rare",
+"inatId": 530957
+},
+{
+"id": "chromis-nigroanalis",
+"scientificName": "Chromis nigroanalis",
+"name": "Kenyan chromis",
+"family": "Pomacentridae",
+"size": "Up to 12 cm TL",
+"rarity": "Rare",
+"inatId": 447715
+},
+{
+"id": "cirrhilabrus-rubriventralis",
+"scientificName": "Cirrhilabrus rubriventralis",
+"name": "Social fairy wrasse",
+"family": "Labridae",
+"size": "Up to 8 cm TL",
+"rarity": "Common",
+"inatId": 97865
+},
+{
+"id": "cirripectes-filamentosus",
+"scientificName": "Cirripectes filamentosus",
+"name": "Filamentous blenny",
+"family": "Blenniidae",
+"size": "Up to 80 mm TL",
+"rarity": "Rare",
+"inatId": 97886
+},
+{
+"id": "cirripectes-perustus",
+"scientificName": "Cirripectes perustus",
+"name": "Flaming blenny",
+"family": "Blenniidae",
+"size": "Up to 85 mm TL",
+"rarity": "Rare",
+"inatId": 358415
+},
+{
+"id": "cirripectes-polyzona",
+"scientificName": "Cirripectes polyzona",
+"name": "Barred blenny",
+"family": "Blenniidae",
+"size": "Up to 75 mm TL",
+"rarity": "Rare",
+"inatId": 318931
+},
+{
+"id": "cirripectes-quagga",
+"scientificName": "Cirripectes quagga",
+"name": "Squiggly blenny",
+"family": "Blenniidae",
+"size": "Up to 80 mm TL",
+"rarity": "Rare",
+"inatId": 445790
+},
+{
+"id": "citharoides-macrolepis",
+"scientificName": "Citharoides macrolepis",
+"name": "Two-spot large-scaled flounder",
+"family": "Citharidae",
+"size": "Up to 25 cm TL",
+"rarity": "Rare",
+"inatId": 1316522
+},
+{
+"id": "cociella-heemstrai",
+"scientificName": "Cociella heemstrai",
+"name": "Yellowtail flathead",
+"family": "Platycephalidae",
+"size": "Up to 30 cm TL",
+"rarity": "Rare",
+"inatId": 619294
+},
+{
+"id": "coelacanth",
+"scientificName": "Latimeria chalumnae",
+"name": "Coelacanth",
+"family": "Latimeriidae",
+"size": "Up to 190 cm TL",
+"rarity": "Rare",
+"inatId": 104109
+},
+{
+"id": "coryogalops-sordidus",
+"scientificName": "Coryogalops sordidus",
+"name": "Epaulette coryogalops",
+"family": "Gobiidae",
+"size": "Up to 52 mm SL",
+"rarity": "Rare",
+"inatId": 1316462
+},
+{
+"id": "crossorhombus-valderostratus",
+"scientificName": "Crossorhombus valderostratus",
+"name": "Broadbrow flounder",
+"family": "Bothidae",
+"size": "Up to 14 cm SL",
+"rarity": "Rare",
+"inatId": 529570
+},
+{
+"id": "cryptocentrus-caeruleomaculatus",
+"scientificName": "Cryptocentrus caeruleomaculatus",
+"name": "Blue-spotted shrimpgoby",
+"family": "Gobiidae",
+"size": "Up to 60 mm SL",
+"rarity": "Rare",
+"inatId": 319768
+},
+{
+"id": "cryptocentrus-caeruleopunctatus",
+"scientificName": "Cryptocentrus caeruleopunctatus",
+"name": "(Rüppell 1830)",
+"family": "Gobiidae",
+"size": "Up to 97 mm SL",
+"rarity": "Rare",
+"inatId": 578042
+},
+{
+"id": "cryptocentrus-malindiensis",
+"scientificName": "Cryptocentrus malindiensis",
+"name": "Chocolate shrimpgoby",
+"family": "Gobiidae",
+"size": "Up to 48 mm SL",
+"rarity": "Rare",
+"inatId": 614437
+},
+{
+"id": "cubiceps-whiteleggii",
+"scientificName": "Cubiceps whiteleggii",
+"name": "Shadow cigarfish",
+"family": "Nomeidae",
+"size": "Up to 21 cm SL",
+"rarity": "Rare",
+"inatId": 530491
+},
+{
+"id": "cymolutes-praetextatus",
+"scientificName": "Cymolutes praetextatus",
+"name": "Knifefish",
+"family": "Labridae",
+"size": "Up to 12 cm TL",
+"rarity": "Rare",
+"inatId": 98857
+},
+{
+"id": "cynoglossus-attenuatus",
+"scientificName": "Cynoglossus attenuatus",
+"name": "Fourline tonguefish",
+"family": "Cynoglossidae",
+"size": "Up to 31 cm SL",
+"rarity": "Rare",
+"inatId": 612372
+},
+{
+"id": "cynoglossus-durbanensis",
+"scientificName": "Cynoglossus durbanensis",
+"name": "Durban tonguefish",
+"family": "Cynoglossidae",
+"size": "Up to 20 cm SL",
+"rarity": "Rare",
+"inatId": 612377
+},
+{
+"id": "cynoglossus-lida",
+"scientificName": "Cynoglossus lida",
+"name": "Roughscale tonguefish",
+"family": "Cynoglossidae",
+"size": "Up to 20 cm SL",
+"rarity": "Rare",
+"inatId": 479467
+},
+{
+"id": "cynoglossus-zanzibarensis",
+"scientificName": "Cynoglossus zanzibarensis",
+"name": "Redspotted tonguesole",
+"family": "Cynoglossidae",
+"size": "Up to 32 cm SL",
+"rarity": "Common",
+"inatId": 612406
+},
+{
+"id": "cypselurus-hexazona",
+"scientificName": "Cypselurus hexazona",
+"name": "Darkbar flyingfish",
+"family": "Exocoetidae",
+"size": "Up to 18 cm SL",
+"rarity": "Very Rare",
+"inatId": 529881
+},
+{
+"id": "cypselurus-oligolepis",
+"scientificName": "Cypselurus oligolepis",
+"name": "Largescale flyingfish",
+"family": "Exocoetidae",
+"size": "Up to 18 cm SL",
+"rarity": "Rare",
+"inatId": 529883
+},
+{
+"id": "dascyllus-aruanus",
+"scientificName": "Dascyllus aruanus",
+"name": "Zebra humbug",
+"family": "Pomacentridae",
+"size": "Up to 9 cm TL",
+"rarity": "Rare",
+"inatId": 952775
+},
+{
+"id": "decapterus-kurroides",
+"scientificName": "Decapterus kurroides",
+"name": "Redtail scad",
+"family": "Carangidae",
+"size": "Up to 45 cm TL",
+"rarity": "Rare",
+"inatId": 529701
+},
+{
+"id": "decapterus-tabl",
+"scientificName": "Decapterus tabl",
+"name": "Roughear scad",
+"family": "Carangidae",
+"size": "Up to 50 cm TL",
+"rarity": "Rare",
+"inatId": 123660
+},
+{
+"id": "deveximentum-insidiator",
+"scientificName": "Deveximentum insidiator",
+"name": "Slender soapy",
+"family": "Leiognathidae",
+"size": "Up to 9 cm SL",
+"rarity": "Rare",
+"inatId": 1316656
+},
+{
+"id": "dinoperca-petersi",
+"scientificName": "Dinoperca petersi",
+"name": "Cavebass or lampfish",
+"family": "Dinopercidae",
+"size": "Up to 75 cm TL",
+"rarity": "Rare",
+"inatId": 347572
+},
+{
+"id": "dipturus-springeri",
+"scientificName": "Dipturus springeri",
+"name": "Roughbelly skate",
+"family": "Rajidae",
+"size": "Up to 190 cm TL",
+"rarity": "Uncommon",
+"inatId": 99419
+},
+{
+"id": "draconetta-xenica",
+"scientificName": "Draconetta xenica",
+"name": "Highfin slope dragonet",
+"family": "Draconettidae",
+"size": "Up to 9 cm SL",
+"rarity": "Rare",
+"inatId": 613912
+},
+{
+"id": "drepane-longimana",
+"scientificName": "Drepane longimana",
+"name": "Sicklefish or concertina fish",
+"family": "Drepaneidae",
+"size": "Up to 50 cm TL",
+"rarity": "Rare",
+"inatId": 461216
+},
+{
+"id": "drepane-punctata",
+"scientificName": "Drepane punctata",
+"name": "Spotted sicklefish",
+"family": "Drepaneidae",
+"size": "Up to 50 cm TL",
+"rarity": "Rare",
+"inatId": 461214
+},
+{
+"id": "echidna-unicolor",
+"scientificName": "Echidna unicolor",
+"name": "Unicolor moray",
+"family": "Muraenidae",
+"size": "Up to 36 cm TL",
+"rarity": "Uncommon",
+"inatId": 617659
+},
+{
+"id": "ectreposebastes-imus",
+"scientificName": "Ectreposebastes imus",
+"name": "Midwater scorpionfish",
+"family": "Setarchidae",
+"size": "Up to 18 cm SL",
+"rarity": "Rare",
+"inatId": 194912
+},
+{
+"id": "eleotris-fusca",
+"scientificName": "Eleotris fusca",
+"name": "Dusky sleeper",
+"family": "Eleotridae",
+"size": "Up to 22 cm SL",
+"rarity": "Rare",
+"inatId": 99792
+},
+{
+"id": "enchelycore-pardalis",
+"scientificName": "Enchelycore pardalis",
+"name": "Dragon moray",
+"family": "Muraenidae",
+"size": "Up to 92 cm TL",
+"rarity": "Rare",
+"inatId": 120940
+},
+{
+"id": "encrasicholina-devisi",
+"scientificName": "Encrasicholina devisi",
+"name": "De Vis’s anchovy",
+"family": "Engraulidae",
+"size": "Up to 8 cm SL",
+"rarity": "Rare"
+},
+{
+"id": "enneapterygius-abeli",
+"scientificName": "Enneapterygius abeli",
+"name": "Yellow triplefin",
+"family": "Tripterygiidae",
+"size": "Up to 30 mm SL",
+"rarity": "Rare",
+"inatId": 99996
+},
+{
+"id": "enneapterygius-clarkae",
+"scientificName": "Enneapterygius clarkae",
+"name": "Clark’s triplefin",
+"family": "Tripterygiidae",
+"size": "Up to 27 mm SL",
+"rarity": "Rare",
+"inatId": 445942
+},
+{
+"id": "enneapterygius-elegans",
+"scientificName": "Enneapterygius elegans",
+"name": "Hourglass triplefin",
+"family": "Tripterygiidae",
+"size": "Up to 35 mm SL",
+"rarity": "Rare",
+"inatId": 445946
+},
+{
+"id": "enneapterygius-fasciatus",
+"scientificName": "Enneapterygius fasciatus",
+"name": "Banded triplefin",
+"family": "Tripterygiidae",
+"size": "Up to 30 mm SL",
+"rarity": "Rare",
+"inatId": 445948
+},
+{
+"id": "enneapterygius-philippinus",
+"scientificName": "Enneapterygius philippinus",
+"name": "Minute triplefin",
+"family": "Tripterygiidae",
+"size": "Up to 30 mm SL",
+"rarity": "Rare",
+"inatId": 445971
+},
+{
+"id": "entomacrodus-striatus",
+"scientificName": "Entomacrodus striatus",
+"name": "Pearly rockskipper",
+"family": "Blenniidae",
+"size": "Up to 11 cm TL",
+"rarity": "Common",
+"inatId": 446006
+},
+{
+"id": "epinephelus-chabaudi",
+"scientificName": "Epinephelus chabaudi",
+"name": "Moustache grouper",
+"family": "Epinephelidae",
+"size": "Up to 137 cm TL",
+"rarity": "Rare"
+},
+{
+"id": "epinephelus-morrhua",
+"scientificName": "Epinephelus morrhua",
+"name": "Contour grouper, comet grouper",
+"family": "Epinephelidae",
+"size": "Up to 61 cm SL",
+"rarity": "Rare",
+"inatId": 50114
+},
+{
+"id": "epinephelus-ongus",
+"scientificName": "Epinephelus ongus",
+"name": "Whitestreaked grouper",
+"family": "Epinephelidae",
+"size": "Up to 25 cm SL",
+"rarity": "Rare",
+"inatId": 100124
+},
+{
+"id": "epinephelus-polyphekadion",
+"scientificName": "Epinephelus polyphekadion",
+"name": "Camouflage grouper",
+"family": "Epinephelidae",
+"size": "Up to 61 cm SL",
+"rarity": "Uncommon",
+"inatId": 100127
+},
+{
+"id": "epinephelus-undulosus",
+"scientificName": "Epinephelus undulosus",
+"name": "Wavylined grouper",
+"family": "Epinephelidae",
+"size": "Up to 120 cm TL",
+"rarity": "Rare",
+"inatId": 100146
+},
+{
+"id": "erythrocles-schlegelii",
+"scientificName": "Erythrocles schlegelii",
+"name": "Dusky rover",
+"family": "Emmelichthyidae",
+"size": "Up to 72 cm TL",
+"rarity": "Rare",
+"inatId": 529850
+},
+{
+"id": "etelis-carbunculus",
+"scientificName": "Etelis carbunculus",
+"name": "Ruby snapper",
+"family": "Lutjanidae",
+"size": "Up to 110 cm FL",
+"rarity": "Rare",
+"inatId": 100430
+},
+{
+"id": "etelis-coruscans",
+"scientificName": "Etelis coruscans",
+"name": "Flame snapper",
+"family": "Lutjanidae",
+"size": "Up to 120 cm FL",
+"rarity": "Rare",
+"inatId": 410999
+},
+{
+"id": "etmopterus-sentosus",
+"scientificName": "Etmopterus sentosus",
+"name": "Thorny lanternshark",
+"family": "Etmopteridae",
+"size": "Up to 27 cm TL",
+"rarity": "Rare",
+"inatId": 100596
+},
+{
+"id": "eugnathogobius-indicus",
+"scientificName": "Eugnathogobius indicus",
+"name": "Mangrove mud goby",
+"family": "Gobiidae",
+"size": "Up to 33 mm SL",
+"rarity": "Rare",
+"inatId": 614482
+},
+{
+"id": "florenciella-lugubris",
+"scientificName": "Florenciella lugubris",
+"family": "Epigonidae",
+"size": "Up to 10 cm SL",
+"rarity": "Rare",
+"inatId": 614107
+},
+{
+"id": "fowleria-variegata",
+"scientificName": "Fowleria variegata",
+"name": "Variegated cardinalfish",
+"family": "Apogonidae",
+"size": "Up to 75 mm SL",
+"rarity": "Rare",
+"inatId": 529429
+},
+{
+"id": "fusigobius-inframaculatus",
+"scientificName": "Fusigobius inframaculatus",
+"name": "Innerspot fusegoby",
+"family": "Gobiidae",
+"size": "Up to 67 mm SL",
+"rarity": "Rare",
+"inatId": 318320
+},
+{
+"id": "gazza-minuta",
+"scientificName": "Gazza minuta",
+"name": "Toothed ponyfish",
+"family": "Leiognathidae",
+"size": "Up to 13 cm SL",
+"rarity": "Rare",
+"inatId": 187417
+},
+{
+"id": "gazza-squamiventralis",
+"scientificName": "Gazza squamiventralis",
+"name": "Scaled belly toothpony",
+"family": "Leiognathidae",
+"size": "Up to 10.5 cm SL",
+"rarity": "Rare",
+"inatId": 615718
+},
+{
+"id": "genicanthus-caudovittatus",
+"scientificName": "Genicanthus caudovittatus",
+"name": "Swallowtail angelfish",
+"family": "Pomacanthidae",
+"size": "Up to 20 cm TL",
+"rarity": "Rare",
+"inatId": 101332
+},
+{
+"id": "gephyroberyx-darwinii",
+"scientificName": "Gephyroberyx darwinii",
+"name": "Darwin’s slimehead",
+"family": "Trachichthyidae",
+"size": "Up to 50 cm TL",
+"rarity": "Rare",
+"inatId": 220369
+},
+{
+"id": "gerres-filamentosus",
+"scientificName": "Gerres filamentosus",
+"name": "Whipfin silverbiddy",
+"family": "Gerreidae",
+"size": "Up to 30 cm TL",
+"rarity": "Rare",
+"inatId": 187419
+},
+{
+"id": "glyptoparus-delicatulus",
+"scientificName": "Glyptoparus delicatulus",
+"name": "Delicate blenny",
+"family": "Blenniidae",
+"size": "Up to 30 mm SL",
+"rarity": "Rare",
+"inatId": 446041
+},
+{
+"id": "gnathophis-heterolinea",
+"scientificName": "Gnathophis heterolinea",
+"name": "Outershelf conger",
+"family": "Congridae",
+"size": "Up to 24 cm TL",
+"rarity": "Rare",
+"inatId": 611976
+},
+{
+"id": "gunnellichthys-copleyi",
+"scientificName": "Gunnellichthys copleyi",
+"name": "Copley’s wormfish",
+"family": "Microdesmidae",
+"size": "Up to 120 mm TL",
+"rarity": "Rare",
+"inatId": 530354
+},
+{
+"id": "gymnapogon-africanus",
+"scientificName": "Gymnapogon africanus",
+"name": "Crystal cardinalfish",
+"family": "Apogonidae",
+"size": "Up to 50 mm SL",
+"rarity": "Rare",
+"inatId": 608334
+},
+{
+"id": "gymnocaesio-gymnoptera",
+"scientificName": "Gymnocaesio gymnoptera",
+"name": "Slender fusilier",
+"family": "Caesionidae",
+"size": "Up to 18 cm SL",
+"rarity": "Rare",
+"inatId": 183182
+},
+{
+"id": "gymnocranius-elongatus",
+"scientificName": "Gymnocranius elongatus",
+"name": "Forktail large-eye bream",
+"family": "Lethrinidae",
+"size": "Up to 35 cm TL",
+"rarity": "Rare",
+"inatId": 530193
+},
+{
+"id": "gymnothorax-margaritophorus",
+"scientificName": "Gymnothorax margaritophorus",
+"name": "Blackpearl moray",
+"family": "Muraenidae",
+"size": "Up to 47 cm TL",
+"rarity": "Common",
+"inatId": 617690
+},
+{
+"id": "halidesmus-polytretus",
+"scientificName": "Halidesmus polytretus",
+"family": "Pseudochromidae",
+"size": "Up to 5.5 cm SL",
+"rarity": "Rare",
+"inatId": 619757
+},
+{
+"id": "halimuraena-hexagonata",
+"scientificName": "Halimuraena hexagonata",
+"family": "Pseudochromidae",
+"size": "Up to 6 cm SL",
+"rarity": "Rare",
+"inatId": 619761
+},
+{
+"id": "harpadon-nehereus",
+"scientificName": "Harpadon nehereus",
+"name": "Bombay duck",
+"family": "Synodontidae",
+"size": "Up to 40 cm SL",
+"rarity": "Rare",
+"inatId": 512127
+},
+{
+"id": "helcogramma-ememes",
+"scientificName": "Helcogramma ememes",
+"family": "Tripterygiidae",
+"size": "Up to 39 mm SL",
+"rarity": "Rare",
+"inatId": 446077
+},
+{
+"id": "helcogramma-fuscopinna",
+"scientificName": "Helcogramma fuscopinna",
+"name": "Dusky-finned triplefin",
+"family": "Tripterygiidae",
+"size": "Up to 43 mm SL",
+"rarity": "Rare",
+"inatId": 446079
+},
+{
+"id": "helcogramma-rharhabe",
+"scientificName": "Helcogramma rharhabe",
+"name": "Hotlips",
+"family": "Tripterygiidae",
+"size": "Up to 38 mm SL",
+"rarity": "Rare",
+"inatId": 446089
+},
+{
+"id": "herklotsichthys-spilurus",
+"scientificName": "Herklotsichthys spilurus",
+"name": "Réunion herring",
+"family": "Clupeidae",
+"size": "Up to 9 cm SL",
+"rarity": "Rare",
+"inatId": 1315467
+},
+{
+"id": "hetereleotris-caminata",
+"scientificName": "Hetereleotris caminata",
+"name": "Mourner",
+"family": "Gobiidae",
+"size": "Up to 34 mm SL",
+"rarity": "Rare",
+"inatId": 614644
+},
+{
+"id": "hetereleotris-nebulofasciata",
+"scientificName": "Hetereleotris nebulofasciata",
+"name": "Cloudybarred goby",
+"family": "Gobiidae",
+"size": "Up to 35 mm SL",
+"rarity": "Rare",
+"inatId": 614649
+},
+{
+"id": "hetereleotris-tentaculata",
+"scientificName": "Hetereleotris tentaculata",
+"name": "Locusthead goby",
+"family": "Gobiidae",
+"size": "Up to 24 mm SL",
+"rarity": "Rare",
+"inatId": 614652
+},
+{
+"id": "hetereleotris-vulgaris",
+"scientificName": "Hetereleotris vulgaris",
+"name": "Ordinary Red Sea goby",
+"family": "Gobiidae",
+"size": "Up to 34 mm SL",
+"rarity": "Rare",
+"inatId": 102688
+},
+{
+"id": "hetereleotris-zanzibarensis",
+"scientificName": "Hetereleotris zanzibarensis",
+"name": "Goggle goby",
+"family": "Gobiidae",
+"size": "Up to 24 mm SL",
+"rarity": "Rare",
+"inatId": 614654
+},
+{
+"id": "heteropriacanthus-cruentatus",
+"scientificName": "Heteropriacanthus cruentatus",
+"name": "Glasseye",
+"family": "Priacanthidae",
+"size": "Up to 25 cm SL",
+"rarity": "Rare",
+"inatId": 63415
+},
+{
+"id": "hexanchus-nakamurai",
+"scientificName": "Hexanchus nakamurai",
+"name": "Bigeyed sixgill shark",
+"family": "Hexanchidae",
+"size": "Up to 180 cm TL",
+"rarity": "Rare",
+"inatId": 102744
+},
+{
+"id": "hippichthys-cyanospilos",
+"scientificName": "Hippichthys cyanospilos",
+"name": "Blue-speckled pipefish",
+"family": "Syngnathidae",
+"size": "Up to 156 mm SL",
+"rarity": "Rare",
+"inatId": 530974
+},
+{
+"id": "hirculops-cornifer",
+"scientificName": "Hirculops cornifer",
+"name": "Highbrow blenny",
+"family": "Blenniidae",
+"size": "Up to 60 mm SL",
+"rarity": "Rare",
+"inatId": 446116
+},
+{
+"id": "holohalaelurus-grennian",
+"scientificName": "Holohalaelurus grennian",
+"name": "Grinning Izak",
+"family": "Pentanchidae",
+"size": "Up to 27 cm TL",
+"rarity": "Very Rare",
+"inatId": 102903
+},
+{
+"id": "hypoatherina-barnesi",
+"scientificName": "Hypoatherina barnesi",
+"name": "Slender silverside",
+"family": "Atherinidae",
+"size": "Up to 10 cm SL",
+"rarity": "Rare",
+"inatId": 529509
+},
+{
+"id": "hypogaleus-hyugaensis",
+"scientificName": "Hypogaleus hyugaensis",
+"name": "Blacktip tope",
+"family": "Triakidae",
+"size": "Up to 130 cm TL",
+"rarity": "Rare",
+"inatId": 103093
+},
+{
+"id": "ichthyapus-vulturis",
+"scientificName": "Ichthyapus vulturis",
+"name": "Vulture sand-eel",
+"family": "Ophichthidae",
+"size": "Up to 45 cm TL",
+"rarity": "Rare",
+"inatId": 618497
+},
+{
+"id": "istiblennius-dussumieri",
+"scientificName": "Istiblennius dussumieri",
+"name": "Streaky rockskipper",
+"family": "Blenniidae",
+"size": "Up to 12 cm TL",
+"rarity": "Rare",
+"inatId": 446124
+},
+{
+"id": "istigobius-spence",
+"scientificName": "Istigobius spence",
+"name": "Pearl sandgoby",
+"family": "Gobiidae",
+"size": "Up to 50 mm SL",
+"rarity": "Rare",
+"inatId": 530050
+},
+{
+"id": "jaydia-novaeguineae",
+"scientificName": "Jaydia novaeguineae",
+"family": "Apogonidae",
+"size": "Up to 89 mm SL",
+"rarity": "Rare",
+"inatId": 608345
+},
+{
+"id": "johnius-dorsalis",
+"scientificName": "Johnius dorsalis",
+"name": "African croaker",
+"family": "Sciaenidae",
+"size": "Up to 23 cm TL",
+"rarity": "Rare",
+"inatId": 620319
+},
+{
+"id": "kuhlia-rupestris",
+"scientificName": "Kuhlia rupestris",
+"name": "River flagtail",
+"family": "Kuhliidae",
+"size": "Up to 45 cm TL",
+"rarity": "Rare",
+"inatId": 187583
+},
+{
+"id": "laeops-pectoralis",
+"scientificName": "Laeops pectoralis",
+"name": "Longarm flounder",
+"family": "Bothidae",
+"size": "Up to 19 cm SL",
+"rarity": "Rare",
+"inatId": 609363
+},
+{
+"id": "lagocephalus-inermis",
+"scientificName": "Lagocephalus inermis",
+"name": "Smooth puffer",
+"family": "Tetraodontidae",
+"size": "Up to 56 cm TL",
+"rarity": "Rare",
+"inatId": 446146
+},
+{
+"id": "leiognathus-equula",
+"scientificName": "Leiognathus equula",
+"name": "Common ponyfish",
+"family": "Leiognathidae",
+"size": "Up to 18.5 cm SL",
+"rarity": "Rare",
+"inatId": 1316670
+},
+{
+"id": "lepidocybium-flavobrunneum",
+"scientificName": "Lepidocybium flavobrunneum",
+"name": "Escolar",
+"family": "Gempylidae",
+"size": "Up to 200 cm SL",
+"rarity": "Rare",
+"inatId": 194677
+},
+{
+"id": "lethrinus-crocineus",
+"scientificName": "Lethrinus crocineus",
+"name": "Yellowtail emperor",
+"family": "Lethrinidae",
+"size": "Up to 55 cm TL",
+"rarity": "Rare",
+"inatId": 344866
+},
+{
+"id": "lethrinus-variegatus",
+"scientificName": "Lethrinus variegatus",
+"name": "Slender emperor",
+"family": "Lethrinidae",
+"size": "Up to 20 cm TL",
+"rarity": "Rare",
+"inatId": 132394
+},
+{
+"id": "liopropoma-africanum",
+"scientificName": "Liopropoma africanum",
+"name": "African basslet",
+"family": "Epinephelidae",
+"size": "Up to 7 cm SL",
+"rarity": "Rare",
+"inatId": 620595
+},
+{
+"id": "lutjanus-johnii",
+"scientificName": "Lutjanus johnii",
+"name": "Silver snapper",
+"family": "Lutjanidae",
+"size": "Up to 70 cm TL",
+"rarity": "Rare",
+"inatId": 335690
+},
+{
+"id": "macolor-macularis",
+"scientificName": "Macolor macularis",
+"name": "Midnight snapper",
+"family": "Lutjanidae",
+"size": "Up to 70 cm TL",
+"rarity": "Rare",
+"inatId": 135281
+},
+{
+"id": "macrorhamphosodes-platycheilus",
+"scientificName": "Macrorhamphosodes platycheilus",
+"name": "Trumpetsnout",
+"family": "Triacanthodidae",
+"size": "Up to 105 mm SL",
+"rarity": "Rare",
+"inatId": 531061
+},
+{
+"id": "macrorhamphosodes-uradoi",
+"scientificName": "Macrorhamphosodes uradoi",
+"name": "Trumpetsnout",
+"family": "Triacanthodidae",
+"size": "Up to 211 mm SL",
+"rarity": "Rare",
+"inatId": 531062
+},
+{
+"id": "marleyella-bicolorata",
+"scientificName": "Marleyella bicolorata",
+"name": "Comb flounder",
+"family": "Poecilopsettidae",
+"size": "Up to 19 cm TL",
+"rarity": "Rare",
+"inatId": 619377
+},
+{
+"id": "meganthias-natalensis",
+"scientificName": "Meganthias natalensis",
+"name": "Goliath basslet",
+"family": "Anthiadidae",
+"size": "Up to 40 cm SL",
+"rarity": "Rare",
+"inatId": 620621
+},
+{
+"id": "microphis-fluviatilis",
+"scientificName": "Microphis fluviatilis",
+"name": "Freshwater pipefish",
+"family": "Syngnathidae",
+"size": "Up to 200 mm SL",
+"rarity": "Rare",
+"inatId": 621465
+},
+{
+"id": "microphis-millepunctatus",
+"scientificName": "Microphis millepunctatus",
+"name": "Thousand-spot river pipefish",
+"family": "Syngnathidae",
+"size": "Up to 154 mm SL",
+"rarity": "Rare",
+"inatId": 621468
+},
+{
+"id": "muraenesox-bagio",
+"scientificName": "Muraenesox bagio",
+"name": "Common pike conger",
+"family": "Muraenesocidae",
+"size": "Up to 200 cm TL",
+"rarity": "Rare",
+"inatId": 194669
+},
+{
+"id": "mustelus-manazo",
+"scientificName": "Mustelus manazo",
+"name": "Starspotted smoothhound",
+"family": "Triakidae",
+"size": "Up to 117 cm TL",
+"rarity": "Rare",
+"inatId": 106262
+},
+{
+"id": "myripristis-berndti",
+"scientificName": "Myripristis berndti",
+"name": "Bigscale soldierfish",
+"family": "Holocentridae",
+"size": "Up to 30 cm TL",
+"rarity": "Rare",
+"inatId": 49622
+},
+{
+"id": "neobythites-kenyaensis",
+"scientificName": "Neobythites kenyaensis",
+"family": "Ophidiidae",
+"size": "Up to 16 cm SL",
+"rarity": "Rare",
+"inatId": 618729
+},
+{
+"id": "neoepinnula-orientalis",
+"scientificName": "Neoepinnula orientalis",
+"name": "Sackfish",
+"family": "Gempylidae",
+"size": "Up to 30 cm SL",
+"rarity": "Rare",
+"inatId": 459257
+},
+{
+"id": "neomerinthe-erostris",
+"scientificName": "Neomerinthe erostris",
+"name": "Bluntnose scorpionfish",
+"family": "Scorpaenidae",
+"size": "Up to 9.5 cm SL",
+"rarity": "Rare",
+"inatId": 620440
+},
+{
+"id": "neopomacentrus-taeniurus",
+"scientificName": "Neopomacentrus taeniurus",
+"name": "Freshwater demoiselle",
+"family": "Pomacentridae",
+"size": "Up to 10 cm TL",
+"rarity": "Rare",
+"inatId": 187773
+},
+{
+"id": "norfolkia-brachylepis",
+"scientificName": "Norfolkia brachylepis",
+"name": "Scalyhead triplefin",
+"family": "Tripterygiidae",
+"size": "Up to 50 mm SL",
+"rarity": "Rare",
+"inatId": 196715
+},
+{
+"id": "odontanthias-caudicinctus",
+"scientificName": "Odontanthias caudicinctus",
+"name": "Blackblotch swallowtail",
+"family": "Anthiadidae",
+"size": "Up to 17 cm SL",
+"rarity": "Rare",
+"inatId": 620624
+},
+{
+"id": "okamejei-heemstrai",
+"scientificName": "Okamejei heemstrai",
+"name": "East African skate",
+"family": "Rajidae",
+"size": "Up to 61 cm TL",
+"rarity": "Rare",
+"inatId": 107446
+},
+{
+"id": "onuxodon-fowleri",
+"scientificName": "Onuxodon fowleri",
+"name": "Pink pearlfish",
+"family": "Carapidae",
+"size": "Up to 10 cm TL",
+"rarity": "Rare",
+"inatId": 529718
+},
+{
+"id": "onuxodon-parvibrachium",
+"scientificName": "Onuxodon parvibrachium",
+"name": "Hookjaw pearlfish",
+"family": "Carapidae",
+"size": "Up to 10 cm TL",
+"rarity": "Rare",
+"inatId": 529720
+},
+{
+"id": "ophichthus-apicalis",
+"scientificName": "Ophichthus apicalis",
+"name": "Bluntnose snake-eel",
+"family": "Ophichthidae",
+"size": "Up to 45 cm TL",
+"rarity": "Rare",
+"inatId": 618532
+},
+{
+"id": "opistognathus-afer",
+"scientificName": "Opistognathus afer",
+"name": "African jawfish",
+"family": "Opistognathidae",
+"size": "Up to 5 cm TL",
+"rarity": "Rare",
+"inatId": 618806
+},
+{
+"id": "opistognathus-margaretae",
+"scientificName": "Opistognathus margaretae",
+"name": "Half-scaled jawfish",
+"family": "Opistognathidae",
+"size": "Up to 10 cm TL",
+"rarity": "Rare",
+"inatId": 618822
+},
+{
+"id": "opistognathus-muscatensis",
+"scientificName": "Opistognathus muscatensis",
+"name": "Robust jawfish",
+"family": "Opistognathidae",
+"size": "Up to 45 cm TL",
+"rarity": "Rare",
+"inatId": 618823
+},
+{
+"id": "ostorhinchus-taeniophorus",
+"scientificName": "Ostorhinchus taeniophorus",
+"name": "Reef-flat cardinalfish",
+"family": "Apogonidae",
+"size": "Up to 93 mm SL",
+"rarity": "Rare",
+"inatId": 516499
+},
+{
+"id": "otolithes-ruber",
+"scientificName": "Otolithes ruber",
+"name": "Tigertooth croaker",
+"family": "Sciaenidae",
+"size": "Up to 75 cm TL",
+"rarity": "Rare",
+"inatId": 530771
+},
+{
+"id": "owstonia-weberi",
+"scientificName": "Owstonia weberi",
+"family": "Cepolidae",
+"size": "Up to 52 cm TL",
+"rarity": "Rare",
+"inatId": 609979
+},
+{
+"id": "oxycheilinus-arenatus",
+"scientificName": "Oxycheilinus arenatus",
+"name": "Blackstripe wrasse",
+"family": "Labridae",
+"size": "Up to 21 cm TL",
+"rarity": "Rare",
+"inatId": 108073
+},
+{
+"id": "oxyurichthys-limophilus",
+"scientificName": "Oxyurichthys limophilus",
+"name": "Mudloving tentacle goby",
+"family": "Gobiidae",
+"size": "Up to 95 mm SL",
+"rarity": "Rare",
+"inatId": 871109
+},
+{
+"id": "oxyurichthys-notonema",
+"scientificName": "Oxyurichthys notonema",
+"name": "Elegant tentacle goby",
+"family": "Gobiidae",
+"size": "Up to 127 mm SL",
+"rarity": "Rare",
+"inatId": 614748
+},
+{
+"id": "oxyurichthys-ophthalmonema",
+"scientificName": "Oxyurichthys ophthalmonema",
+"name": "Tentacle goby",
+"family": "Gobiidae",
+"size": "Up to 91 mm SL",
+"rarity": "Rare",
+"inatId": 530072
+},
+{
+"id": "oxyurichthys-takagi",
+"scientificName": "Oxyurichthys takagi",
+"name": "Takagi’s tentacle goby",
+"family": "Gobiidae",
+"size": "Up to 49 mm SL",
+"rarity": "Rare",
+"inatId": 614754
+},
+{
+"id": "paracheilinus-attenuatus",
+"scientificName": "Paracheilinus attenuatus",
+"name": "Diamondtail flasher wrasse",
+"family": "Labridae",
+"size": "Up to 8 cm TL",
+"rarity": "Rare",
+"inatId": 108427
+},
+{
+"id": "paracheilinus-mccoskeri",
+"scientificName": "Paracheilinus mccoskeri",
+"name": "McCosker’s flasher wrasse",
+"family": "Labridae",
+"size": "Up to 7 cm TL",
+"rarity": "Rare",
+"inatId": 108435
+},
+{
+"id": "paragobiodon-xanthosoma",
+"scientificName": "Paragobiodon xanthosoma",
+"name": "Emerald coralgoby",
+"family": "Gobiidae",
+"size": "Up to 32 mm SL",
+"rarity": "Rare",
+"inatId": 470120
+},
+{
+"id": "paramonacanthus-frenatus",
+"scientificName": "Paramonacanthus frenatus",
+"name": "Wedge-tail filefish",
+"family": "Monacanthidae",
+"size": "Up to 12 cm TL",
+"rarity": "Rare",
+"inatId": 617416
+},
+{
+"id": "parascolopsis-eriomma",
+"scientificName": "Parascolopsis eriomma",
+"name": "Rosy dwarf monocle bream",
+"family": "Nemipteridae",
+"size": "Up to 26 cm SL",
+"rarity": "Rare",
+"inatId": 530468
+},
+{
+"id": "parascombrops-adeni",
+"scientificName": "Parascombrops adeni",
+"name": "Aden splitfin",
+"family": "Acropomatidae",
+"size": "Up to 9 cm SL",
+"rarity": "Rare"
+},
+{
+"id": "parascorpaena-aurita",
+"scientificName": "Parascorpaena aurita",
+"name": "Golden scorpionfish",
+"family": "Scorpaenidae",
+"size": "Up to 15 cm TL",
+"rarity": "Rare",
+"inatId": 530782
+},
+{
+"id": "parascorpaena-mcadamsi",
+"scientificName": "Parascorpaena mcadamsi",
+"name": "McAdam’s scorpionfish",
+"family": "Scorpaenidae",
+"size": "Up to 8 cm SL",
+"rarity": "Rare",
+"inatId": 530784
+},
+{
+"id": "parascorpaena-mossambica",
+"scientificName": "Parascorpaena mossambica",
+"name": "Mozambique scorpionfish",
+"family": "Scorpaenidae",
+"size": "Up to 12 cm SL",
+"rarity": "Rare",
+"inatId": 471233
+},
+{
+"id": "paratrypauchen-microcephalus",
+"scientificName": "Paratrypauchen microcephalus",
+"name": "Comb wormgoby",
+"family": "Gobiidae",
+"size": "Up to 15 cm SL",
+"rarity": "Rare",
+"inatId": 56662
+},
+{
+"id": "paraulopus-maculatus",
+"scientificName": "Paraulopus maculatus",
+"name": "African cucumberfish",
+"family": "Paraulopidae",
+"size": "Up to 10 cm SL",
+"rarity": "Rare",
+"inatId": 108750
+},
+{
+"id": "pardachirus-morrowi",
+"scientificName": "Pardachirus morrowi",
+"name": "Persian carpet sole",
+"family": "Soleidae",
+"size": "Up to 18 cm TL",
+"rarity": "Rare",
+"inatId": 621023
+},
+{
+"id": "parupeneus-heptacanthus",
+"scientificName": "Parupeneus heptacanthus",
+"name": "Cinnabar goatfish",
+"family": "Mullidae",
+"size": "Up to 29 cm SL",
+"rarity": "Rare",
+"inatId": 272556
+},
+{
+"id": "pempheris-shimoni",
+"scientificName": "Pempheris shimoni",
+"name": "Shimoni sweeper",
+"family": "Pempheridae",
+"rarity": "Rare",
+"inatId": 624007
+},
+{
+"id": "petroscirtes-breviceps",
+"scientificName": "Petroscirtes breviceps",
+"name": "Sabretooth blenny",
+"family": "Blenniidae",
+"size": "Up to 11.5 cm TL",
+"rarity": "Rare",
+"inatId": 318929
+},
+{
+"id": "phoxocampus-belcheri",
+"scientificName": "Phoxocampus belcheri",
+"name": "Rock pipefish",
+"family": "Syngnathidae",
+"size": "Up to 73 mm SL",
+"rarity": "Rare",
+"inatId": 531005
+},
+{
+"id": "phyllophichthus-xenodontus",
+"scientificName": "Phyllophichthus xenodontus",
+"name": "Flapnose snake-eel",
+"family": "Ophichthidae",
+"size": "Up to 42 cm TL",
+"rarity": "Rare",
+"inatId": 618581
+},
+{
+"id": "plectorhinchus-chubbi",
+"scientificName": "Plectorhinchus chubbi",
+"name": "Dusky rubberlips",
+"family": "Haemulidae",
+"size": "Up to 75 cm TL",
+"rarity": "Rare",
+"inatId": 342567
+},
+{
+"id": "plectranthias-longimanus",
+"scientificName": "Plectranthias longimanus",
+"name": "Longfin perchlet",
+"family": "Anthiadidae",
+"size": "Up to 3 cm SL",
+"rarity": "Common",
+"inatId": 1661578
+},
+{
+"id": "plectranthias-morgansi",
+"scientificName": "Plectranthias morgansi",
+"name": "Whitefin perchlet",
+"family": "Anthiadidae",
+"size": "Up to 5 cm SL",
+"rarity": "Rare",
+"inatId": 1661542
+},
+{
+"id": "plectroglyphidodon-imparipennis",
+"scientificName": "Plectroglyphidodon imparipennis",
+"name": "Brighteye damsel",
+"family": "Pomacentridae",
+"size": "Up to 6 cm TL",
+"rarity": "Rare",
+"inatId": 203922
+},
+{
+"id": "plectroglyphidodon-leucozonus",
+"scientificName": "Plectroglyphidodon leucozonus",
+"name": "Whiteband damsel",
+"family": "Pomacentridae",
+"size": "Up to 12 cm TL",
+"rarity": "Common",
+"inatId": 57337
+},
+{
+"id": "plectroglyphidodon-phoenixensis",
+"scientificName": "Plectroglyphidodon phoenixensis",
+"name": "Phoenix damsel",
+"family": "Pomacentridae",
+"size": "Up to 9 cm TL",
+"rarity": "Rare",
+"inatId": 57334
+},
+{
+"id": "plesiops-coeruleolineatus",
+"scientificName": "Plesiops coeruleolineatus",
+"name": "Redtip longfin",
+"family": "Plesiopidae",
+"size": "Up to 10 cm TL",
+"rarity": "Rare",
+"inatId": 475751
+},
+{
+"id": "poecilopsetta-natalensis",
+"scientificName": "Poecilopsetta natalensis",
+"name": "African righteye flounder",
+"family": "Poecilopsettidae",
+"size": "Up to 15 cm TL",
+"rarity": "Rare",
+"inatId": 530688
+},
+{
+"id": "poecilopsetta-zanzibarensis",
+"scientificName": "Poecilopsetta zanzibarensis",
+"name": "Zanzibar righteye flounder",
+"family": "Poecilopsettidae",
+"size": "Up to 16 cm TL",
+"rarity": "Rare",
+"inatId": 619392
+},
+{
+"id": "polydactylus-malagasyensis",
+"scientificName": "Polydactylus malagasyensis",
+"name": "African blackspot threadfin",
+"family": "Polynemidae",
+"size": "Up to 21 cm TL",
+"rarity": "Rare",
+"inatId": 619586
+},
+{
+"id": "polydactylus-plebeius",
+"scientificName": "Polydactylus plebeius",
+"name": "Striped threadfin",
+"family": "Polynemidae",
+"size": "Up to 55 cm TL",
+"rarity": "Rare",
+"inatId": 1647767
+},
+{
+"id": "polydactylus-sexfilis",
+"scientificName": "Polydactylus sexfilis",
+"name": "Sixfinger threadfin",
+"family": "Polynemidae",
+"size": "Up to 60 cm TL",
+"rarity": "Common",
+"inatId": 1647768
+},
+{
+"id": "polymixia-berndti",
+"scientificName": "Polymixia berndti",
+"name": "Indo-Pacific beardfish",
+"family": "Polymixiidae",
+"size": "Up to 48 cm SL",
+"rarity": "Rare",
+"inatId": 530708
+},
+{
+"id": "pomadasys-multimaculatus",
+"scientificName": "Pomadasys multimaculatus",
+"name": "Cock grunter",
+"family": "Haemulidae",
+"size": "Up to 76 cm TL",
+"rarity": "Rare",
+"inatId": 615164
+},
+{
+"id": "priolepis-inhaca",
+"scientificName": "Priolepis inhaca",
+"name": "Network goby",
+"family": "Gobiidae",
+"size": "Up to 34 mm SL",
+"rarity": "Rare",
+"inatId": 530094
+},
+{
+"id": "pristipomoides-multidens",
+"scientificName": "Pristipomoides multidens",
+"name": "Goldbanded jobfish",
+"family": "Lutjanidae",
+"size": "Up to 90 cm TL",
+"rarity": "Rare",
+"inatId": 338270
+},
+{
+"id": "pristipomoides-sieboldii",
+"scientificName": "Pristipomoides sieboldii",
+"name": "Lavender jobfish",
+"family": "Lutjanidae",
+"size": "Up to 60 cm TL",
+"rarity": "Rare",
+"inatId": 530244
+},
+{
+"id": "pristis-zijsron",
+"scientificName": "Pristis zijsron",
+"name": "Green sawfish",
+"family": "Pristidae",
+"size": "Up to 5.4 m TL",
+"rarity": "Rare",
+"inatId": 110382
+},
+{
+"id": "promethichthys-prometheus",
+"scientificName": "Promethichthys prometheus",
+"name": "Roudi",
+"family": "Gempylidae",
+"size": "Up to 100 cm SL",
+"rarity": "Rare",
+"inatId": 529909
+},
+{
+"id": "psenopsis-intermedia",
+"scientificName": "Psenopsis intermedia",
+"name": "Deep-bodied driftfish",
+"family": "Centrolophidae",
+"size": "Up to 15 cm TL",
+"rarity": "Rare",
+"inatId": 529733
+},
+{
+"id": "pseudamiops-pellucidus",
+"scientificName": "Pseudamiops pellucidus",
+"family": "Apogonidae",
+"size": "Up to 36 mm SL",
+"rarity": "Rare",
+"inatId": 608406
+},
+{
+"id": "pseudanthias-cooperi",
+"scientificName": "Pseudanthias cooperi",
+"name": "Silverstreak basslet",
+"family": "Anthiadidae",
+"size": "Up to 10 cm SL",
+"rarity": "Rare",
+"inatId": 362164
+},
+{
+"id": "pseudochromis-dutoiti",
+"scientificName": "Pseudochromis dutoiti",
+"name": "Dutoiti",
+"family": "Pseudochromidae",
+"size": "Up to 8.5 cm SL",
+"rarity": "Rare",
+"inatId": 619792
+},
+{
+"id": "pseudochromis-kristinae",
+"scientificName": "Pseudochromis kristinae",
+"name": "Lipstick dottyback",
+"family": "Pseudochromidae",
+"size": "Up to 9 cm SL",
+"rarity": "Rare",
+"inatId": 619799
+},
+{
+"id": "pseudochromis-melas",
+"scientificName": "Pseudochromis melas",
+"name": "Dark dottyback",
+"family": "Pseudochromidae",
+"size": "Up to 10 cm SL",
+"rarity": "Rare",
+"inatId": 619807
+},
+{
+"id": "pseudochromis-natalensis",
+"scientificName": "Pseudochromis natalensis",
+"name": "Natal dottyback",
+"family": "Pseudochromidae",
+"size": "Up to 9 cm SL",
+"rarity": "Rare",
+"inatId": 619810
+},
+{
+"id": "pseudochromis-tauberae",
+"scientificName": "Pseudochromis tauberae",
+"name": "African dottyback",
+"family": "Pseudochromidae",
+"size": "Up to 8 cm SL",
+"rarity": "Rare",
+"inatId": 619819
+},
+{
+"id": "pseudogramma-polyacantha",
+"scientificName": "Pseudogramma polyacantha",
+"name": "Honeycomb podge",
+"family": "Epinephelidae",
+"size": "Up to 7 cm SL",
+"rarity": "Common",
+"inatId": 1416337
+},
+{
+"id": "pseudojuloides-edwardi",
+"scientificName": "Pseudojuloides edwardi",
+"name": "Edward’s wrasse",
+"family": "Labridae",
+"size": "Up to 73 mm SL",
+"rarity": "Rare",
+"inatId": 615627
+},
+{
+"id": "pseudojuloides-erythrops",
+"scientificName": "Pseudojuloides erythrops",
+"name": "Redeye smalltail wrasse",
+"family": "Labridae",
+"size": "Up to 10 cm TL",
+"rarity": "Rare",
+"inatId": 111025
+},
+{
+"id": "pseudojuloides-polackorum",
+"scientificName": "Pseudojuloides polackorum",
+"name": "Polack’s wrasse",
+"family": "Labridae",
+"size": "Up to 8.5 cm SL",
+"rarity": "Rare",
+"inatId": 871134
+},
+{
+"id": "pterocaesio-chrysozona",
+"scientificName": "Pterocaesio chrysozona",
+"name": "Goldband fusilier",
+"family": "Caesionidae",
+"size": "Up to 21 cm TL",
+"rarity": "Common",
+"inatId": 346229
+},
+{
+"id": "pteroplatytrygon-violacea",
+"scientificName": "Pteroplatytrygon violacea",
+"name": "Pelagic stingray",
+"family": "Dasyatidae",
+"size": "Up to 80 cm DW",
+"rarity": "Common",
+"inatId": 111212
+},
+{
+"id": "pycnocraspedum-squamipinne",
+"scientificName": "Pycnocraspedum squamipinne",
+"family": "Ophidiidae",
+"size": "Up to 13 cm SL",
+"rarity": "Uncommon",
+"inatId": 111386
+},
+{
+"id": "pyramodon-ventralis",
+"scientificName": "Pyramodon ventralis",
+"name": "Silverbelly pearlfish",
+"family": "Carapidae",
+"size": "Up to 34 cm TL",
+"rarity": "Rare",
+"inatId": 529722
+},
+{
+"id": "rexea-prometheoides",
+"scientificName": "Rexea prometheoides",
+"name": "Royal escolar",
+"family": "Gempylidae",
+"size": "Up to 40 cm SL",
+"rarity": "Common",
+"inatId": 529912
+},
+{
+"id": "rhinobatos-holcorhynchus",
+"scientificName": "Rhinobatos holcorhynchus",
+"name": "Slender guitarfish",
+"family": "Rhinobatidae",
+"size": "Up to 127 cm TL",
+"rarity": "Rare",
+"inatId": 111667
+},
+{
+"id": "robinsia-catherinae",
+"scientificName": "Robinsia catherinae",
+"name": "Catherine’s false moray",
+"family": "Chlopsidae",
+"size": "Up to 20 cm TL",
+"rarity": "Rare",
+"inatId": 611146
+},
+{
+"id": "rusichthys-plesiomorphus",
+"scientificName": "Rusichthys plesiomorphus",
+"family": "Pseudochromidae",
+"size": "Up to 4 cm SL",
+"rarity": "Rare",
+"inatId": 619828
+},
+{
+"id": "sardinella-melanura",
+"scientificName": "Sardinella melanura",
+"name": "Blacktip sardinella",
+"family": "Clupeidae",
+"size": "Up to 12 cm SL",
+"rarity": "Rare",
+"inatId": 529802
+},
+{
+"id": "sardinella-neglecta",
+"scientificName": "Sardinella neglecta",
+"name": "East African sardinella",
+"family": "Clupeidae",
+"size": "Up to 13 cm SL",
+"rarity": "Rare"
+},
+{
+"id": "sargocentron-macrosquamis",
+"scientificName": "Sargocentron macrosquamis",
+"name": "Dwarf squirrelfish",
+"family": "Holocentridae",
+"size": "Up to 9 cm TL",
+"rarity": "Rare",
+"inatId": 615484
+},
+{
+"id": "sargocentron-praslin",
+"scientificName": "Sargocentron praslin",
+"name": "Dark-striped squirrelfish",
+"family": "Holocentridae",
+"size": "Up to 25 cm SL",
+"rarity": "Rare",
+"inatId": 530172
+},
+{
+"id": "sargocentron-violaceum",
+"scientificName": "Sargocentron violaceum",
+"name": "White-edged squirrelfish",
+"family": "Holocentridae",
+"size": "Up to 34 cm TL",
+"rarity": "Rare",
+"inatId": 194742
+},
+{
+"id": "saurenchelys-elongatum",
+"scientificName": "Saurenchelys elongatum",
+"family": "Nettastomatidae",
+"size": "Up to 32 cm TL",
+"rarity": "Rare"
+},
+{
+"id": "scarus-caudofasciatus",
+"scientificName": "Scarus caudofasciatus",
+"name": "Redbarred parrotfish",
+"family": "Scaridae",
+"size": "Up to 50 cm TL",
+"rarity": "Rare",
+"inatId": 112132
+},
+{
+"id": "scarus-falcipinnis",
+"scientificName": "Scarus falcipinnis",
+"name": "Sicklefin parrotfish",
+"family": "Scaridae",
+"size": "Up to 60 cm TL",
+"rarity": "Rare",
+"inatId": 112140
+},
+{
+"id": "scarus-festivus",
+"scientificName": "Scarus festivus",
+"name": "Lunate parrotfish",
+"family": "Scaridae",
+"size": "Up to 45 cm TL",
+"rarity": "Rare",
+"inatId": 112142
+},
+{
+"id": "scarus-russelii",
+"scientificName": "Scarus russelii",
+"name": "Eclipse parrotfish",
+"family": "Scaridae",
+"size": "Up to 50 cm TL",
+"rarity": "Rare",
+"inatId": 112162
+},
+{
+"id": "scarus-viridifucatus",
+"scientificName": "Scarus viridifucatus",
+"name": "Malindi parrotfish",
+"family": "Scaridae",
+"size": "Up to 32 cm TL",
+"rarity": "Rare",
+"inatId": 112170
+},
+{
+"id": "scolopsis-kurite",
+"scientificName": "Scolopsis kurite",
+"name": "Collared monocle bream",
+"family": "Nemipteridae",
+"size": "Up to 16 cm SL",
+"rarity": "Rare"
+},
+{
+"id": "scomberesox-simulans",
+"scientificName": "Scomberesox simulans",
+"name": "Dwarf saury",
+"family": "Scomberesocidae",
+"size": "Up to 8 cm",
+"rarity": "Rare",
+"inatId": 120673
+},
+{
+"id": "scorpaenodes-corallinus",
+"scientificName": "Scorpaenodes corallinus",
+"name": "Coral scorpionfish",
+"family": "Scorpaenidae",
+"size": "Up to 10.5 cm SL",
+"rarity": "Rare",
+"inatId": 411192
+},
+{
+"id": "scorpaenodes-scaber",
+"scientificName": "Scorpaenodes scaber",
+"name": "Pygmy scorpionfish",
+"family": "Scorpaenidae",
+"rarity": "Rare",
+"inatId": 530794
+},
+{
+"id": "scorpaenodes-tribulosus",
+"scientificName": "Scorpaenodes tribulosus",
+"name": "Roughscale scorpionfish",
+"family": "Scorpaenidae",
+"size": "Up to 4.5 cm SL",
+"rarity": "Rare",
+"inatId": 620496
+},
+{
+"id": "scorpaenopsis-gibbosa",
+"scientificName": "Scorpaenopsis gibbosa",
+"name": "Humpbacked scorpionfish",
+"family": "Scorpaenidae",
+"size": "Up to 10.5 cm SL",
+"rarity": "Rare",
+"inatId": 447536
+},
+{
+"id": "scorpaenopsis-venosa",
+"scientificName": "Scorpaenopsis venosa",
+"name": "Raggy scorpionfish",
+"family": "Scorpaenidae",
+"size": "Up to 22 cm SL",
+"rarity": "Rare",
+"inatId": 119424
+},
+{
+"id": "sebastapistes-mauritiana",
+"scientificName": "Sebastapistes mauritiana",
+"name": "Spineblotch scorpionfish",
+"family": "Scorpaenidae",
+"size": "Up to 7.5 cm SL",
+"rarity": "Rare",
+"inatId": 620507
+},
+{
+"id": "sebastapistes-strongia",
+"scientificName": "Sebastapistes strongia",
+"name": "Barchin scorpionfish",
+"family": "Scorpaenidae",
+"size": "Up to 6 cm SL",
+"rarity": "Rare",
+"inatId": 450568
+},
+{
+"id": "seriola-rivoliana",
+"scientificName": "Seriola rivoliana",
+"name": "Almaco jack or longfin yellowtail",
+"family": "Carangidae",
+"size": "Up to 160 cm TL",
+"rarity": "Rare",
+"inatId": 51553
+},
+{
+"id": "siphamia-mossambica",
+"scientificName": "Siphamia mossambica",
+"name": "Sea urchin cardinalfish",
+"family": "Apogonidae",
+"size": "Up to 34 mm SL",
+"rarity": "Rare",
+"inatId": 608421
+},
+{
+"id": "sphoeroides-pachygaster",
+"scientificName": "Sphoeroides pachygaster",
+"name": "Blunthead puffer",
+"family": "Tetraodontidae",
+"size": "Up to 40 cm TL",
+"rarity": "Rare",
+"inatId": 49268
+},
+{
+"id": "spratellomorpha-bianalis",
+"scientificName": "Spratellomorpha bianalis",
+"name": "Two-finned roundherring",
+"family": "Clupeidae",
+"size": "Up to 4.5 cm SL",
+"rarity": "Rare",
+"inatId": 112992
+},
+{
+"id": "stegastes-albifasciatus",
+"scientificName": "Stegastes albifasciatus",
+"name": "Whitebar gregory",
+"family": "Pomacentridae",
+"size": "Up to 11 cm TL",
+"rarity": "Rare",
+"inatId": 447830
+},
+{
+"id": "stolephorus-holodon",
+"scientificName": "Stolephorus holodon",
+"name": "Thorny anchovy",
+"family": "Engraulidae",
+"size": "Up to 8 cm SL",
+"rarity": "Rare",
+"inatId": 614057
+},
+{
+"id": "suezichthys-russelli",
+"scientificName": "Suezichthys russelli",
+"name": "Russell’s wrasse",
+"family": "Labridae",
+"size": "Up to 9 cm TL",
+"rarity": "Rare",
+"inatId": 113448
+},
+{
+"id": "synagrops-japonicus",
+"scientificName": "Synagrops japonicus",
+"name": "Blackmouth splitfin",
+"family": "Acropomatidae",
+"size": "Up to 35 cm SL",
+"rarity": "Rare",
+"inatId": 451903
+},
+{
+"id": "taeniamia-flavofasciata",
+"scientificName": "Taeniamia flavofasciata",
+"family": "Apogonidae",
+"size": "Up to 78 mm SL",
+"rarity": "Rare",
+"inatId": 608429
+},
+{
+"id": "taeniamia-mozambiquensis",
+"scientificName": "Taeniamia mozambiquensis",
+"name": "Mozambique cardinalfish",
+"family": "Apogonidae",
+"size": "Up to 90 mm SL",
+"rarity": "Rare",
+"inatId": 608433
+},
+{
+"id": "thalassoma-trilobatum",
+"scientificName": "Thalassoma trilobatum",
+"name": "Ladder wrasse",
+"family": "Labridae",
+"size": "Up to 28 cm TL",
+"rarity": "Rare",
+"inatId": 113990
+},
+{
+"id": "tosarhombus-smithi",
+"scientificName": "Tosarhombus smithi",
+"name": "Smith’s dark-blue flounder",
+"family": "Bothidae",
+"size": "Up to 18 cm SL",
+"rarity": "Rare",
+"inatId": 609388
+},
+{
+"id": "tydemania-navigatoris",
+"scientificName": "Tydemania navigatoris",
+"name": "Fleshy-lipped spikefish",
+"family": "Triacanthodidae",
+"size": "Up to 120 mm SL",
+"rarity": "Rare",
+"inatId": 531065
+},
+{
+"id": "upeneus-suahelicus",
+"scientificName": "Upeneus suahelicus",
+"name": "Swahili goatfish",
+"family": "Mullidae",
+"size": "Up to 15 cm TL",
+"rarity": "Rare",
+"inatId": 617626
+},
+{
+"id": "upeneus-sulphureus",
+"scientificName": "Upeneus sulphureus",
+"name": "Sulphur goatfish",
+"family": "Mullidae",
+"size": "Up to 14 cm SL",
+"rarity": "Rare",
+"inatId": 347936
+},
+{
+"id": "uranoscopus-archionema",
+"scientificName": "Uranoscopus archionema",
+"name": "Stargazer",
+"family": "Uranoscopidae",
+"size": "Up to 33 cm TL",
+"rarity": "Rare",
+"inatId": 484156
+},
+{
+"id": "valenciennea-strigata",
+"scientificName": "Valenciennea strigata",
+"name": "Goldenheaded glidergoby",
+"family": "Gobiidae",
+"size": "Up to 131 mm SL",
+"rarity": "Rare",
+"inatId": 179875
+},
+{
+"id": "velifer-hypselopterus",
+"scientificName": "Velifer hypselopterus",
+"name": "Sailfin velifer",
+"family": "Veliferidae",
+"size": "Up to 40 cm TL",
+"rarity": "Rare",
+"inatId": 531115
+},
+{
+"id": "xanthichthys-lineopunctatus",
+"scientificName": "Xanthichthys lineopunctatus",
+"name": "Striped triggerfish",
+"family": "Balistidae",
+"size": "Up to 20 cm TL",
+"rarity": "Rare",
+"inatId": 131517
+},
+{
+"id": "zenarchopterus-dispar",
+"scientificName": "Zenarchopterus dispar",
+"name": "Feathered river halfbeak",
+"family": "Zenarchopteridae",
+"size": "Up to 12 cm SL",
+"rarity": "Rare",
+"inatId": 115248
+},
+{
+"id": "zenion-hololepis",
+"scientificName": "Zenion hololepis",
+"name": "Dwarf dory",
+"family": "Zeniontidae",
+"size": "Up to 11 cm SL",
+"rarity": "Rare",
+"inatId": 317473
+},
+{
+"id": "zenion-leptolepis",
+"scientificName": "Zenion leptolepis",
+"name": "Elongate dory",
+"family": "Zeniontidae",
+"size": "Up to 16 cm SL",
+"rarity": "Rare",
+"inatId": 622063
+},
+{
+"id": "zu-cristatus",
+"scientificName": "Zu cristatus",
+"name": "Scalloped ribbonfish",
+"family": "Trachipteridae",
+"size": "Up to 120 cm SL",
+"rarity": "Rare",
+"inatId": 118609
+}
+]

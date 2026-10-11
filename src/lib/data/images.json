@@ -1,0 +1,610 @@
+{
+  "whale-shark": {
+    "src": "images/whale-shark.jpg",
+    "width": 800,
+    "height": 400,
+    "artist": "Abe Khao Lak",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Similan_Dive_Center_-_great_whale_shark.jpg"
+  },
+  "coelacanth": {
+    "src": "images/coelacanth.jpg",
+    "width": 800,
+    "height": 480,
+    "artist": "Bruce A.S. Henderson",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coelacanth_off_Pumula_on_the_KwaZulu-Natal_South_Coast,_South_Africa,_on_22_November_2019.png"
+  },
+  "humphead-wrasse": {
+    "src": "images/humphead-wrasse.jpg",
+    "width": 800,
+    "height": 600,
+    "artist": "Julien Bidet for MDC Seamarc",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cheilinus_undulatus_Maldives.JPG"
+  },
+  "scalloped-hammerhead": {
+    "src": "images/scalloped-hammerhead.jpg",
+    "width": 800,
+    "height": 491,
+    "artist": "Kris-Mikael Krister",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scalloped_hammerhead_shark_(Sphyrna_lewini)_Costa_Rica_(cropped).jpg"
+  },
+  "reef-manta": {
+    "src": "images/reef-manta.jpg",
+    "width": 800,
+    "height": 530,
+    "artist": "Shiyam ElkCloner",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dharavandhoo_Thila_-_Manata_Black_Pearl.JPG"
+  },
+  "sailfish": {
+    "src": "images/sailfish.jpg",
+    "width": 600,
+    "height": 800,
+    "artist": "Robert Webster",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Istiophorus_platypterus_101956558.jpg"
+  },
+  "giant-trevally": {
+    "src": "images/giant-trevally.jpg",
+    "width": 800,
+    "height": 600,
+    "artist": "Dr. Dwayne Meadows, NOAA/NMFS/OPR",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caranx_ignobilis.jpg"
+  },
+  "giant-grouper": {
+    "src": "images/giant-grouper.jpg",
+    "width": 800,
+    "height": 452,
+    "artist": "Manuel Heinrich Emha",
+    "license": "CC BY-SA 2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Epinephelus_lanceolatus_20060306.jpg"
+  },
+  "allards-clownfish": {
+    "src": "images/allards-clownfish.jpg",
+    "width": 800,
+    "height": 600,
+    "artist": "Fernando Losada Rodríguez",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amphiprion_allardi.001_-_Aquarium_Finisterrae.jpg"
+  },
+  "moorish-idol": {
+    "src": "images/moorish-idol.jpg",
+    "width": 800,
+    "height": 533,
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C3%8Ddolo_moro_(Zanclus_cornutus),_Anilao,_Filipinas,_2023-08-25,_DD_233.jpg"
+  },
+  "emperor-angelfish": {
+    "src": "images/emperor-angelfish.jpg",
+    "width": 800,
+    "height": 531,
+    "artist": "Francois Libert",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Angelfish,_Western_form_-_Pomacanthus_imperator_1.jpg"
+  },
+  "picasso-triggerfish": {
+    "src": "images/picasso-triggerfish.jpg",
+    "width": 800,
+    "height": 629,
+    "artist": "Arpingstone",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Picasso.triggerfish.arp.jpg"
+  },
+  "lionfish": {
+    "src": "images/lionfish.jpg",
+    "width": 800,
+    "height": 800,
+    "artist": "Paolo Gamba from Paris, France",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Going_away_(51510843964).jpg"
+  },
+  "bluespotted-ribbontail": {
+    "src": "images/bluespotted-ribbontail.jpg",
+    "width": 800,
+    "height": 533,
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raya_de_arrecife_(Taeniura_lymma),_mar_Rojo,_Egipto,_2023-04-14,_DD_64.jpg"
+  },
+  "nile-perch": {
+    "src": "images/nile-perch.jpg",
+    "width": 800,
+    "height": 534,
+    "artist": "Daiju Azuma",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lates_niloticus_by_DaijuAzuma.jpg"
+  },
+  "nile-tilapia": {
+    "src": "images/nile-tilapia.jpg",
+    "width": 800,
+    "height": 571,
+    "artist": "Germano Roberto Schüür",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Til%C3%A1pia_ou_Sarotherodon_niloticus_2.jpg"
+  },
+  "ngege": {
+    "src": "images/ngege.jpg",
+    "width": 800,
+    "height": 600,
+    "artist": "VertNet",
+    "license": "CC0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oreochromis_esculentus_(Graham,_1928)_2459737974.jpg"
+  },
+  "magadi-tilapia": {
+    "src": "images/magadi-tilapia.jpg",
+    "width": 800,
+    "height": 513,
+    "artist": "Bushsnob",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Magadi_hot_springs_Alcolapia_grahami.jpg"
+  },
+  "marbled-lungfish": {
+    "src": "images/marbled-lungfish.jpg",
+    "width": 800,
+    "height": 600,
+    "artist": "George Berninger Jr.",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leopard_lungfish_(Protopterus_aethiopicus)_close_-_GRB.JPG"
+  },
+  "tigerfish": {
+    "src": "images/tigerfish.jpg",
+    "width": 800,
+    "height": 329,
+    "artist": "Sablegsd",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hydrocynus_forskahlii.jpg"
+  },
+  "sharptooth-catfish": {
+    "src": "images/sharptooth-catfish.jpg",
+    "width": 800,
+    "height": 267,
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clarias_gariepinus.jpg"
+  },
+  "common-ostrich": {
+    "src": "images/common-ostrich.jpg",
+    "width": 800,
+    "height": 533,
+    "artist": "Yathin S Krishnappa",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Struthio_camelus_-_Etosha_2014_(3).jpg"
+  },
+  "lesser-flamingo": {
+    "src": "images/lesser-flamingo.jpg",
+    "width": 800,
+    "height": 636,
+    "artist": "Sumita Roy Dutta",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flock_of_Lesser_Flamingo_along_with_juvenile_near_Jamnagar_railway_stationDSCN1798_1.jpg"
+  },
+  "secretarybird": {
+    "src": "images/secretarybird.jpg",
+    "width": 800,
+    "height": 640,
+    "artist": "Sumeet Moghe",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Secretary_bird_Mara_for_WC.jpg"
+  },
+  "grey-crowned-crane": {
+    "src": "images/grey-crowned-crane.jpg",
+    "width": 800,
+    "height": 533,
+    "artist": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grey_crowned_crane_(Balearica_regulorum_gibbericeps).jpg"
+  },
+  "lilac-breasted-roller": {
+    "src": "images/lilac-breasted-roller.jpg",
+    "width": 800,
+    "height": 533,
+    "artist": "Giles Laurent",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:143_Lilac-breasted_roller_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg"
+  },
+  "superb-starling": {
+    "src": "images/superb-starling.jpg",
+    "width": 800,
+    "height": 533,
+    "artist": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Superb_starling_(Lamprotornis_superbus).jpg"
+  },
+  "african-fish-eagle": {
+    "src": "images/african-fish-eagle.jpg",
+    "width": 574,
+    "height": 800,
+    "artist": "Derek Keats from Johannesburg, South Africa",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:African_fish_eagle,_Haliaeetus_vocifer,_at_Chobe_National_Park,_Botswana_(33516612831).jpg"
+  },
+  "kori-bustard": {
+    "src": "images/kori-bustard.jpg",
+    "width": 800,
+    "height": 533,
+    "artist": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kori_bustard_(Ardeotis_kori_kori)_male.jpg"
+  },
+  "martial-eagle": {
+    "src": "images/martial-eagle.jpg",
+    "width": 533,
+    "height": 800,
+    "artist": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Martial_eagle_(Polemaetus_bellicosus).jpg"
+  },
+  "bateleur": {
+    "src": "images/bateleur.jpg",
+    "width": 800,
+    "height": 533,
+    "artist": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bateleur_(Terathopius_ecaudatus)_male_Serengeti.jpg"
+  },
+  "ruppells-vulture": {
+    "src": "images/ruppells-vulture.jpg",
+    "width": 800,
+    "height": 533,
+    "artist": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:R%C3%BCppell%27s_griffon_vulture_(Gyps_rueppelli_rueppelli)_Serengeti.jpg"
+  },
+  "southern-ground-hornbill": {
+    "src": "images/southern-ground-hornbill.jpg",
+    "width": 800,
+    "height": 696,
+    "artist": "Bernard DUPONT from FRANCE",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Southern_Ground_Hornbill_(Bucorvus_leadbeateri)_male_(12714625605),_crop.jpg"
+  },
+  "vulturine-guineafowl": {
+    "src": "images/vulturine-guineafowl.jpg",
+    "width": 533,
+    "height": 800,
+    "artist": "Sumeet Moghe",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vulturine_Guineafowl_at_Samburu.jpg"
+  },
+  "hartlaubs-turaco": {
+    "src": "images/hartlaubs-turaco.jpg",
+    "width": 800,
+    "height": 602,
+    "artist": "Unknown",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tauraco_hartlaubi.jpg"
+  },
+  "marabou-stork": {
+    "src": "images/marabou-stork.jpg",
+    "width": 800,
+    "height": 800,
+    "artist": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marabou_stork_(Leptoptilos_crumenifer).jpg"
+  },
+  "hamerkop": {
+    "src": "images/hamerkop.jpg",
+    "width": 800,
+    "height": 800,
+    "artist": "Unknown",
+    "license": "See source",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hamerkop_(Scopus_umbretta_umbretta)_2.jpg"
+  },
+  "malachite-kingfisher": {
+    "src": "images/malachite-kingfisher.jpg",
+    "width": 800,
+    "height": 532,
+    "artist": "Sjahanmi",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Malchite_Kingfisher.png"
+  },
+  "yellow-billed-oxpecker": {
+    "src": "images/yellow-billed-oxpecker.jpg",
+    "width": 800,
+    "height": 536,
+    "artist": "Steve Garvie from Dunfermline, Fife, Scotland",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flickr_-_Rainbirder_-_Yellow-billed_Oxpecker_(Buphagus_africanus).jpg"
+  },
+  "golden-breasted-starling": {
+    "src": "images/golden-breasted-starling.jpg",
+    "width": 536,
+    "height": 800,
+    "artist": "Photo by and (C)2007 Derek Ramsey (Ram-Man)",
+    "license": "CC BY-SA 2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Golden-breasted_Starling_Cosmopsarus_regius_Back_1000px.jpg"
+  },
+  "taita-thrush": {
+    "src": "images/taita-thrush.jpg",
+    "width": 768,
+    "height": 800,
+    "artist": "ginobrignoli",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Turdus_helleri,_Taita_Hills,_Kenya_1.jpg"
+  },
+  "sokoke-scops-owl": {
+    "src": "images/sokoke-scops-owl.jpg",
+    "width": 601,
+    "height": 800,
+    "artist": "Steve Garvie from Dunfermline, Fife, Scotland",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flickr_-_Rainbirder_-_Sokoke_Scops_Owl_(Otus_ireneae).jpg"
+  },
+  "clarkes-weaver": {
+    "src": "images/clarkes-weaver.jpg",
+    "width": 800,
+    "height": 600,
+    "artist": "DickDaniels (https://carolinabirds.org/)",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clarke%27s_Weaver_specimen_RWD.jpg"
+  },
+  "hindes-babbler": {
+    "src": "images/hindes-babbler.jpg",
+    "width": 800,
+    "height": 651,
+    "artist": "Francesco Veronesi from Italy",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hinde%27s_Babbler_-_Kenya_S4E9001_(19540613222).jpg"
+  },
+  "sharpes-longclaw": {
+    "src": "images/sharpes-longclaw.jpg",
+    "width": 800,
+    "height": 504,
+    "artist": "John Gerrard Keulemans",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:MacronyxSharpeiKeulemans.jpg"
+  },
+  "aberdare-cisticola": {
+    "src": "images/aberdare-cisticola.jpg",
+    "width": 800,
+    "height": 533,
+    "artist": "Francesco Veronesi",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aberdare_Cisticola_-_Aberdares_-_Kenya_CD5A1890.jpg"
+  },
+  "african-elephant": {
+    "src": "images/african-elephant.jpg",
+    "width": 800,
+    "height": 533,
+    "artist": "Giles Laurent",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg"
+  },
+  "lion": {
+    "src": "images/lion.jpg",
+    "width": 800,
+    "height": 533,
+    "artist": "Giles Laurent",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg"
+  },
+  "leopard": {
+    "src": "images/leopard.jpg",
+    "width": 800,
+    "height": 533,
+    "artist": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leopard_(Panthera_pardus_pardus)_Kruger.jpg"
+  },
+  "cheetah": {
+    "src": "images/cheetah.jpg",
+    "width": 800,
+    "height": 533,
+    "artist": "AfricanConservation",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Male_cheetah_facing_left_in_South_Africa.jpg"
+  },
+  "black-rhino": {
+    "src": "images/black-rhino.jpg",
+    "width": 800,
+    "height": 449,
+    "artist": "AfricanConservation",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_Rhino_at_Working_with_Wildlife.jpg"
+  },
+  "cape-buffalo": {
+    "src": "images/cape-buffalo.jpg",
+    "width": 800,
+    "height": 533,
+    "artist": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:African_buffalo_(Syncerus_caffer_caffer)_male_with_cattle_egret.jpg"
+  },
+  "grevys-zebra": {
+    "src": "images/grevys-zebra.jpg",
+    "width": 800,
+    "height": 585,
+    "artist": "Rainbirder",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grevy%27s_Zebra_Stallion.jpg"
+  },
+  "plains-zebra": {
+    "src": "images/plains-zebra.jpg",
+    "width": 800,
+    "height": 533,
+    "artist": "Yathin S Krishnappa",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Equus_quagga_burchellii_-_Etosha,_2014.jpg"
+  },
+  "reticulated-giraffe": {
+    "src": "images/reticulated-giraffe.jpg",
+    "width": 675,
+    "height": 800,
+    "artist": "Relative of Brandt Luke Zorn, most likely his father.",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Two_Giraffes.PNG"
+  },
+  "masai-giraffe": {
+    "src": "images/masai-giraffe.jpg",
+    "width": 800,
+    "height": 533,
+    "artist": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Masai_giraffes_(Giraffa_tippelskirchi)_Arusha.jpg"
+  },
+  "hirola": {
+    "src": "images/hirola.jpg",
+    "width": 800,
+    "height": 587,
+    "artist": "Jan Ebr",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beatragus_hunteri_176040791.jpg"
+  },
+  "mountain-bongo": {
+    "src": "images/mountain-bongo.jpg",
+    "width": 800,
+    "height": 533,
+    "artist": "Charles Miller from Basingstoke, United Kingdom",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tragelaphus_eurycerus_-Marwell_Wildlife,_Hampshire,_England-8a.jpg"
+  },
+  "wildebeest": {
+    "src": "images/wildebeest.jpg",
+    "width": 800,
+    "height": 533,
+    "artist": "Muhammad Mahdi Karim",
+    "license": "GFDL 1.2",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_Wildebeest,_Ngorongoro.jpg"
+  },
+  "hippopotamus": {
+    "src": "images/hippopotamus.jpg",
+    "width": 800,
+    "height": 533,
+    "artist": "Muhammad Mahdi Karim",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_Hippopotamus_in_the_water.jpg"
+  },
+  "african-wild-dog": {
+    "src": "images/african-wild-dog.jpg",
+    "width": 800,
+    "height": 449,
+    "artist": "AfricanConservation",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:African_Wild_Dog_at_Working_with_Wildlife.jpg"
+  },
+  "spotted-hyena": {
+    "src": "images/spotted-hyena.jpg",
+    "width": 800,
+    "height": 429,
+    "artist": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spotted_hyena_(Crocuta_crocuta).jpg"
+  },
+  "gerenuk": {
+    "src": "images/gerenuk.jpg",
+    "width": 533,
+    "height": 800,
+    "artist": "Laura Wolf",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:San_diego_zoo_group_3_DSC_0908_(35305473932).jpg"
+  },
+  "thomsons-gazelle": {
+    "src": "images/thomsons-gazelle.jpg",
+    "width": 800,
+    "height": 533,
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gacela_de_Thomson_(Eudorcas_thomsonii),_parque_nacional_de_Amboseli,_Kenia,_2024-05-23,_DD_11.jpg"
+  },
+  "impala": {
+    "src": "images/impala.jpg",
+    "width": 800,
+    "height": 533,
+    "artist": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_impala_(Aepyceros_melampus_melampus)_male_Serengeti.jpg"
+  },
+  "warthog": {
+    "src": "images/warthog.jpg",
+    "width": 800,
+    "height": 533,
+    "artist": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Southern_warthog_(Phacochoerus_africanus_sundevallii)_male.jpg"
+  },
+  "nile-crocodile": {
+    "src": "images/nile-crocodile.jpg",
+    "width": 800,
+    "height": 627,
+    "artist": "Dewet",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NileCrocodile.jpg"
+  },
+  "green-sea-turtle": {
+    "src": "images/green-sea-turtle.jpg",
+    "width": 800,
+    "height": 533,
+    "artist": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_sea_turtle_(Chelonia_mydas)_Moorea.jpg"
+  },
+  "dugong": {
+    "src": "images/dugong.jpg",
+    "width": 800,
+    "height": 567,
+    "artist": "Gejuni",
+    "license": "CC BY-SA 3.0 de",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dugong.JPG"
+  },
+  "golden-rumped-sengi": {
+    "src": "images/golden-rumped-sengi.jpg",
+    "width": 800,
+    "height": 600,
+    "artist": "Joseph Smit",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rhynchocyon_chrysopygus-J_Smit_2.jpg"
+  },
+  "aardvark": {
+    "src": "images/aardvark.jpg",
+    "width": 800,
+    "height": 553,
+    "artist": "Kelly Abram",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orycteropus_afer_175359469.jpg"
+  },
+  "ground-pangolin": {
+    "src": "images/ground-pangolin.jpg",
+    "width": 800,
+    "height": 533,
+    "artist": "U.S. Fish and Wildlife Service Headquarters",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manis_temminckii_(29645803646).jpg"
+  },
+  "tana-red-colobus": {
+    "src": "images/tana-red-colobus.jpg",
+    "width": 800,
+    "height": 532,
+    "artist": "Michal Sloviak",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Piliocolobus_rufomitratus_35499959_(cropped).jpg"
+  },
+  "mantled-guereza": {
+    "src": "images/mantled-guereza.jpg",
+    "width": 529,
+    "height": 800,
+    "artist": "Tuxyso",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mantelaffe-mit-Baby-Zoo-Muenster.jpg"
+  },
+  "olive-baboon": {
+    "src": "images/olive-baboon.jpg",
+    "width": 800,
+    "height": 726,
+    "artist": "Muhammad Mahdi Karim",
+    "license": "GFDL 1.2",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Olive_baboon_Ngorongoro.jpg"
+  },
+  "sitatunga": {
+    "src": "images/sitatunga.jpg",
+    "width": 600,
+    "height": 800,
+    "artist": "User:Løken",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sitatunga_at_Oji_Zoo.JPG"
+  }
+}

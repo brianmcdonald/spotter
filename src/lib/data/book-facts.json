@@ -1,0 +1,5889 @@
+{
+"ablabys-binotatus": {
+"size": "Up to 10 cm SL"
+},
+"abudefduf-notatus": {
+"size": "Up to 17 cm TL"
+},
+"abudefduf-septemfasciatus": {
+"size": "Up to 23 cm TL"
+},
+"abudefduf-sexfasciatus": {
+"size": "Up to 17 cm TL"
+},
+"abudefduf-sordidus": {
+"size": "Up to 23 cm TL"
+},
+"abudefduf-sparoides": {
+"size": "Up to 16 cm TL"
+},
+"abudefduf-vaigiensis": {
+"size": "Up to 20 cm TL"
+},
+"acanthocybium-solandri": {
+"size": "Up to 200 cm FL"
+},
+"acanthoplesiops-indicus": {
+"size": "Up to 5 cm TL"
+},
+"acanthurus-blochii": {
+"size": "Up to 42 cm TL"
+},
+"acanthurus-dussumieri": {
+"size": "Up to 54 cm TL"
+},
+"acanthurus-lineatus": {
+"size": "Up to 38 cm TL"
+},
+"acanthurus-mata": {
+"size": "Up to 50 cm TL"
+},
+"acanthurus-nigricauda": {
+"size": "Up to 40 cm TL"
+},
+"acanthurus-nigrofuscus": {
+"size": "Up to 21 cm TL"
+},
+"acanthurus-tennentii": {
+"size": "Up to 31 cm TL"
+},
+"acanthurus-thompsoni": {
+"size": "Up to 27 cm TL"
+},
+"acanthurus-triostegus": {
+"size": "Up to 27 cm TL"
+},
+"acanthurus-xanthopterus": {
+"size": "Up to 63 cm SL"
+},
+"accipiter-ovampensis": {
+"size": "35 cm (wingspan 88 cm)",
+"rarity": "Rare"
+},
+"accipiter-rufiventris": {
+"size": "40 cm (wingspan 70 cm)"
+},
+"acentronura-tentaculata": {
+"size": "Up to 50 mm TL"
+},
+"acrocephalus-arundinaceus": {
+"size": "19 cm",
+"rarity": "Uncommon"
+},
+"acrocephalus-gracilirostris": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"acrocephalus-griseldis": {
+"size": "16 cm"
+},
+"acrocephalus-palustris": {
+"size": "13 cm",
+"rarity": "Common"
+},
+"acrocephalus-rufescens": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"acrocephalus-schoenobaenus": {
+"size": "13 cm",
+"rarity": "Common"
+},
+"acrocephalus-scirpaceus": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"acroteriobatus-zanzibarensis": {
+"size": "Up to 75 cm TL"
+},
+"actitis-hypoleucos": {
+"size": "20 cm",
+"rarity": "Common"
+},
+"actophilornis-africanus": {
+"size": "31 cm",
+"rarity": "Uncommon"
+},
+"aeoliscus-punctulatus": {
+"size": "Up to 19 cm TL"
+},
+"aerospiza-tachiro": {
+"size": "46 cm (wingspan 75 cm)",
+"rarity": "Common"
+},
+"aethaloperca-rogaa": {
+"size": "Up to 60 cm TL"
+},
+"aetobatus-ocellatus": {
+"size": "Up to 125 cm DW"
+},
+"african-fish-eagle": {
+"size": "68 cm (wingspan 190 cm)",
+"rarity": "Uncommon"
+},
+"agapornis-fischeri": {
+"size": "15 cm"
+},
+"agapornis-personatus": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"agricola-pallidus": {
+"size": "17 cm"
+},
+"alaudala-somalica": {
+"size": "14 cm",
+"rarity": "Uncommon"
+},
+"alectis-ciliaris": {
+"size": "Up to 90 cm TL"
+},
+"allards-clownfish": {
+"size": "Up to 14 cm TL"
+},
+"alopias-pelagicus": {
+"size": "Up to 3.8 m TL"
+},
+"alticus-kirkii": {
+"size": "Up to 10 cm TL"
+},
+"aluterus-monoceros": {
+"size": "Up to 76 cm TL"
+},
+"aluterus-scriptus": {
+"size": "Up to 110 cm TL"
+},
+"amadina-fasciata": {
+"size": "10 cm",
+"rarity": "Common"
+},
+"amandava-subflava": {
+"size": "9 cm",
+"rarity": "Uncommon"
+},
+"amanses-scopas": {
+"size": "Up to 20 cm TL"
+},
+"ambassis-ambassis": {
+"size": "Up to 15 cm TL"
+},
+"amblycirrhitus-bimacula": {
+"size": "Up to 8.5 cm SL"
+},
+"amblyeleotris-aurora": {
+"size": "Up to 73 mm SL"
+},
+"amblyeleotris-diagonalis": {
+"size": "Up to 60 mm SL"
+},
+"amblyeleotris-periophthalmus": {
+"size": "Up to 75 mm SL"
+},
+"amblyeleotris-wheeleri": {
+"size": "Up to 75 mm SL"
+},
+"amblyglyphidodon-indicus": {
+"size": "Up to 12 cm TL"
+},
+"amblygobius-albimaculatus": {
+"size": "Up to 104 mm SL"
+},
+"amblygobius-nocturnus": {
+"size": "Up to 52 mm SL"
+},
+"amblygobius-semicinctus": {
+"size": "Up to 94 mm SL"
+},
+"amblygobius-sphynx": {
+"size": "Up to 104 mm SL"
+},
+"amblyospiza-albifrons": {
+"size": "17 cm"
+},
+"amblyrhynchote-honckenii": {
+"size": "Up to 30 cm TL"
+},
+"amirafra-collaris": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"amirafra-rufocinnamomea": {
+"size": "14 cm"
+},
+"amphiprion-akallopisos": {
+"size": "Up to 11 cm TL"
+},
+"anampses-caeruleopunctatus": {
+"size": "Up to 42 cm TL"
+},
+"anampses-lineatus": {
+"size": "Up to 12 cm TL"
+},
+"anampses-meleagrides": {
+"size": "Up to 22 cm TL"
+},
+"anampses-twistii": {
+"size": "Up to 18 cm TL"
+},
+"anaplectes-rubriceps": {
+"size": "14 cm",
+"rarity": "Uncommon"
+},
+"anarchias-allardicei": {
+"size": "Up to 17 cm TL"
+},
+"anarhynchus-asiaticus": {
+"size": "21 cm",
+"rarity": "Common"
+},
+"anarhynchus-leschenaultii": {
+"size": "23 cm",
+"rarity": "Uncommon"
+},
+"anarhynchus-marginatus": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"anarhynchus-pallidus": {
+"size": "14 cm",
+"rarity": "Uncommon"
+},
+"anarhynchus-pecuarius": {
+"size": "15 cm",
+"rarity": "Uncommon"
+},
+"anas-capensis": {
+"size": "48 cm"
+},
+"anas-crecca": {
+"size": "38 cm",
+"rarity": "Uncommon"
+},
+"anas-erythrorhyncha": {
+"size": "48 cm",
+"rarity": "Common"
+},
+"anas-sparsa": {
+"size": "56 cm"
+},
+"anas-undulata": {
+"size": "59 cm",
+"rarity": "Common"
+},
+"anastomus-lamelligerus": {
+"size": "81 cm",
+"rarity": "Uncommon"
+},
+"andropadus-importunus": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"anguilla-bengalensis": {
+"size": "Up to 160 cm TL"
+},
+"anguilla-marmorata": {
+"size": "Up to 150 cm TL"
+},
+"anguilla-mossambica": {
+"size": "Up to 120 cm TL"
+},
+"anhinga-rufa": {
+"size": "79 cm"
+},
+"anisochromis-kenyae": {
+"size": "Up to 3 cm TL"
+},
+"anomalospiza-imberbis": {
+"size": "11 cm",
+"rarity": "Uncommon"
+},
+"anous-stolidus": {
+"size": "41 cm",
+"rarity": "Common"
+},
+"anous-tenuirostris": {
+"size": "33 cm",
+"rarity": "Rare"
+},
+"antennablennius-variopunctatus": {
+"size": "Up to 75 mm TL"
+},
+"antennarius-commerson": {
+"size": "Up to 29 cm SL"
+},
+"antennarius-hispidus": {
+"size": "Up to 15 cm SL"
+},
+"antennarius-maculatus": {
+"size": "Up to 8.5 cm SL"
+},
+"antennarius-pictus": {
+"size": "Up to 24 cm SL"
+},
+"antennarius-striatus": {
+"size": "Up to 15.5 cm SL"
+},
+"antennatus-dorehensis": {
+"size": "Up to 7 cm TL"
+},
+"anthoscopus-caroli": {
+"size": "9 cm",
+"rarity": "Uncommon"
+},
+"anthoscopus-musculus": {
+"size": "8 cm"
+},
+"anthreptes-orientalis": {
+"size": "12 cm",
+"rarity": "Common"
+},
+"anthreptes-reichenowi": {
+"size": "10 cm"
+},
+"anthus-caffer": {
+"size": "13 cm",
+"rarity": "Uncommon"
+},
+"anthus-cervinus": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"anthus-cinnamomeus": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"anthus-leucophrys": {
+"size": "17 cm",
+"rarity": "Uncommon"
+},
+"anthus-lineiventris": {
+"size": "18 cm"
+},
+"anthus-melindae": {
+"size": "16 cm"
+},
+"anthus-similis": {
+"size": "18 cm"
+},
+"anthus-sokokensis": {
+"size": "12 cm"
+},
+"anthus-trivialis": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"antigonia-hulleyi": {
+"size": "Up to 8 cm SL"
+},
+"antigonia-undulata": {
+"size": "Up to 8 cm SL"
+},
+"anyperodon-leucogrammicus": {
+"size": "Up to 65 cm TL"
+},
+"apalis-cinerea": {
+"size": "13 cm",
+"rarity": "Common"
+},
+"apalis-flavida": {
+"size": "13 cm",
+"rarity": "Common"
+},
+"apalis-fuscigularis": {
+"size": "11 cm"
+},
+"apalis-jacksoni": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"apalis-melanocephala": {
+"size": "13 cm",
+"rarity": "Common"
+},
+"apalis-porphyrolaema": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"apalis-rufogularis": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"apalis-stronachi": {
+"size": "11 cm",
+"rarity": "Uncommon"
+},
+"apalis-thoracica": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"apaloderma-narina": {
+"size": "30 cm",
+"rarity": "Common"
+},
+"apaloderma-vittatum": {
+"size": "28 cm",
+"rarity": "Uncommon"
+},
+"aphareus-furca": {
+"size": "Up to 70 cm TL"
+},
+"aplopelia-larvata": {
+"size": "24 cm",
+"rarity": "Uncommon"
+},
+"apogon-semiornatus": {
+"size": "Up to 75 mm SL"
+},
+"apogonichthyoides-pharaonis": {
+"size": "Up to 80 mm SL"
+},
+"apogonichthyoides-taeniatus": {
+"size": "Up to 86 mm SL"
+},
+"apogonichthyoides-timorensis": {
+"size": "Up to 69 mm SL"
+},
+"apolemichthys-trimaculatus": {
+"size": "Up to 25 cm TL"
+},
+"apolemichthys-xanthotis": {
+"size": "Up to 20 cm TL"
+},
+"aporops-bilinearis": {
+"size": "Up to 10 cm SL"
+},
+"aprion-virescens": {
+"size": "Up to 110 cm TL"
+},
+"apus-affinis": {
+"size": "14 cm",
+"rarity": "Uncommon"
+},
+"apus-apus": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"apus-barbatus": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"apus-berliozi": {
+"size": "18 cm"
+},
+"apus-caffer": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"apus-horus": {
+"size": "15 cm"
+},
+"apus-niansae": {
+"size": "17 cm",
+"rarity": "Uncommon"
+},
+"aquila-heliaca": {
+"size": "84 cm (wingspan 210 cm)",
+"rarity": "Uncommon"
+},
+"aquila-nipalensis": {
+"size": "75 cm (wingspan 190 cm)",
+"rarity": "Common"
+},
+"aquila-rapax": {
+"size": "74 cm (wingspan 185 cm)"
+},
+"aquila-spilogaster": {
+"size": "68 cm (wingspan 160 cm)",
+"rarity": "Uncommon"
+},
+"aquila-verreauxii": {
+"size": "83 cm (wingspan 200 cm)",
+"rarity": "Uncommon"
+},
+"arcygobius-baliurus": {
+"size": "Up to 83 mm SL"
+},
+"ardea-alba": {
+"size": "92 cm",
+"rarity": "Common"
+},
+"ardea-brachyrhyncha": {
+"size": "69 cm"
+},
+"ardea-cinerea": {
+"size": "100 cm",
+"rarity": "Common"
+},
+"ardea-goliath": {
+"size": "152 cm",
+"rarity": "Common"
+},
+"ardea-melanocephala": {
+"size": "92 cm",
+"rarity": "Common"
+},
+"ardea-purpurea": {
+"size": "84 cm"
+},
+"ardeola-idae": {
+"size": "48 cm"
+},
+"ardeola-ralloides": {
+"size": "46 cm",
+"rarity": "Common"
+},
+"ardeola-rufiventris": {
+"size": "46 cm",
+"rarity": "Common"
+},
+"arenaria-interpres": {
+"size": "23 cm",
+"rarity": "Common"
+},
+"argentina-euchus": {
+"size": "Up to 15 cm TL"
+},
+"argya-aylmeri": {
+"size": "22 cm",
+"rarity": "Uncommon"
+},
+"argya-rubiginosa": {
+"size": "19 cm",
+"rarity": "Common"
+},
+"arizelocichla-kikuyuensis": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"arizelocichla-masukuensis": {
+"size": "17 cm",
+"rarity": "Uncommon"
+},
+"arizelocichla-striifacies": {
+"size": "19 cm",
+"rarity": "Common"
+},
+"arizelopsar-femoralis": {
+"size": "18 cm",
+"rarity": "Uncommon"
+},
+"arnoglossus-dalgleishi": {
+"size": "Up to 19 cm SL"
+},
+"arothron-hispidus": {
+"size": "Up to 45 cm TL"
+},
+"arothron-immaculatus": {
+"size": "Up to 30 cm TL"
+},
+"arothron-mappa": {
+"size": "Up to 60 cm TL"
+},
+"arothron-meleagris": {
+"size": "Up to 35 cm TL"
+},
+"arothron-nigropunctatus": {
+"size": "Up to 36 cm TL"
+},
+"arothron-stellatus": {
+"size": "Up to 100 cm TL"
+},
+"aseraggodes-diringeri": {
+"size": "Up to 11 cm SL"
+},
+"asio-capensis": {
+"size": "35 cm",
+"rarity": "Uncommon"
+},
+"aspidontus-dussumieri": {
+"size": "Up to 11 cm TL"
+},
+"asterropteryx-semipunctata": {
+"size": "Up to 51 mm SL"
+},
+"atimastillas-flavigula": {
+"size": "22 cm",
+"rarity": "Common"
+},
+"atrobucca-nibe": {
+"size": "Up to 45 cm TL"
+},
+"atrosalarias-fuscus": {
+"size": "Up to 14.5 cm TL"
+},
+"aulostomus-chinensis": {
+"size": "Up to 80 cm TL"
+},
+"austrolethops-wardi": {
+"size": "Up to 50–60 mm SL"
+},
+"aviceda-cuculoides": {
+"size": "40 cm (wingspan 88 cm)",
+"rarity": "Uncommon"
+},
+"awaous-aeneofuscus": {
+"size": "Up to 21.5 cm SL"
+},
+"azurina-lepidolepis": {
+"size": "Up to 8 cm TL"
+},
+"balistapus-undulatus": {
+"size": "Up to 30 cm TL"
+},
+"balistoides-viridescens": {
+"size": "Up to 80 cm TL"
+},
+"bateleur": {
+"size": "70 cm (wingspan 180 cm)",
+"rarity": "Common"
+},
+"bathmocercus-rufus": {
+"size": "13 cm",
+"rarity": "Common"
+},
+"bathygobius-coalitus": {
+"size": "Up to 100 mm SL"
+},
+"bathygobius-cotticeps": {
+"size": "Up to 105 mm SL"
+},
+"bathygobius-fuscus": {
+"size": "Up to 70 mm SL"
+},
+"bathyphylax-bombifrons": {
+"size": "Up to 93 mm SL"
+},
+"bathysolea-lagarderae": {
+"size": "Up to 12 cm SL"
+},
+"batis-erlangeri": {
+"size": "10 cm",
+"rarity": "Uncommon"
+},
+"batis-minor": {
+"size": "10 cm",
+"rarity": "Uncommon"
+},
+"batis-mixta": {
+"size": "10 cm",
+"rarity": "Uncommon"
+},
+"batis-molitor": {
+"size": "10 cm"
+},
+"batis-perkeo": {
+"size": "9 cm",
+"rarity": "Uncommon"
+},
+"batis-soror": {
+"size": "10 cm"
+},
+"belonoperca-chabanaudi": {
+"size": "Up to 15 cm TL"
+},
+"bembrops-nematopterus": {
+"size": "Up to 19.5 cm SL"
+},
+"benthodesmus-elongatus": {
+"size": "Up to 100 cm SL"
+},
+"bleda-syndactylus": {
+"size": "22 cm",
+"rarity": "Uncommon"
+},
+"blenniella-chrysospilos": {
+"size": "Up to 13 cm TL"
+},
+"blenniella-cyanostigma": {
+"size": "Up to 85 mm TL"
+},
+"bluespotted-ribbontail": {
+"size": "Up to 35 cm DW"
+},
+"bodianus-anthioides": {
+"size": "Up to 21 cm TL"
+},
+"bodianus-axillaris": {
+"size": "Up to 20 cm TL"
+},
+"bodianus-bilunulatus": {
+"size": "Up to 44 cm TL"
+},
+"bodianus-diana": {
+"size": "Up to 20 cm TL"
+},
+"bodianus-macrognathos": {
+"size": "Up to 83 cm TL"
+},
+"bodianus-opercularis": {
+"size": "Up to 18 cm TL"
+},
+"bolbometopon-muricatum": {
+"size": "Up to 120 cm SL"
+},
+"bostrychia-hagedash": {
+"size": "75 cm",
+"rarity": "Common"
+},
+"bostrychia-olivacea": {
+"size": "74 cm",
+"rarity": "Uncommon"
+},
+"botaurus-minutus": {
+"size": "38 cm",
+"rarity": "Uncommon"
+},
+"botaurus-sturmii": {
+"size": "30 cm",
+"rarity": "Uncommon"
+},
+"bothus-mancus": {
+"size": "Up to 47 cm SL"
+},
+"bothus-pantherinus": {
+"size": "Up to 30 cm SL"
+},
+"bradornis-microrhynchus": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"bradypterus-cinnamomeus": {
+"size": "15 cm"
+},
+"brama-orcini": {
+"size": "Up to 35 cm TL"
+},
+"brotula-multibarbata": {
+"size": "Up to 100 cm TL"
+},
+"brunhilda-charmosyna": {
+"size": "10 cm",
+"rarity": "Common"
+},
+"brunhilda-erythronotos": {
+"size": "10 cm",
+"rarity": "Uncommon"
+},
+"bubalornis-albirostris": {
+"size": "22 cm"
+},
+"bubalornis-niger": {
+"size": "22 cm",
+"rarity": "Common"
+},
+"buccanodon-duchaillui": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"bulbonaricus-davaoensis": {
+"size": "Up to 43 mm SL"
+},
+"buphagus-erythroryncha": {
+"size": "20 cm",
+"rarity": "Common"
+},
+"burhinus-capensis": {
+"size": "43 cm"
+},
+"burhinus-senegalensis": {
+"size": "38 cm"
+},
+"burhinus-vermiculatus": {
+"size": "41 cm",
+"rarity": "Uncommon"
+},
+"butastur-rufipennis": {
+"size": "44 cm (wingspan 102 cm)"
+},
+"buteo-augur": {
+"size": "60 cm (wingspan 150 cm)",
+"rarity": "Uncommon"
+},
+"buteo-buteo": {
+"size": "50 cm (wingspan 120 cm)",
+"rarity": "Common"
+},
+"buteo-oreophilus": {
+"size": "45 cm (wingspan 108 cm)",
+"rarity": "Common"
+},
+"buteo-rufinus": {
+"size": "65 cm (wingspan 160 cm)",
+"rarity": "Uncommon"
+},
+"butis-butis": {
+"size": "Up to 10 cm SL"
+},
+"bycanistes-brevis": {
+"size": "70 cm",
+"rarity": "Uncommon"
+},
+"bycanistes-bucinator": {
+"size": "60 cm",
+"rarity": "Common"
+},
+"bycanistes-subcylindricus": {
+"size": "70 cm",
+"rarity": "Common"
+},
+"caesio-caerulaurea": {
+"size": "Up to 35 cm TL"
+},
+"caesio-lunaris": {
+"size": "Up to 40 cm TL"
+},
+"caesio-varilineata": {
+"size": "Up to 40 cm TL"
+},
+"caesio-xanthalytos": {
+"size": "Up to 22 cm SL"
+},
+"caesio-xanthonota": {
+"size": "Up to 40 cm TL"
+},
+"calamonastes-simplex": {
+"size": "13 cm",
+"rarity": "Common"
+},
+"calamonastes-undosus": {
+"size": "13 cm"
+},
+"calandrella-cinerea": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"calendulauda-poecilosterna": {
+"size": "16 cm",
+"rarity": "Common"
+},
+"calherodius-leuconotus": {
+"size": "56 cm",
+"rarity": "Uncommon"
+},
+"calidris-alba": {
+"size": "21 cm",
+"rarity": "Common"
+},
+"calidris-falcinellus": {
+"size": "17 cm",
+"rarity": "Uncommon"
+},
+"calidris-ferruginea": {
+"size": "22 cm",
+"rarity": "Common"
+},
+"calidris-melanotos": {
+"size": "23 cm",
+"rarity": "Very Rare"
+},
+"calidris-minuta": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"calidris-temminckii": {
+"size": "15 cm"
+},
+"callechelys-bitaeniata": {
+"size": "Up to 82 cm TL"
+},
+"callechelys-marmorata": {
+"size": "Up to 87 cm TL"
+},
+"callionymus-africanus": {
+"size": "Up to 13 cm TL"
+},
+"callogobius-plumatus": {
+"size": "Up to 41 mm SL"
+},
+"calloplesiops-altivelis": {
+"size": "Up to 16 cm TL"
+},
+"calotomus-carolinus": {
+"size": "Up to 54 cm TL"
+},
+"calotomus-spinidens": {
+"size": "Up to 30 cm TL"
+},
+"camaroptera-brachyura": {
+"size": "10 cm",
+"rarity": "Common"
+},
+"camaroptera-chloronota": {
+"size": "10 cm",
+"rarity": "Common"
+},
+"campephaga-flava": {
+"size": "20 cm",
+"rarity": "Common"
+},
+"campephaga-petiti": {
+"size": "20 cm",
+"rarity": "Uncommon"
+},
+"campephaga-quiscalina": {
+"size": "20 cm",
+"rarity": "Uncommon"
+},
+"campethera-abingoni": {
+"size": "20 cm",
+"rarity": "Uncommon"
+},
+"campethera-maculosa": {
+"size": "17 cm"
+},
+"campethera-mombassica": {
+"size": "20 cm",
+"rarity": "Uncommon"
+},
+"campethera-nubica": {
+"size": "20 cm",
+"rarity": "Common"
+},
+"campethera-taeniolaema": {
+"size": "19 cm",
+"rarity": "Uncommon"
+},
+"campocolinus-coqui": {
+"size": "27 cm",
+"rarity": "Common"
+},
+"cantherhines-dumerilii": {
+"size": "Up to 38 cm TL"
+},
+"cantherhines-pardalis": {
+"size": "Up to 20 cm TL"
+},
+"canthidermis-maculata": {
+"size": "Up to 60 cm TL"
+},
+"canthigaster-amboinensis": {
+"size": "Up to 15 cm TL"
+},
+"canthigaster-bennetti": {
+"size": "Up to 10 cm TL"
+},
+"canthigaster-cyanospilota": {
+"size": "Up to 13 cm TL"
+},
+"canthigaster-janthinoptera": {
+"size": "Up to 9 cm TL"
+},
+"canthigaster-petersii": {
+"size": "Up to 11 cm TL"
+},
+"canthigaster-smithae": {
+"size": "Up to 13 cm TL"
+},
+"canthigaster-valentini": {
+"size": "Up to 11 cm TL"
+},
+"caprimulgus-donaldsoni": {
+"size": "19 cm",
+"rarity": "Uncommon"
+},
+"caprimulgus-europaeus": {
+"size": "27 cm",
+"rarity": "Common"
+},
+"caprimulgus-fossii": {
+"size": "23 cm",
+"rarity": "Common"
+},
+"caprimulgus-fraenatus": {
+"size": "24 cm",
+"rarity": "Uncommon"
+},
+"caprimulgus-inornatus": {
+"size": "23 cm",
+"rarity": "Common"
+},
+"caprimulgus-natalensis": {
+"size": "23 cm",
+"rarity": "Uncommon"
+},
+"caprimulgus-nubicus": {
+"size": "23 cm"
+},
+"caprimulgus-pectoralis": {
+"size": "24 cm",
+"rarity": "Common"
+},
+"caprimulgus-poliocephalus": {
+"size": "23 cm",
+"rarity": "Common"
+},
+"caprimulgus-stellatus": {
+"size": "23 cm",
+"rarity": "Uncommon"
+},
+"caprimulgus-tristigma": {
+"size": "27 cm",
+"rarity": "Uncommon"
+},
+"caprimulgus-vexillarius": {
+"size": "28 cm"
+},
+"caracanthus-madagascariensis": {
+"size": "Up to 5 cm SL"
+},
+"carangoides-gymnostethus": {
+"size": "Up to 90 cm TL"
+},
+"carangoides-hedlandensis": {
+"size": "Up to 35 cm TL"
+},
+"caranx-heberi": {
+"size": "Up to 100 cm TL"
+},
+"caranx-melampygus": {
+"size": "Up to 115 cm TL"
+},
+"caranx-papuensis": {
+"size": "Up to 88 cm TL"
+},
+"caranx-sexfasciatus": {
+"size": "Up to 120 cm TL"
+},
+"carcharhinus-albimarginatus": {
+"size": "Up to 3 m TL"
+},
+"carcharhinus-amblyrhynchos": {
+"size": "Up to 255 cm TL"
+},
+"carcharhinus-brevipinna": {
+"size": "Up to 3 m TL"
+},
+"carcharhinus-leucas": {
+"size": "Up to 3.4 m TL"
+},
+"carcharhinus-melanopterus": {
+"size": "Up to 180 cm TL"
+},
+"carcharodon-carcharias": {
+"size": "Up to 6.4 m TL"
+},
+"catriscus-brevirostris": {
+"size": "15 cm"
+},
+"ceblepyris-caesius": {
+"size": "22 cm",
+"rarity": "Common"
+},
+"cecropis-abyssinica": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"cecropis-semirufa": {
+"size": "19 cm",
+"rarity": "Uncommon"
+},
+"cecropis-senegalensis": {
+"size": "21 cm"
+},
+"centropus-grillii": {
+"size": "38 cm",
+"rarity": "Uncommon"
+},
+"centropus-monachus": {
+"size": "46 cm",
+"rarity": "Uncommon"
+},
+"centropus-senegalensis": {
+"size": "41 cm",
+"rarity": "Common"
+},
+"centropus-superciliosus": {
+"size": "41 cm",
+"rarity": "Common"
+},
+"centropyge-acanthops": {
+"size": "Up to 10 cm TL"
+},
+"centropyge-bispinosa": {
+"size": "Up to 10 cm TL"
+},
+"centropyge-multispinis": {
+"size": "Up to 15 cm TL"
+},
+"cephalopholis-argus": {
+"size": "Up to 55 cm TL"
+},
+"cephalopholis-boenak": {
+"size": "Up to 26 cm TL"
+},
+"cephalopholis-leopardus": {
+"size": "Up to 20 cm TL"
+},
+"cephalopholis-miniata": {
+"size": "Up to 45 cm TL"
+},
+"cephalopholis-nigripinnis": {
+"size": "Up to 28 cm TL"
+},
+"cephalopholis-sexmaculata": {
+"size": "Up to 50 cm TL"
+},
+"cephaloscyllium-sufflans": {
+"size": "Up to 110 cm TL"
+},
+"cercococcyx-montanus": {
+"size": "33 cm",
+"rarity": "Uncommon"
+},
+"cercotrichas-galactotes": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"cercotrichas-hartlaubi": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"cercotrichas-leucophrys": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"ceryle-rudis": {
+"size": "25 cm"
+},
+"cetoscarus-ocellatus": {
+"size": "Up to 70 cm SL"
+},
+"ceuthmochares-aereus": {
+"size": "33 cm"
+},
+"ceuthmochares-australis": {
+"size": "33 cm"
+},
+"chaetodon-auriga": {
+"size": "Up to 23 cm TL"
+},
+"chaetodon-bennetti": {
+"size": "Up to 20 cm TL"
+},
+"chaetodon-blackburnii": {
+"size": "Up to 13 cm TL"
+},
+"chaetodon-falcula": {
+"size": "Up to 20 cm TL"
+},
+"chaetodon-guttatissimus": {
+"size": "Up to 13 cm TL"
+},
+"chaetodon-interruptus": {
+"size": "Up to 20 cm TL"
+},
+"chaetodon-kleinii": {
+"size": "Up to 15 cm TL"
+},
+"chaetodon-leucopleura": {
+"size": "Up to 18 cm TL"
+},
+"chaetodon-lineolatus": {
+"size": "Up to 30 cm TL"
+},
+"chaetodon-lunula": {
+"size": "Up to 26 cm TL"
+},
+"chaetodon-madagaskariensis": {
+"size": "Up to 13 cm TL"
+},
+"chaetodon-melannotus": {
+"size": "Up to 18 cm TL"
+},
+"chaetodon-meyeri": {
+"size": "Up to 20 cm TL"
+},
+"chaetodon-trifascialis": {
+"size": "Up to 17 cm TL"
+},
+"chaetodon-trifasciatus": {
+"size": "Up to 15 cm TL"
+},
+"chaetodon-vagabundus": {
+"size": "Up to 23 cm TL"
+},
+"chaetodon-xanthocephalus": {
+"size": "Up to 20 cm TL"
+},
+"chaetodon-zanzibarensis": {
+"size": "Up to 15 cm TL"
+},
+"chalcomitra-amethystina": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"chalcomitra-hunteri": {
+"size": "15 cm",
+"rarity": "Uncommon"
+},
+"chalcomitra-rubescens": {
+"size": "14 cm",
+"rarity": "Uncommon"
+},
+"chalcomitra-senegalensis": {
+"size": "15 cm"
+},
+"chamaetylas-poliocephala": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"champsodon-capensis": {
+"size": "Up to 12 cm SL"
+},
+"charadrius-hiaticula": {
+"size": "19 cm",
+"rarity": "Common"
+},
+"chaunax-heemstraorum": {
+"size": "Up to 25 cm TL"
+},
+"chaunax-penicillatus": {
+"size": "Up to 35 cm TL"
+},
+"cheilinus-chlorourus": {
+"size": "Up to 36 cm TL"
+},
+"cheilinus-oxycephalus": {
+"size": "Up to 17 cm TL"
+},
+"cheilinus-trilobatus": {
+"size": "Up to 40 cm TL"
+},
+"cheilio-inermis": {
+"size": "Up to 50 cm TL"
+},
+"cheilodipterus-arabicus": {
+"size": "Up to 180 mm SL"
+},
+"cheilodipterus-macrodon": {
+"size": "Up to 20 cm SL"
+},
+"cheilodipterus-quinquelineatus": {
+"size": "Up to 100 mm SL"
+},
+"cheilopogon-cyanopterus": {
+"size": "Up to 34 cm SL"
+},
+"chelictinia-riocourii": {
+"size": "35 cm (wingspan 70 cm)"
+},
+"chilomycterus-reticulatus": {
+"size": "Up to 75 cm SL"
+},
+"chirocentrus-dorab": {
+"size": "Up to 100 cm SL"
+},
+"chirocentrus-nudus": {
+"size": "Up to 120 cm SL"
+},
+"chlidichthys-bibulus": {
+"size": "Up to 6 cm SL"
+},
+"chlidonias-hybrida": {
+"size": "26 cm",
+"rarity": "Common"
+},
+"chlidonias-leucopterus": {
+"size": "23 cm",
+"rarity": "Common"
+},
+"chlopsis-dentatus": {
+"size": "Up to 20 cm TL"
+},
+"chlorocichla-flaviventris": {
+"size": "22 cm 8.5\""
+},
+"chlorocichla-laetissima": {
+"size": "22 cm",
+"rarity": "Uncommon"
+},
+"chlorophoneus-bocagei": {
+"size": "16 cm",
+"rarity": "Uncommon"
+},
+"chlorophoneus-nigrifrons": {
+"size": "18 cm",
+"rarity": "Uncommon"
+},
+"chlorophoneus-sulfureopectus": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"chloropicus-namaquus": {
+"size": "23 cm",
+"rarity": "Uncommon"
+},
+"chlorurus-atrilunula": {
+"size": "Up to 34 cm TL"
+},
+"chlorurus-cyanescens": {
+"size": "Up to 50 cm TL"
+},
+"chlorurus-sordidus": {
+"size": "Up to 40 cm TL"
+},
+"chlorurus-strongylocephalus": {
+"size": "Up to 27 cm TL"
+},
+"choeroichthys-sculptus": {
+"size": "Up to 80 mm SL"
+},
+"chroicocephalus-ridibundus": {
+"size": "38 cm",
+"rarity": "Common"
+},
+"chromis-atripectoralis": {
+"size": "Up to 9 cm TL"
+},
+"chromis-nigroanalis": {
+"size": "Up to 12 cm TL"
+},
+"chromis-opercularis": {
+"size": "Up to 16 cm TL"
+},
+"chromis-ternatensis": {
+"size": "Up to 10.5 cm TL"
+},
+"chromis-viridis": {
+"size": "Up to 8 cm TL"
+},
+"chromis-weberi": {
+"size": "Up to 13.5 cm TL"
+},
+"chrysiptera-biocellata": {
+"size": "Up to 10 cm TL"
+},
+"chrysiptera-brownriggii": {
+"size": "Up to 8 cm TL"
+},
+"chrysiptera-glauca": {
+"size": "Up to 10 cm TL"
+},
+"chrysiptera-unimaculata": {
+"size": "Up to 8 cm TL"
+},
+"chrysococcyx-caprius": {
+"size": "19 cm",
+"rarity": "Common"
+},
+"chrysococcyx-cupreus": {
+"size": "23 cm",
+"rarity": "Common"
+},
+"chrysococcyx-klaas": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"cichladusa-arquata": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"cichladusa-guttata": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"ciconia-abdimii": {
+"size": "81 cm"
+},
+"ciconia-ciconia": {
+"size": "122 cm",
+"rarity": "Common"
+},
+"ciconia-nigra": {
+"size": "102 cm",
+"rarity": "Uncommon"
+},
+"cinnyricinclus-leucogaster": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"cinnyris-bifasciatus": {
+"size": "10 cm",
+"rarity": "Common"
+},
+"cinnyris-bouvieri": {
+"size": "12 cm",
+"rarity": "Uncommon"
+},
+"cinnyris-chalcomelas": {
+"size": "11 cm",
+"rarity": "Uncommon"
+},
+"cinnyris-chloropygius": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"cinnyris-cupreus": {
+"size": "13 cm",
+"rarity": "Uncommon"
+},
+"cinnyris-habessinicus": {
+"size": "13 cm"
+},
+"cinnyris-mariquensis": {
+"size": "12 cm",
+"rarity": "Common"
+},
+"cinnyris-mediocris": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"cinnyris-reichenowi": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"cinnyris-tsavoensis": {
+"size": "10 cm"
+},
+"cinnyris-venustus": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"circaetus-beaudouini": {
+"size": "63 cm (wingspan 160 cm)"
+},
+"circaetus-cinerascens": {
+"size": "53 cm (wingspan 125 cm)",
+"rarity": "Uncommon"
+},
+"circaetus-cinereus": {
+"size": "73 cm (wingspan 170 cm)"
+},
+"circaetus-fasciolatus": {
+"size": "55 cm (wingspan 123 cm)"
+},
+"circaetus-gallicus": {
+"size": "65 cm (wingspan 175 cm)",
+"rarity": "Uncommon"
+},
+"circaetus-pectoralis": {
+"size": "65 cm (wingspan 170 cm)",
+"rarity": "Common"
+},
+"circus-aeruginosus": {
+"size": "48 cm (wingspan 128 cm)",
+"rarity": "Common"
+},
+"circus-macrourus": {
+"size": "45 cm (wingspan 110 cm)",
+"rarity": "Uncommon"
+},
+"circus-pygargus": {
+"size": "43 cm (wingspan 112 cm)",
+"rarity": "Uncommon"
+},
+"circus-ranivorus": {
+"size": "45 cm (wingspan 113 cm)",
+"rarity": "Uncommon"
+},
+"cirrhilabrus-exquisitus": {
+"size": "Up to 11 cm TL"
+},
+"cirrhilabrus-rubriventralis": {
+"size": "Up to 8 cm TL"
+},
+"cirrhitichthys-calliurus": {
+"size": "Up to 12 cm SL"
+},
+"cirrhitichthys-oxycephalus": {
+"size": "Up to 9.5 cm SL"
+},
+"cirrhitus-pinnulatus": {
+"size": "Up to 28 cm TL"
+},
+"cirripectes-auritus": {
+"size": "Up to 90 mm TL"
+},
+"cirripectes-castaneus": {
+"size": "Up to 95 mm TL"
+},
+"cirripectes-filamentosus": {
+"size": "Up to 80 mm TL"
+},
+"cirripectes-perustus": {
+"size": "Up to 85 mm TL"
+},
+"cirripectes-polyzona": {
+"size": "Up to 75 mm TL"
+},
+"cirripectes-quagga": {
+"size": "Up to 80 mm TL"
+},
+"cirripectes-stigmaticus": {
+"size": "Up to 10.5 cm TL"
+},
+"cisticola-angusticauda": {
+"size": "11 cm"
+},
+"cisticola-aridulus": {
+"size": "10 cm",
+"rarity": "Common"
+},
+"cisticola-ayresii": {
+"size": "9 cm",
+"rarity": "Common"
+},
+"cisticola-bodessa": {
+"size": "14 cm",
+"rarity": "Uncommon"
+},
+"cisticola-brachypterus": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"cisticola-brunnescens": {
+"size": "9 cm",
+"rarity": "Common"
+},
+"cisticola-cantans": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"cisticola-carruthersi": {
+"size": "13 cm"
+},
+"cisticola-chiniana": {
+"size": "14 cm"
+},
+"cisticola-chubbi": {
+"size": "14 cm"
+},
+"cisticola-cinereolus": {
+"size": "13 cm",
+"rarity": "Common"
+},
+"cisticola-erythrops": {
+"size": "14 cm"
+},
+"cisticola-eximius": {
+"size": "10 cm",
+"rarity": "Uncommon"
+},
+"cisticola-haematocephalus": {
+"size": "12 cm"
+},
+"cisticola-hunteri": {
+"size": "14 cm"
+},
+"cisticola-juncidis": {
+"size": "10 cm",
+"rarity": "Common"
+},
+"cisticola-marginatus": {
+"size": "13 cm",
+"rarity": "Common"
+},
+"cisticola-nana": {
+"size": "9 cm",
+"rarity": "Uncommon"
+},
+"cisticola-tinniens": {
+"size": "13 cm",
+"rarity": "Common"
+},
+"cisticola-woosnami": {
+"size": "14 cm"
+},
+"citharoides-macrolepis": {
+"size": "Up to 25 cm TL"
+},
+"clamator-glandarius": {
+"size": "38 cm"
+},
+"clamator-jacobinus": {
+"size": "33 cm",
+"rarity": "Common"
+},
+"clamator-levaillantii": {
+"size": "40 cm",
+"rarity": "Common"
+},
+"clanga-clanga": {
+"size": "70 cm (wingspan 175 cm)",
+"rarity": "Rare"
+},
+"clanga-pomarina": {
+"size": "66 cm (wingspan 168 cm)"
+},
+"clarkes-weaver": {
+"size": "13 cm"
+},
+"coccopygia-quartinia": {
+"size": "10 cm",
+"rarity": "Common"
+},
+"cociella-heemstrai": {
+"size": "Up to 30 cm TL"
+},
+"coelacanth": {
+"size": "Up to 190 cm TL"
+},
+"colius-leucocephalus": {
+"size": "31 cm",
+"rarity": "Uncommon"
+},
+"colius-striatus": {
+"size": "33 cm",
+"rarity": "Common"
+},
+"columba-arquatrix": {
+"size": "38 cm"
+},
+"columba-delegorguei": {
+"size": "27 cm",
+"rarity": "Uncommon"
+},
+"columba-guinea": {
+"size": "34 cm",
+"rarity": "Common"
+},
+"columba-livia": {
+"size": "33 cm"
+},
+"conger-cinereus": {
+"size": "Up to 103 cm TL"
+},
+"coracias-abyssinicus": {
+"size": "41 cm",
+"rarity": "Common"
+},
+"coracias-garrulus": {
+"size": "31 cm",
+"rarity": "Common"
+},
+"coracias-naevius": {
+"size": "35 cm",
+"rarity": "Uncommon"
+},
+"coris-aygula": {
+"size": "Up to 60 cm TL"
+},
+"coris-caudimacula": {
+"size": "Up to 19.5 cm TL"
+},
+"coris-cuvieri": {
+"size": "Up to 35 cm TL"
+},
+"coris-formosa": {
+"size": "Up to 44 cm TL"
+},
+"corvinella-corvina": {
+"size": "31 cm",
+"rarity": "Uncommon"
+},
+"corvus-albicollis": {
+"size": "56 cm"
+},
+"corvus-albus": {
+"size": "46 cm",
+"rarity": "Common"
+},
+"corvus-capensis": {
+"size": "43 cm"
+},
+"corvus-edithae": {
+"size": "46 cm",
+"rarity": "Common"
+},
+"corvus-rhipidurus": {
+"size": "46 cm",
+"rarity": "Common"
+},
+"corvus-splendens": {
+"size": "40 cm"
+},
+"coryogalops-sordidus": {
+"size": "Up to 52 mm SL"
+},
+"corypha-africana": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"corypha-hypermetra": {
+"size": "23 cm"
+},
+"coryphaena-hippurus": {
+"size": "Up to 2 m TL"
+},
+"corythaeola-cristata": {
+"size": "75 cm",
+"rarity": "Uncommon"
+},
+"corythoichthys-flavofasciatus": {
+"size": "Up to 116 mm SL"
+},
+"corythoichthys-haematopterus": {
+"size": "Up to 198 mm SL"
+},
+"corythoichthys-schultzi": {
+"size": "Up to 150 mm SL"
+},
+"cossypha-cyanocampter": {
+"size": "15 cm"
+},
+"cossypha-heuglini": {
+"size": "20 cm",
+"rarity": "Common"
+},
+"cossypha-natalensis": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"cossypha-niveicapilla": {
+"size": "22 cm",
+"rarity": "Uncommon"
+},
+"cossypha-semirufa": {
+"size": "18 cm"
+},
+"coturnix-coturnix": {
+"size": "19 cm"
+},
+"coturnix-delegorguei": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"craterognathus-plagiotaenia": {
+"size": "Up to 50 cm TL"
+},
+"creatophora-cinerea": {
+"size": "20 cm",
+"rarity": "Common"
+},
+"crecopsis-egregia": {
+"size": "23 cm"
+},
+"crex-crex": {
+"size": "27 cm",
+"rarity": "Uncommon"
+},
+"crinifer-concolor": {
+"size": "50 cm"
+},
+"crinifer-leucogaster": {
+"size": "50 cm",
+"rarity": "Common"
+},
+"crinifer-personatus": {
+"size": "48 cm",
+"rarity": "Uncommon"
+},
+"crinifer-zonurus": {
+"size": "50 cm",
+"rarity": "Common"
+},
+"crithagra-buchanani": {
+"size": "15 cm",
+"rarity": "Uncommon"
+},
+"crithagra-burtoni": {
+"size": "15 cm",
+"rarity": "Uncommon"
+},
+"crithagra-citrinelloides": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"crithagra-donaldsoni": {
+"size": "15 cm",
+"rarity": "Uncommon"
+},
+"crithagra-dorsostriata": {
+"size": "11 cm"
+},
+"crithagra-frontalis": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"crithagra-hyposticta": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"crithagra-koliensis": {
+"size": "11 cm",
+"rarity": "Uncommon"
+},
+"crithagra-mozambica": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"crithagra-reichenowi": {
+"size": "11 cm"
+},
+"crithagra-striatipectus": {
+"size": "13 cm"
+},
+"crithagra-striolata": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"crithagra-sulphurata": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"crossorhombus-valderostratus": {
+"size": "Up to 14 cm SL"
+},
+"cryptocentroides-arabicus": {
+"size": "Up to 76 mm SL"
+},
+"cryptocentrus-caeruleomaculatus": {
+"size": "Up to 60 mm SL"
+},
+"cryptocentrus-caeruleopunctatus": {
+"size": "Up to 97 mm SL"
+},
+"cryptocentrus-cryptocentrus": {
+"size": "Up to 100 mm SL"
+},
+"cryptocentrus-fasciatus": {
+"size": "Up to 95 mm SL"
+},
+"cryptocentrus-lutheri": {
+"size": "Up to 95 mm SL"
+},
+"cryptocentrus-malindiensis": {
+"size": "Up to 48 mm SL"
+},
+"cryptocentrus-strigilliceps": {
+"size": "Up to 40 mm SL"
+},
+"cryptolybia-olivacea": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"cryptospiza-salvadorii": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"ctenochaetus-binotatus": {
+"size": "Up to 20 cm TL"
+},
+"ctenochaetus-striatus": {
+"size": "Up to 26 cm TL"
+},
+"ctenochaetus-truncatus": {
+"size": "Up to 18.5 cm SL"
+},
+"cubiceps-whiteleggii": {
+"size": "Up to 21 cm SL"
+},
+"cuculus-canorus": {
+"size": "33 cm",
+"rarity": "Common"
+},
+"cuculus-clamosus": {
+"size": "30 cm",
+"rarity": "Common"
+},
+"cuculus-gularis": {
+"size": "33 cm",
+"rarity": "Uncommon"
+},
+"cuculus-poliocephalus": {
+"size": "28 cm"
+},
+"cuculus-solitarius": {
+"size": "30 cm"
+},
+"curruca-boehmi": {
+"size": "12 cm"
+},
+"curruca-nisoria": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"cursorius-cursor": {
+"size": "24 cm",
+"rarity": "Rare"
+},
+"cursorius-somalensis": {
+"size": "22 cm",
+"rarity": "Uncommon"
+},
+"cursorius-temminckii": {
+"size": "21 cm",
+"rarity": "Uncommon"
+},
+"cyanomitra-olivacea": {
+"size": "13 cm",
+"rarity": "Common"
+},
+"cyanomitra-veroxii": {
+"size": "13 cm",
+"rarity": "Uncommon"
+},
+"cyanomitra-verticalis": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"cyclichthys-orbicularis": {
+"size": "Up to 30 cm SL"
+},
+"cymolutes-praetextatus": {
+"size": "Up to 12 cm TL"
+},
+"cymolutes-torquatus": {
+"size": "Up to 20 cm TL"
+},
+"cynoglossus-attenuatus": {
+"size": "Up to 31 cm SL"
+},
+"cynoglossus-durbanensis": {
+"size": "Up to 20 cm SL"
+},
+"cynoglossus-lida": {
+"size": "Up to 20 cm SL"
+},
+"cynoglossus-zanzibarensis": {
+"size": "Up to 32 cm SL"
+},
+"cyprinocirrhites-polyactis": {
+"size": "Up to 14 cm SL"
+},
+"cypselurus-hexazona": {
+"size": "Up to 18 cm SL"
+},
+"cypselurus-oligolepis": {
+"size": "Up to 18 cm SL"
+},
+"cypsiurus-parvus": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"dactyloptena-orientalis": {
+"size": "Up to 56 cm TL"
+},
+"dascyllus-aruanus": {
+"size": "Up to 9 cm TL"
+},
+"dascyllus-carneus": {
+"size": "Up to 7 cm TL"
+},
+"dascyllus-trimaculatus": {
+"size": "Up to 14 cm TL"
+},
+"decapterus-kurroides": {
+"size": "Up to 45 cm TL"
+},
+"decapterus-tabl": {
+"size": "Up to 50 cm TL"
+},
+"delichon-urbicum": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"dendrochirus-zebra": {
+"size": "Up to 20 cm SL"
+},
+"dendrocygna-bicolor": {
+"size": "51 cm"
+},
+"dendrocygna-viduata": {
+"size": "48 cm",
+"rarity": "Common"
+},
+"dendropicos-fuscescens": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"dendropicos-goertae": {
+"size": "19 cm",
+"rarity": "Common"
+},
+"dendropicos-obsoletus": {
+"size": "14 cm",
+"rarity": "Uncommon"
+},
+"dendropicos-spodocephalus": {
+"size": "19 cm"
+},
+"dermatolepis-striolata": {
+"size": "Up to 85 cm TL"
+},
+"dessonornis-caffer": {
+"size": "17 cm"
+},
+"deveximentum-insidiator": {
+"size": "Up to 9 cm SL"
+},
+"diagramma-centurio": {
+"size": "Up to 75 cm TL"
+},
+"dicrurus-adsimilis": {
+"size": "25 cm",
+"rarity": "Common"
+},
+"dinemellia-dinemelli": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"dinoperca-petersi": {
+"size": "Up to 75 cm TL"
+},
+"diodon-holocanthus": {
+"size": "Up to 29 cm SL"
+},
+"diodon-hystrix": {
+"size": "Up to 60 cm SL"
+},
+"diodon-liturosus": {
+"size": "Up to 50 cm SL"
+},
+"dipturus-springeri": {
+"size": "Up to 190 cm TL"
+},
+"doryrhamphus-excisus": {
+"size": "Up to 66 mm SL"
+},
+"draconetta-xenica": {
+"size": "Up to 9 cm SL"
+},
+"drepane-longimana": {
+"size": "Up to 50 cm TL"
+},
+"drepane-punctata": {
+"size": "Up to 50 cm TL"
+},
+"dromas-ardeola": {
+"size": "41 cm"
+},
+"dryoscopus-angolensis": {
+"size": "16 cm"
+},
+"dryoscopus-cubla": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"dryoscopus-gambensis": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"dryoscopus-pringlii": {
+"size": "14 cm"
+},
+"dyaphorophyia-castanea": {
+"size": "10 cm"
+},
+"echeneis-naucrates": {
+"size": "Up to 90 cm SL"
+},
+"echidna-nebulosa": {
+"size": "Up to 75 cm TL"
+},
+"echidna-polyzona": {
+"size": "Up to 72 cm TL"
+},
+"echidna-unicolor": {
+"size": "Up to 36 cm TL"
+},
+"ecsenius-midas": {
+"size": "Up to 85 mm SL"
+},
+"ectreposebastes-imus": {
+"size": "Up to 18 cm SL"
+},
+"egretta-ardesiaca": {
+"size": "51 cm",
+"rarity": "Uncommon"
+},
+"egretta-garzetta": {
+"size": "64 cm",
+"rarity": "Common"
+},
+"egretta-gularis": {
+"size": "66 cm",
+"rarity": "Uncommon"
+},
+"elagatis-bipinnulata": {
+"size": "Up to 120 cm TL"
+},
+"elanus-caeruleus": {
+"size": "33 cm (wingspan 83 cm)",
+"rarity": "Uncommon"
+},
+"eleotris-fusca": {
+"size": "Up to 22 cm SL"
+},
+"elminia-albonotata": {
+"size": "13 cm"
+},
+"elminia-longicauda": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"elminia-nigromitrata": {
+"size": "11 cm",
+"rarity": "Uncommon"
+},
+"emberiza-flaviventris": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"emberiza-poliopleura": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"emberiza-striolata": {
+"size": "14 cm",
+"rarity": "Uncommon"
+},
+"emberiza-tahapisi": {
+"size": "15 cm"
+},
+"eminia-lepida": {
+"size": "15 cm"
+},
+"emperor-angelfish": {
+"size": "Up to 40 cm TL"
+},
+"empidornis-semipartitus": {
+"size": "18 cm",
+"rarity": "Uncommon"
+},
+"enchelycore-pardalis": {
+"size": "Up to 92 cm TL"
+},
+"encrasicholina-devisi": {
+"size": "Up to 8 cm SL"
+},
+"enneapterygius-abeli": {
+"size": "Up to 30 mm SL"
+},
+"enneapterygius-clarkae": {
+"size": "Up to 27 mm SL"
+},
+"enneapterygius-elegans": {
+"size": "Up to 35 mm SL"
+},
+"enneapterygius-fasciatus": {
+"size": "Up to 30 mm SL"
+},
+"enneapterygius-philippinus": {
+"size": "Up to 30 mm SL"
+},
+"entomacrodus-striatus": {
+"size": "Up to 11 cm TL"
+},
+"ephippiorhynchus-senegalensis": {
+"size": "145 cm",
+"rarity": "Uncommon"
+},
+"epibulus-insidiator": {
+"size": "Up to 54 cm TL"
+},
+"epinephelus-areolatus": {
+"size": "Up to 47 cm TL"
+},
+"epinephelus-chabaudi": {
+"size": "Up to 137 cm TL"
+},
+"epinephelus-chlorostigma": {
+"size": "Up to 80 cm TL"
+},
+"epinephelus-coeruleopunctatus": {
+"size": "Up to 76 cm TL"
+},
+"epinephelus-coioides": {
+"size": "Up to 114 cm TL"
+},
+"epinephelus-fasciatus": {
+"size": "Up to 40 cm TL"
+},
+"epinephelus-flavocaeruleus": {
+"size": "Up to 90 cm TL"
+},
+"epinephelus-fuscoguttatus": {
+"size": "Up to 120 cm TL"
+},
+"epinephelus-hexagonatus": {
+"size": "Up to 27 cm TL"
+},
+"epinephelus-longispinis": {
+"size": "Up to 55 cm TL"
+},
+"epinephelus-macrospilos": {
+"size": "Up to 52 cm TL"
+},
+"epinephelus-malabaricus": {
+"size": "Up to 150 cm TL"
+},
+"epinephelus-merra": {
+"size": "Up to 26 cm SL"
+},
+"epinephelus-morrhua": {
+"size": "Up to 61 cm SL"
+},
+"epinephelus-multinotatus": {
+"size": "Up to 100 cm TL"
+},
+"epinephelus-ongus": {
+"size": "Up to 25 cm SL"
+},
+"epinephelus-polyphekadion": {
+"size": "Up to 61 cm SL"
+},
+"epinephelus-spilotoceps": {
+"size": "Up to 35 cm TL"
+},
+"epinephelus-tauvina": {
+"size": "Up to 61 cm SL"
+},
+"epinephelus-tukula": {
+"size": "Up to 150 cm TL"
+},
+"epinephelus-undulosus": {
+"size": "Up to 120 cm TL"
+},
+"eremomela-canescens": {
+"size": "11 cm"
+},
+"eremomela-flavicrissalis": {
+"size": "9 cm"
+},
+"eremomela-icteropygialis": {
+"size": "10 cm"
+},
+"eremomela-scotops": {
+"size": "11 cm",
+"rarity": "Uncommon"
+},
+"eremomela-turneri": {
+"size": "9 cm",
+"rarity": "Uncommon"
+},
+"eremopterix-leucopareia": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"eremopterix-leucotis": {
+"size": "12 cm",
+"rarity": "Uncommon"
+},
+"eremopterix-signatus": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"erythrocercus-holochlorus": {
+"size": "9 cm",
+"rarity": "Common"
+},
+"erythrocles-schlegelii": {
+"size": "Up to 72 cm TL"
+},
+"estrilda-astrild": {
+"size": "10 cm",
+"rarity": "Common"
+},
+"estrilda-kandti": {
+"size": "10 cm",
+"rarity": "Common"
+},
+"estrilda-nonnula": {
+"size": "10 cm",
+"rarity": "Common"
+},
+"estrilda-paludicola": {
+"size": "10 cm",
+"rarity": "Common"
+},
+"estrilda-rhodopyga": {
+"size": "10 cm",
+"rarity": "Common"
+},
+"estrilda-troglodytes": {
+"size": "10 cm",
+"rarity": "Common"
+},
+"etelis-carbunculus": {
+"size": "Up to 110 cm FL"
+},
+"etelis-coruscans": {
+"size": "Up to 120 cm FL"
+},
+"etmopterus-sentosus": {
+"size": "Up to 27 cm TL"
+},
+"eugnathogobius-indicus": {
+"size": "Up to 33 mm SL"
+},
+"euodice-cantans": {
+"size": "11 cm",
+"rarity": "Uncommon"
+},
+"euplectes-afer": {
+"size": "10 cm",
+"rarity": "Uncommon"
+},
+"euplectes-axillaris": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"euplectes-capensis": {
+"size": "15 cm"
+},
+"euplectes-diadematus": {
+"size": "10 cm"
+},
+"euplectes-franciscanus": {
+"size": "11 cm",
+"rarity": "Uncommon"
+},
+"euplectes-gierowii": {
+"size": "14–15 cm",
+"rarity": "Uncommon"
+},
+"euplectes-hordeaceus": {
+"size": "12 cm",
+"rarity": "Uncommon"
+},
+"euplectes-nigroventris": {
+"size": "10 cm",
+"rarity": "Common"
+},
+"euplectes-orix": {
+"size": "11 cm",
+"rarity": "Uncommon"
+},
+"eupodotis-senegalensis": {
+"size": "61 cm",
+"rarity": "Common"
+},
+"eurillas-ansorgei": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"eurillas-curvirostris": {
+"size": "18 cm",
+"rarity": "Uncommon"
+},
+"eurillas-latirostris": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"eurillas-virens": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"eurocephalus-ruppelli": {
+"size": "21 cm",
+"rarity": "Common"
+},
+"eurypegasus-draconis": {
+"size": "Up to 8.5 cm SL"
+},
+"eurystomus-glaucurus": {
+"size": "28 cm",
+"rarity": "Common"
+},
+"euthynnus-affinis": {
+"size": "Up to 100 cm FL"
+},
+"eviota-guttata": {
+"size": "Up to 19 mm SL"
+},
+"exallias-brevis": {
+"size": "Up to 14.5 cm TL"
+},
+"exyrias-belissimus": {
+"size": "Up to 115 mm SL"
+},
+"falco-alopex": {
+"size": "38 cm (wingspan 85 cm)",
+"rarity": "Uncommon"
+},
+"falco-amurensis": {
+"size": "30 cm (wingspan 71 cm)",
+"rarity": "Rare"
+},
+"falco-ardosiaceus": {
+"size": "33 cm (wingspan 70 cm)"
+},
+"falco-biarmicus": {
+"size": "46 cm (wingspan 105 cm)"
+},
+"falco-chicquera": {
+"size": "33 cm (wingspan 63 cm)",
+"rarity": "Uncommon"
+},
+"falco-concolor": {
+"size": "37 cm (wingspan 90 cm)",
+"rarity": "Uncommon"
+},
+"falco-cuvierii": {
+"size": "31 cm (wingspan 70 cm)"
+},
+"falco-eleonorae": {
+"size": "42 cm (wingspan 104 cm)"
+},
+"falco-naumanni": {
+"size": "33 cm (wingspan 70 cm)",
+"rarity": "Uncommon"
+},
+"falco-peregrinus": {
+"size": "44 cm (wingspan 105 cm)",
+"rarity": "Uncommon"
+},
+"falco-rupicoloides": {
+"size": "36 cm (wingspan 80 cm)",
+"rarity": "Uncommon"
+},
+"falco-subbuteo": {
+"size": "36 cm (wingspan 84 cm)",
+"rarity": "Common"
+},
+"falco-tinnunculus": {
+"size": "33 cm (wingspan 70 cm)",
+"rarity": "Uncommon"
+},
+"ferdauia-orthogrammus": {
+"size": "Up to 70 cm TL"
+},
+"fibramia-lateralis": {
+"size": "Up to 67 mm SL"
+},
+"fistularia-commersonii": {
+"size": "Up to 150 cm SL"
+},
+"florenciella-lugubris": {
+"size": "Up to 10 cm SL"
+},
+"foa-fo": {
+"size": "Up to 52 mm SL"
+},
+"forcipiger-flavissimus": {
+"size": "Up to 22 cm TL"
+},
+"fowleria-marmorata": {
+"size": "Up to 51 mm SL"
+},
+"fowleria-vaiulae": {
+"size": "Up to 42 mm SL"
+},
+"fowleria-variegata": {
+"size": "Up to 75 mm SL"
+},
+"fraseria-caerulescens": {
+"size": "14 cm",
+"rarity": "Uncommon"
+},
+"fraseria-lendu": {
+"size": "13 cm",
+"rarity": "Rare"
+},
+"fraseria-plumbea": {
+"size": "14 cm",
+"rarity": "Uncommon"
+},
+"fulica-cristata": {
+"size": "44 cm",
+"rarity": "Common"
+},
+"fusigobius-humeralis": {
+"size": "Up to 34 mm SL"
+},
+"fusigobius-inframaculatus": {
+"size": "Up to 67 mm SL"
+},
+"fusigobius-neophytus": {
+"size": "Up to 69 mm SL"
+},
+"galerida-cristata": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"galerida-theklae": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"gallinago-gallinago": {
+"size": "27 cm"
+},
+"gallinago-nigripennis": {
+"size": "30 cm",
+"rarity": "Common"
+},
+"gallinula-chloropus": {
+"size": "36 cm"
+},
+"gazza-minuta": {
+"size": "Up to 13 cm SL"
+},
+"gazza-squamiventralis": {
+"size": "Up to 10.5 cm SL"
+},
+"gelochelidon-nilotica": {
+"size": "38 cm",
+"rarity": "Common"
+},
+"genicanthus-caudovittatus": {
+"size": "Up to 20 cm TL"
+},
+"geokichla-gurneyi": {
+"size": "19 cm"
+},
+"geokichla-guttata": {
+"size": "21 cm",
+"rarity": "Uncommon"
+},
+"geokichla-piaggiae": {
+"size": "19 cm"
+},
+"gephyroberyx-darwinii": {
+"size": "Up to 50 cm TL"
+},
+"gerres-filamentosus": {
+"size": "Up to 30 cm TL"
+},
+"gerres-longirostris": {
+"size": "Up to 50 cm TL"
+},
+"gerres-oyena": {
+"size": "Up to 30 cm TL"
+},
+"giant-grouper": {
+"size": "Up to 270 cm TL"
+},
+"giant-trevally": {
+"size": "Up to 170 cm TL"
+},
+"gladiogobius-rex": {
+"size": "Up to 39 mm SL"
+},
+"glareola-ocularis": {
+"size": "25 cm"
+},
+"glareola-pratincola": {
+"size": "26 cm",
+"rarity": "Uncommon"
+},
+"glaucidium-capense": {
+"size": "22 cm",
+"rarity": "Uncommon"
+},
+"glaucidium-perlatum": {
+"size": "19 cm",
+"rarity": "Common"
+},
+"glaucidium-tephronotum": {
+"size": "21 cm",
+"rarity": "Uncommon"
+},
+"glaucostegus-halavi": {
+"size": "Up to 171 cm TL"
+},
+"glyptoparus-delicatulus": {
+"size": "Up to 30 mm SL"
+},
+"gnathanodon-speciosus": {
+"size": "Up to 120 cm TL"
+},
+"gnathodentex-aureolineatus": {
+"size": "Up to 30 cm TL"
+},
+"gnatholepis-anjerensis": {
+"size": "Up to 84 mm SL"
+},
+"gnatholepis-cauerensis": {
+"size": "Up to 41 mm SL"
+},
+"gnathophis-heterolinea": {
+"size": "Up to 24 cm TL"
+},
+"golden-breasted-starling": {
+"size": "35 cm",
+"rarity": "Common"
+},
+"gomphosus-caeruleus": {
+"size": "Up to 28 cm TL"
+},
+"grammistes-sexlineatus": {
+"size": "Up to 27 cm TL"
+},
+"granatina-ianthinogaster": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"grey-crowned-crane": {
+"size": "112 cm",
+"rarity": "Common"
+},
+"gunnellichthys-copleyi": {
+"size": "Up to 120 mm TL"
+},
+"guttera-pucherani": {
+"size": "54 cm",
+"rarity": "Uncommon"
+},
+"gymnapogon-africanus": {
+"size": "Up to 50 mm SL"
+},
+"gymnocaesio-gymnoptera": {
+"size": "Up to 18 cm SL"
+},
+"gymnocranius-elongatus": {
+"size": "Up to 35 cm TL"
+},
+"gymnomuraena-zebra": {
+"size": "Up to 150 cm TL"
+},
+"gymnoris-pyrgita": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"gymnothorax-breedeni": {
+"size": "Up to 54 cm TL"
+},
+"gymnothorax-buroensis": {
+"size": "Up to 39 cm TL"
+},
+"gymnothorax-chilospilus": {
+"size": "Up to 51 cm TL"
+},
+"gymnothorax-favagineus": {
+"size": "Up to 180 cm TL"
+},
+"gymnothorax-flavimarginatus": {
+"size": "Up to 120 cm TL"
+},
+"gymnothorax-griseus": {
+"size": "Up to 53 cm TL"
+},
+"gymnothorax-margaritophorus": {
+"size": "Up to 47 cm TL"
+},
+"gymnothorax-melatremus": {
+"size": "Up to 18 cm TL"
+},
+"gymnothorax-nudivomer": {
+"size": "Up to 180 cm TL"
+},
+"gymnothorax-phasmatodes": {
+"size": "Up to 47 cm TL"
+},
+"gymnothorax-richardsonii": {
+"size": "Up to 34 cm TL"
+},
+"gymnothorax-rueppelliae": {
+"size": "Up to 76 cm TL"
+},
+"gymnothorax-undulatus": {
+"size": "Up to 150 cm TL"
+},
+"gymnothorax-zonipectis": {
+"size": "Up to 48 cm TL"
+},
+"gypohierax-angolensis": {
+"size": "60 cm (wingspan 180 cm)"
+},
+"gyps-africanus": {
+"size": "83 cm (wingspan 210 cm)"
+},
+"haematopus-ostralegus": {
+"size": "43 cm",
+"rarity": "Uncommon"
+},
+"halcyon-albiventris": {
+"size": "21 cm",
+"rarity": "Uncommon"
+},
+"halcyon-chelicuti": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"halcyon-leucocephala": {
+"size": "21 cm",
+"rarity": "Common"
+},
+"halcyon-senegalensis": {
+"size": "22 cm",
+"rarity": "Common"
+},
+"halcyon-senegaloides": {
+"size": "23 cm",
+"rarity": "Uncommon"
+},
+"halicampus-macrorhynchus": {
+"size": "Up to 162 mm SL"
+},
+"halichoeres-cosmetus": {
+"size": "Up to 11 cm TL"
+},
+"halichoeres-dussumieri": {
+"size": "Up to 14 cm TL"
+},
+"halichoeres-hortulanus": {
+"size": "Up to 27 cm TL"
+},
+"halichoeres-iridis": {
+"size": "Up to 11 cm TL"
+},
+"halichoeres-nebulosus": {
+"size": "Up to 11 cm TL"
+},
+"halichoeres-scapularis": {
+"size": "Up to 20 cm TL"
+},
+"halichoeres-zeylonicus": {
+"size": "Up to 20 cm TL"
+},
+"halidesmus-polytretus": {
+"size": "Up to 5.5 cm SL"
+},
+"halimuraena-hexagonata": {
+"size": "Up to 6 cm SL"
+},
+"hamerkop": {
+"size": "56 cm",
+"rarity": "Common"
+},
+"harpadon-nehereus": {
+"size": "Up to 40 cm SL"
+},
+"hartlaubs-turaco": {
+"size": "43 cm",
+"rarity": "Common"
+},
+"hedydipna-collaris": {
+"size": "10 cm",
+"rarity": "Common"
+},
+"hedydipna-pallidigaster": {
+"size": "9 cm",
+"rarity": "Uncommon"
+},
+"helcogramma-ememes": {
+"size": "Up to 39 mm SL"
+},
+"helcogramma-fuscopinna": {
+"size": "Up to 43 mm SL"
+},
+"helcogramma-rharhabe": {
+"size": "Up to 38 mm SL"
+},
+"hemigymnus-melapterus": {
+"size": "Up to 50 cm TL"
+},
+"hemiramphus-far": {
+"size": "Up to 35 cm SL"
+},
+"hemitaurichthys-zoster": {
+"size": "Up to 18 cm TL"
+},
+"heniochus-acuminatus": {
+"size": "Up to 25 cm TL"
+},
+"heniochus-diphreutes": {
+"size": "Up to 21 cm TL"
+},
+"heniochus-monoceros": {
+"size": "Up to 24 cm SL"
+},
+"herklotsichthys-spilurus": {
+"size": "Up to 9 cm SL"
+},
+"hetereleotris-caminata": {
+"size": "Up to 34 mm SL"
+},
+"hetereleotris-nebulofasciata": {
+"size": "Up to 35 mm SL"
+},
+"hetereleotris-tentaculata": {
+"size": "Up to 24 mm SL"
+},
+"hetereleotris-vulgaris": {
+"size": "Up to 34 mm SL"
+},
+"hetereleotris-zanzibarensis": {
+"size": "Up to 24 mm SL"
+},
+"heteroconger-hassi": {
+"size": "Up to 40 cm TL"
+},
+"heteropriacanthus-cruentatus": {
+"size": "Up to 25 cm SL"
+},
+"hexanchus-nakamurai": {
+"size": "Up to 180 cm TL"
+},
+"hieraaetus-ayresii": {
+"size": "56 cm (wingspan 120 cm)",
+"rarity": "Uncommon"
+},
+"hieraaetus-pennatus": {
+"size": "51 cm (wingspan 135 cm)",
+"rarity": "Common"
+},
+"hieraaetus-wahlbergi": {
+"size": "61 cm (wingspan 140 cm)",
+"rarity": "Common"
+},
+"himantopus-himantopus": {
+"size": "38 cm",
+"rarity": "Common"
+},
+"himantura-uarnak": {
+"size": "Up to 200 cm DW"
+},
+"hindes-babbler": {
+"size": "23 cm",
+"rarity": "Uncommon"
+},
+"hippichthys-cyanospilos": {
+"size": "Up to 156 mm SL"
+},
+"hippichthys-spicifer": {
+"size": "Up to 170 mm SL"
+},
+"hippocampus-borboniensis": {
+"size": "Up to 140 mm TL"
+},
+"hippocampus-camelopardalis": {
+"size": "Up to 150 mm TL"
+},
+"hippocampus-kuda": {
+"size": "Up to 170 mm TL"
+},
+"hippolais-languida": {
+"size": "14 cm",
+"rarity": "Uncommon"
+},
+"hippolais-olivetorum": {
+"size": "16 cm"
+},
+"hipposcarus-harid": {
+"size": "Up to 75 cm TL"
+},
+"hirculops-cornifer": {
+"size": "Up to 60 mm SL"
+},
+"hirundo-aethiopica": {
+"size": "13 cm",
+"rarity": "Common"
+},
+"hirundo-angolensis": {
+"size": "15 cm"
+},
+"hirundo-rustica": {
+"size": "9 cm",
+"rarity": "Common"
+},
+"hirundo-smithii": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"histrio-histrio": {
+"size": "Up to 14 cm SL"
+},
+"histurgops-ruficauda": {
+"size": "22 cm",
+"rarity": "Uncommon"
+},
+"hologymnosus-annulatus": {
+"size": "Up to 40 cm TL"
+},
+"holohalaelurus-grennian": {
+"size": "Up to 27 cm TL"
+},
+"humphead-wrasse": {
+"size": "Up to 170 cm TL"
+},
+"hydroprogne-caspia": {
+"size": "54 cm"
+},
+"hylia-prasina": {
+"size": "12 cm",
+"rarity": "Uncommon"
+},
+"hypargos-niveoguttatus": {
+"size": "13 cm",
+"rarity": "Common"
+},
+"hypoatherina-barnesi": {
+"size": "Up to 10 cm SL"
+},
+"hypogaleus-hyugaensis": {
+"size": "Up to 130 cm TL"
+},
+"ichthyaetus-hemprichii": {
+"size": "47 cm",
+"rarity": "Common"
+},
+"ichthyapus-vulturis": {
+"size": "Up to 45 cm TL"
+},
+"iduna-natalensis": {
+"size": "14 cm"
+},
+"iduna-pallida": {
+"size": "13 cm",
+"rarity": "Common"
+},
+"iduna-similis": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"illadopsis-albipectus": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"illadopsis-pyrrhoptera": {
+"size": "13 cm"
+},
+"illadopsis-rufipennis": {
+"size": "14 cm",
+"rarity": "Uncommon"
+},
+"indicator-indicator": {
+"size": "19 cm",
+"rarity": "Common"
+},
+"indicator-meliphilus": {
+"size": "13 cm",
+"rarity": "Uncommon"
+},
+"indicator-minor": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"indicator-variegatus": {
+"size": "19 cm",
+"rarity": "Uncommon"
+},
+"iniistius-pavo": {
+"size": "Up to 35 cm TL"
+},
+"inimicus-filamentosus": {
+"size": "Up to 18 cm SL"
+},
+"irania-gutturalis": {
+"size": "18 cm",
+"rarity": "Rare"
+},
+"ispidina-picta": {
+"size": "11 cm"
+},
+"istiblennius-bellus": {
+"size": "Up to 13.5 cm TL"
+},
+"istiblennius-dussumieri": {
+"size": "Up to 12 cm TL"
+},
+"istiblennius-edentulus": {
+"size": "Up to 15 cm TL"
+},
+"istiblennius-steindachneri": {
+"size": "Up to 15 cm TL"
+},
+"istigobius-decoratus": {
+"size": "Up to 98 mm SL"
+},
+"istigobius-ornatus": {
+"size": "Up to 82 mm SL"
+},
+"istigobius-spence": {
+"size": "Up to 50 mm SL"
+},
+"jaydia-novaeguineae": {
+"size": "Up to 89 mm SL"
+},
+"johnius-dorsalis": {
+"size": "Up to 23 cm TL"
+},
+"jynx-ruficollis": {
+"size": "19 cm",
+"rarity": "Uncommon"
+},
+"jynx-torquilla": {
+"size": "18 cm",
+"rarity": "Rare"
+},
+"kaupifalco-monogrammicus": {
+"size": "36 cm (wingspan 80 cm)",
+"rarity": "Common"
+},
+"kuhlia-mugil": {
+"size": "Up to 40 cm SL"
+},
+"kuhlia-rupestris": {
+"size": "Up to 45 cm TL"
+},
+"kyphosus-cinerascens": {
+"size": "Up to 50 cm TL"
+},
+"kyphosus-vaigiensis": {
+"size": "Up to 70 cm TL"
+},
+"labrichthys-unilineatus": {
+"size": "Up to 18 cm TL"
+},
+"labroides-bicolor": {
+"size": "Up to 14 cm TL"
+},
+"labroides-dimidiatus": {
+"size": "Up to 12 cm TL"
+},
+"labropsis-xanthonota": {
+"size": "Up to 13 cm TL"
+},
+"lactoria-cornuta": {
+"size": "Up to 46 cm TL"
+},
+"laeops-pectoralis": {
+"size": "Up to 19 cm SL"
+},
+"lagocephalus-inermis": {
+"size": "Up to 56 cm TL"
+},
+"lagonosticta-rara": {
+"size": "13 cm",
+"rarity": "Uncommon"
+},
+"lagonosticta-rhodopareia": {
+"size": "10 cm",
+"rarity": "Uncommon"
+},
+"lagonosticta-rubricata": {
+"size": "10 cm"
+},
+"lagonosticta-rufopicta": {
+"size": "10 cm",
+"rarity": "Uncommon"
+},
+"lagonosticta-senegala": {
+"size": "10 cm"
+},
+"laiphognathus-multimaculatus": {
+"size": "Up to 40 mm SL"
+},
+"lamprotornis-albicapillus": {
+"size": "27 cm",
+"rarity": "Uncommon"
+},
+"lamprotornis-chalybaeus": {
+"size": "22–24 cm"
+},
+"lamprotornis-chloropterus": {
+"size": "20 cm",
+"rarity": "Uncommon"
+},
+"lamprotornis-fischeri": {
+"size": "19 cm",
+"rarity": "Uncommon"
+},
+"lamprotornis-hildebrandti": {
+"size": "19 cm",
+"rarity": "Common"
+},
+"lamprotornis-purpuroptera": {
+"size": "32 cm",
+"rarity": "Common"
+},
+"lamprotornis-shelleyi": {
+"size": "19 cm",
+"rarity": "Uncommon"
+},
+"lamprotornis-splendidus": {
+"size": "30 cm",
+"rarity": "Common"
+},
+"laniarius-erythrogaster": {
+"size": "21 cm",
+"rarity": "Common"
+},
+"laniarius-funebris": {
+"size": "20 cm",
+"rarity": "Common"
+},
+"laniarius-luehderi": {
+"size": "18 cm"
+},
+"laniarius-major": {
+"size": "21 cm",
+"rarity": "Common"
+},
+"laniarius-mufumbiri": {
+"size": "19 cm",
+"rarity": "Uncommon"
+},
+"laniarius-nigerrimus": {
+"size": "21 cm"
+},
+"laniarius-ruficeps": {
+"size": "18 cm",
+"rarity": "Uncommon"
+},
+"laniarius-sublacteus": {
+"size": "21 cm"
+},
+"lanius-cabanisi": {
+"size": "31 cm",
+"rarity": "Common"
+},
+"lanius-collurio": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"lanius-dorsalis": {
+"size": "20 cm",
+"rarity": "Common"
+},
+"lanius-excubitoroides": {
+"size": "25 cm",
+"rarity": "Uncommon"
+},
+"lanius-isabellinus": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"lanius-mackinnoni": {
+"size": "20 cm"
+},
+"lanius-minor": {
+"size": "20 cm",
+"rarity": "Common"
+},
+"lanius-nubicus": {
+"size": "17 cm",
+"rarity": "Rare"
+},
+"lanius-phoenicuroides": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"lanius-somalicus": {
+"size": "20 cm",
+"rarity": "Uncommon"
+},
+"larus-fuscus": {
+"size": "56 cm",
+"rarity": "Common"
+},
+"leiognathus-equula": {
+"size": "Up to 18.5 cm SL"
+},
+"lepidocybium-flavobrunneum": {
+"size": "Up to 200 cm SL"
+},
+"lepidozygus-tapeinosoma": {
+"size": "Up to 10 cm TL"
+},
+"leptoscarus-vaigiensis": {
+"size": "Up to 35 cm TL"
+},
+"lesser-flamingo": {
+"size": "90 cm"
+},
+"lethrinus-borbonicus": {
+"size": "Up to 40 cm TL"
+},
+"lethrinus-crocineus": {
+"size": "Up to 55 cm TL"
+},
+"lethrinus-erythracanthus": {
+"size": "Up to 70 cm TL"
+},
+"lethrinus-harak": {
+"size": "Up to 50 cm TL"
+},
+"lethrinus-lentjan": {
+"size": "Up to 50 cm TL"
+},
+"lethrinus-mahsena": {
+"size": "Up to 65 cm TL"
+},
+"lethrinus-microdon": {
+"size": "Up to 70 cm TL"
+},
+"lethrinus-nebulosus": {
+"size": "Up to 80 cm TL"
+},
+"lethrinus-obsoletus": {
+"size": "Up to 60 cm TL"
+},
+"lethrinus-olivaceus": {
+"size": "Up to 100 cm TL"
+},
+"lethrinus-rubrioperculatus": {
+"size": "Up to 50 cm TL"
+},
+"lethrinus-variegatus": {
+"size": "Up to 20 cm TL"
+},
+"lethrinus-xanthochilus": {
+"size": "Up to 60 cm TL"
+},
+"lilac-breasted-roller": {
+"size": "38 cm",
+"rarity": "Common"
+},
+"limosa-lapponica": {
+"size": "33–41 cm"
+},
+"limosa-limosa": {
+"size": "37–42 cm",
+"rarity": "Common"
+},
+"linurgus-olivaceus": {
+"size": "13 cm",
+"rarity": "Uncommon"
+},
+"lionfish": {
+"size": "Up to 35 cm SL"
+},
+"liopropoma-africanum": {
+"size": "Up to 7 cm SL"
+},
+"lissotis-hartlaubii": {
+"size": "71 cm",
+"rarity": "Uncommon"
+},
+"lissotis-melanogaster": {
+"size": "63 cm",
+"rarity": "Common"
+},
+"lobotes-surinamensis": {
+"size": "Up to 100 cm TL"
+},
+"locustella-fluviatilis": {
+"size": "14 cm",
+"rarity": "Uncommon"
+},
+"lophaetus-occipitalis": {
+"size": "58 cm (wingspan 130 cm)",
+"rarity": "Uncommon"
+},
+"lophoceros-alboterminatus": {
+"size": "55 cm",
+"rarity": "Common"
+},
+"lophoceros-hemprichii": {
+"size": "59 cm",
+"rarity": "Uncommon"
+},
+"lophoceros-nasutus": {
+"size": "51 cm",
+"rarity": "Common"
+},
+"lophodiodon-calori": {
+"size": "Up to 30 cm SL"
+},
+"lophotis-gindiana": {
+"size": "53 cm",
+"rarity": "Common"
+},
+"luscinia-luscinia": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"luscinia-megarhynchos": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"lutjanus-argentimaculatus": {
+"size": "Up to 120 cm TL"
+},
+"lutjanus-bengalensis": {
+"size": "Up to 30 cm TL"
+},
+"lutjanus-bohar": {
+"size": "Up to 90 cm TL"
+},
+"lutjanus-ehrenbergii": {
+"size": "Up to 35 cm TL"
+},
+"lutjanus-fulviflamma": {
+"size": "Up to 35 cm TL"
+},
+"lutjanus-fulvus": {
+"size": "Up to 40 cm TL"
+},
+"lutjanus-gibbus": {
+"size": "Up to 50 cm TL"
+},
+"lutjanus-johnii": {
+"size": "Up to 70 cm TL"
+},
+"lutjanus-kasmira": {
+"size": "Up to 34 cm TL"
+},
+"lutjanus-lutjanus": {
+"size": "Up to 33 cm TL"
+},
+"lutjanus-monostigma": {
+"size": "Up to 60 cm TL"
+},
+"lutjanus-sebae": {
+"size": "Up to 110 cm TL"
+},
+"lybius-guifsobalito": {
+"size": "17 cm"
+},
+"lybius-leucocephalus": {
+"size": "19 cm"
+},
+"lybius-torquatus": {
+"size": "19 cm",
+"rarity": "Uncommon"
+},
+"macheiramphus-alcinus": {
+"size": "45 cm (wingspan 105 cm)",
+"rarity": "Uncommon"
+},
+"macolor-macularis": {
+"size": "Up to 70 cm TL"
+},
+"macolor-niger": {
+"size": "Up to 75 cm TL"
+},
+"macronyx-ameliae": {
+"size": "20 cm",
+"rarity": "Uncommon"
+},
+"macronyx-aurantiigula": {
+"size": "20 cm",
+"rarity": "Uncommon"
+},
+"macronyx-croceus": {
+"size": "22 cm",
+"rarity": "Common"
+},
+"macropharyngodon-bipartitus": {
+"size": "Up to 13 cm TL"
+},
+"macropharyngodon-cyanoguttatus": {
+"size": "Up to 12 cm TL"
+},
+"macrorhamphosodes-platycheilus": {
+"size": "Up to 105 mm SL"
+},
+"macrorhamphosodes-uradoi": {
+"size": "Up to 211 mm SL"
+},
+"makaira-nigricans": {
+"size": "Up to 4.3 m TL"
+},
+"malacanthus-brevirostris": {
+"size": "Up to 39 cm SL"
+},
+"malacanthus-latovittatus": {
+"size": "Up to 47 cm SL"
+},
+"malachite-kingfisher": {
+"size": "12 cm",
+"rarity": "Common"
+},
+"malaconotus-blanchoti": {
+"size": "25 cm",
+"rarity": "Common"
+},
+"malimbus-rubricollis": {
+"size": "17 cm"
+},
+"mandingoa-nitidula": {
+"size": "10 cm",
+"rarity": "Uncommon"
+},
+"marabou-stork": {
+"size": "152 cm",
+"rarity": "Common"
+},
+"mareca-strepera": {
+"size": "56 cm",
+"rarity": "Rare"
+},
+"marleyella-bicolorata": {
+"size": "Up to 19 cm TL"
+},
+"martial-eagle": {
+"size": "81 cm (wingspan 240 cm)",
+"rarity": "Common"
+},
+"megabyas-flammulatus": {
+"size": "16 cm",
+"rarity": "Uncommon"
+},
+"megaceryle-maxima": {
+"size": "43 cm",
+"rarity": "Uncommon"
+},
+"meganthias-natalensis": {
+"size": "Up to 40 cm SL"
+},
+"megatrygon-microps": {
+"size": "Up to 220 cm DW"
+},
+"meiacanthus-mossambicus": {
+"size": "Up to 10 cm TL"
+},
+"melaenornis-edolioides": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"melaenornis-fischeri": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"melaenornis-pammelaina": {
+"size": "18 cm",
+"rarity": "Uncommon"
+},
+"melaniparus-albiventris": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"melaniparus-fringillinus": {
+"size": "11 cm",
+"rarity": "Uncommon"
+},
+"melaniparus-funereus": {
+"size": "14 cm",
+"rarity": "Uncommon"
+},
+"melaniparus-thruppi": {
+"size": "11 cm",
+"rarity": "Uncommon"
+},
+"melichthys-indicus": {
+"size": "Up to 27 cm TL"
+},
+"melichthys-niger": {
+"size": "Up to 35 cm TL"
+},
+"melierax-metabates": {
+"size": "50 cm (wingspan 100 cm)",
+"rarity": "Common"
+},
+"melierax-poliopterus": {
+"size": "55 cm (wingspan 110 cm)",
+"rarity": "Common"
+},
+"melocichla-mentalis": {
+"size": "19 cm"
+},
+"merops-albicollis": {
+"size": "28 cm",
+"rarity": "Common"
+},
+"merops-apiaster": {
+"size": "28 cm"
+},
+"merops-bullockoides": {
+"size": "23 cm"
+},
+"merops-muelleri": {
+"size": "19 cm",
+"rarity": "Uncommon"
+},
+"merops-nubicus": {
+"size": "38 cm"
+},
+"merops-oreobates": {
+"size": "22 cm",
+"rarity": "Common"
+},
+"merops-persicus": {
+"size": "30 cm"
+},
+"merops-pusillus": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"merops-revoilii": {
+"size": "17 cm"
+},
+"merops-superciliosus": {
+"size": "30 cm"
+},
+"microcarbo-africanus": {
+"size": "53 cm",
+"rarity": "Common"
+},
+"micronisus-gabar": {
+"size": "36 cm (wingspan 60 cm)",
+"rarity": "Common"
+},
+"microparra-capensis": {
+"size": "17 cm",
+"rarity": "Rare"
+},
+"microphis-fluviatilis": {
+"size": "Up to 200 mm SL"
+},
+"microphis-millepunctatus": {
+"size": "Up to 154 mm SL"
+},
+"milvus-migrans": {
+"size": "55 cm (wingspan 135 cm)",
+"rarity": "Common"
+},
+"mirafra-cheniana": {
+"size": "13 cm",
+"rarity": "Uncommon"
+},
+"mirafra-javanica": {
+"size": "13 cm",
+"rarity": "Uncommon"
+},
+"mirafra-pulpa": {
+"size": "13 cm"
+},
+"mirafra-williamsi": {
+"size": "14 cm"
+},
+"mirolabrichthys-evansi": {
+"size": "Up to 10 cm SL"
+},
+"monodactylus-argenteus": {
+"size": "Up to 25 cm SL"
+},
+"monotaxis-grandoculis": {
+"size": "Up to 60 cm TL"
+},
+"monticola-rufocinereus": {
+"size": "15 cm"
+},
+"monticola-saxatilis": {
+"size": "20 cm",
+"rarity": "Common"
+},
+"moorish-idol": {
+"size": "Up to 22 cm SL"
+},
+"motacilla-aguimp": {
+"size": "20 cm",
+"rarity": "Common"
+},
+"motacilla-alba": {
+"size": "19 cm",
+"rarity": "Rare"
+},
+"motacilla-capensis": {
+"size": "20 cm",
+"rarity": "Uncommon"
+},
+"motacilla-cinerea": {
+"size": "20 cm"
+},
+"motacilla-clara": {
+"size": "19 cm"
+},
+"motacilla-flava": {
+"size": "19 cm",
+"rarity": "Common"
+},
+"mulloidichthys-ayliffe": {
+"size": "Up to 25 cm SL"
+},
+"mulloidichthys-flavolineatus": {
+"size": "Up to 34 cm SL"
+},
+"mulloidichthys-vanicolensis": {
+"size": "Up to 31 cm SL"
+},
+"muraenesox-bagio": {
+"size": "Up to 200 cm TL"
+},
+"muscicapa-adusta": {
+"size": "10 cm",
+"rarity": "Common"
+},
+"muscicapa-aquatica": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"muscicapa-gambagae": {
+"size": "13 cm",
+"rarity": "Uncommon"
+},
+"muscicapa-striata": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"mustelus-manazo": {
+"size": "Up to 117 cm TL"
+},
+"mycteria-ibis": {
+"size": "108 cm",
+"rarity": "Common"
+},
+"myrichthys-colubrinus": {
+"size": "Up to 97 cm TL"
+},
+"myrichthys-maculosus": {
+"size": "Up to 100 cm TL"
+},
+"myripristis-adusta": {
+"size": "Up to 32 cm TL"
+},
+"myripristis-berndti": {
+"size": "Up to 30 cm TL"
+},
+"myripristis-botche": {
+"size": "Up to 30 cm TL"
+},
+"myripristis-hexagona": {
+"size": "Up to 20 cm TL"
+},
+"myripristis-kuntee": {
+"size": "Up to 20 cm TL"
+},
+"myripristis-murdjan": {
+"size": "Up to 27 cm TL"
+},
+"myripristis-violacea": {
+"size": "Up to 20 cm TL"
+},
+"myrmecocichla-aethiops": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"myrmecocichla-nigra": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"nannocampus-pictus": {
+"size": "Up to 90 mm SL"
+},
+"naso-annulatus": {
+"size": "Up to 100 cm TL"
+},
+"naso-brachycentron": {
+"size": "Up to 90 cm TL"
+},
+"naso-brevirostris": {
+"size": "Up to 60 cm TL"
+},
+"naso-elegans": {
+"size": "Up to 45 cm SL"
+},
+"naso-fageni": {
+"size": "Up to 80 cm TL"
+},
+"naso-hexacanthus": {
+"size": "Up to 75 cm TL"
+},
+"naso-thynnoides": {
+"size": "Up to 40 cm TL"
+},
+"naso-vlamingii": {
+"size": "Up to 60 cm TL"
+},
+"neafrapus-boehmi": {
+"size": "10 cm",
+"rarity": "Uncommon"
+},
+"necrosyrtes-monachus": {
+"size": "60 cm (wingspan 163 cm)",
+"rarity": "Uncommon"
+},
+"nectamia-savayensis": {
+"size": "Up to 92 mm SL"
+},
+"nemanthias-carberryi": {
+"size": "Up to 7 cm SL"
+},
+"nemateleotris-magnifica": {
+"size": "Up to 60 mm SL"
+},
+"neobythites-kenyaensis": {
+"size": "Up to 16 cm SL"
+},
+"neochirus-hemprichi": {
+"size": "Up to 10 cm SL"
+},
+"neocossyphus-poensis": {
+"size": "20 cm",
+"rarity": "Uncommon"
+},
+"neocossyphus-rufus": {
+"size": "22 cm"
+},
+"neoepinnula-orientalis": {
+"size": "Up to 30 cm SL"
+},
+"neoglyphidodon-melas": {
+"size": "Up to 15 cm TL"
+},
+"neomerinthe-erostris": {
+"size": "Up to 9.5 cm SL"
+},
+"neoniphon-opercularis": {
+"size": "Up to 35 cm TL"
+},
+"neoniphon-sammara": {
+"size": "Up to 32 cm TL"
+},
+"neophedina-cincta": {
+"size": "15 cm"
+},
+"neophron-percnopterus": {
+"size": "60 cm (wingspan 158 cm)",
+"rarity": "Uncommon"
+},
+"neopomacentrus-cyanomos": {
+"size": "Up to 12 cm TL"
+},
+"neopomacentrus-fuliginosus": {
+"size": "Up to 11 cm TL"
+},
+"neopomacentrus-sororius": {
+"size": "Up to 8.5 cm TL"
+},
+"neopomacentrus-taeniurus": {
+"size": "Up to 10 cm TL"
+},
+"netta-erythrophthalma": {
+"size": "51 cm",
+"rarity": "Common"
+},
+"nettapus-auritus": {
+"size": "31 cm",
+"rarity": "Uncommon"
+},
+"nicator-gularis": {
+"size": "23 cm",
+"rarity": "Common"
+},
+"nigrita-canicapillus": {
+"size": "13 cm",
+"rarity": "Common"
+},
+"nigrita-fusconotus": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"nilaus-afer": {
+"size": "13 cm",
+"rarity": "Common"
+},
+"norfolkia-brachylepis": {
+"size": "Up to 50 mm SL"
+},
+"notopholia-corusca": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"novaculichthys-taeniourus": {
+"size": "Up to 30 cm TL"
+},
+"novaculoides-macrolepidotus": {
+"size": "Up to 16 cm TL"
+},
+"numenius-arquata": {
+"size": "48–57 cm",
+"rarity": "Uncommon"
+},
+"numenius-phaeopus": {
+"size": "37–45 cm",
+"rarity": "Common"
+},
+"numida-meleagris": {
+"size": "61 cm",
+"rarity": "Common"
+},
+"nycticorax-nycticorax": {
+"size": "61 cm",
+"rarity": "Uncommon"
+},
+"odontanthias-caudicinctus": {
+"size": "Up to 17 cm SL"
+},
+"odonus-niger": {
+"size": "Up to 50 cm TL"
+},
+"oena-capensis": {
+"size": "25 cm",
+"rarity": "Common"
+},
+"oenanthe-familiaris": {
+"size": "15 cm",
+"rarity": "Uncommon"
+},
+"oenanthe-isabellina": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"oenanthe-lugubris": {
+"size": "15 cm"
+},
+"oenanthe-oenanthe": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"oenanthe-pileata": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"oenanthe-pleschanka": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"oenanthe-scotocerca": {
+"size": "14 cm",
+"rarity": "Uncommon"
+},
+"okamejei-heemstrai": {
+"size": "Up to 61 cm TL"
+},
+"oligolepis-acutipennis": {
+"size": "Up to 95 mm SL"
+},
+"omobranchus-elongatus": {
+"size": "Up to 55 mm TL"
+},
+"onuxodon-fowleri": {
+"size": "Up to 10 cm TL"
+},
+"onuxodon-parvibrachium": {
+"size": "Up to 10 cm TL"
+},
+"onychognathus-morio": {
+"size": "31 cm",
+"rarity": "Common"
+},
+"onychognathus-salvadorii": {
+"size": "42 cm",
+"rarity": "Common"
+},
+"onychognathus-tenuirostris": {
+"size": "33 cm",
+"rarity": "Uncommon"
+},
+"onychognathus-walleri": {
+"size": "23 cm"
+},
+"onychoprion-anaethetus": {
+"size": "35 cm"
+},
+"onychoprion-fuscatus": {
+"size": "43 cm"
+},
+"ophichthus-apicalis": {
+"size": "Up to 45 cm TL"
+},
+"ophichthus-bonaparti": {
+"size": "Up to 75 cm TL"
+},
+"ophiocara-porocephalum": {
+"size": "Up to 25 cm SL"
+},
+"opistognathus-afer": {
+"size": "Up to 5 cm TL"
+},
+"opistognathus-margaretae": {
+"size": "Up to 10 cm TL"
+},
+"opistognathus-muscatensis": {
+"size": "Up to 45 cm TL"
+},
+"oplopomus-oplopomus": {
+"size": "Up to 63 mm SL"
+},
+"oreolais-pulcher": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"oriolus-auratus": {
+"size": "20 cm"
+},
+"oriolus-brachyrynchus": {
+"size": "20 cm",
+"rarity": "Uncommon"
+},
+"oriolus-chlorocephalus": {
+"size": "22 cm",
+"rarity": "Uncommon"
+},
+"oriolus-larvatus": {
+"size": "20 cm",
+"rarity": "Common"
+},
+"oriolus-oriolus": {
+"size": "22 cm",
+"rarity": "Common"
+},
+"oriolus-percivali": {
+"size": "20 cm",
+"rarity": "Common"
+},
+"ortygornis-sephaena": {
+"size": "30 cm",
+"rarity": "Common"
+},
+"ortygospiza-atricollis": {
+"size": "9 cm"
+},
+"ortyxelos-meiffrenii": {
+"size": "13 cm",
+"rarity": "Uncommon"
+},
+"ostorhinchus-angustatus": {
+"size": "Up to 87 mm SL"
+},
+"ostorhinchus-apogonoides": {
+"size": "Up to 107 mm SL"
+},
+"ostorhinchus-aureus": {
+"size": "Up to 66 mm SL"
+},
+"ostorhinchus-cookii": {
+"size": "Up to 90 mm SL"
+},
+"ostorhinchus-cyanosoma": {
+"size": "Up to 56 mm SL"
+},
+"ostorhinchus-fleurieu": {
+"size": "Up to 77 mm SL"
+},
+"ostorhinchus-holotaenia": {
+"size": "Up to 69 mm SL"
+},
+"ostorhinchus-nigripes": {
+"size": "Up to 70 mm TL"
+},
+"ostorhinchus-nigrofasciatus": {
+"size": "Up to 73 mm SL"
+},
+"ostorhinchus-taeniophorus": {
+"size": "Up to 93 mm SL"
+},
+"ostracion-cubicum": {
+"size": "Up to 45 cm TL"
+},
+"ostracion-meleagris": {
+"size": "Up to 25 cm TL"
+},
+"otolithes-ruber": {
+"size": "Up to 75 cm TL"
+},
+"otus-scops": {
+"size": "18 cm",
+"rarity": "Rare"
+},
+"otus-senegalensis": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"owstonia-weberi": {
+"size": "Up to 52 cm TL"
+},
+"oxycheilinus-arenatus": {
+"size": "Up to 21 cm TL"
+},
+"oxycheilinus-bimaculatus": {
+"size": "Up to 15 cm TL"
+},
+"oxycheilinus-digramma": {
+"size": "Up to 35 cm TL"
+},
+"oxymonacanthus-longirostris": {
+"size": "Up to 9 cm TL"
+},
+"oxyurichthys-limophilus": {
+"size": "Up to 95 mm SL"
+},
+"oxyurichthys-lonchotus": {
+"size": "Up to 106 mm SL"
+},
+"oxyurichthys-notonema": {
+"size": "Up to 127 mm SL"
+},
+"oxyurichthys-ophthalmonema": {
+"size": "Up to 91 mm SL"
+},
+"oxyurichthys-papuensis": {
+"size": "Up to 167 mm SL"
+},
+"oxyurichthys-takagi": {
+"size": "Up to 49 mm SL"
+},
+"pandaka-silvana": {
+"size": "Up to 18 mm SL"
+},
+"papilloculiceps-longiceps": {
+"size": "Up to 70 cm TL"
+},
+"paracanthurus-hepatus": {
+"size": "Up to 26 cm TL"
+},
+"paracheilinus-attenuatus": {
+"size": "Up to 8 cm TL"
+},
+"paracheilinus-mccoskeri": {
+"size": "Up to 7 cm TL"
+},
+"paracirrhites-arcatus": {
+"size": "Up to 14 cm SL"
+},
+"paracirrhites-forsteri": {
+"size": "Up to 23 cm SL"
+},
+"paragallinula-angulata": {
+"size": "27 cm",
+"rarity": "Uncommon"
+},
+"paragobiodon-xanthosoma": {
+"size": "Up to 32 mm SL"
+},
+"paramonacanthus-frenatus": {
+"size": "Up to 12 cm TL"
+},
+"parapercis-hexophtalma": {
+"size": "Up to 13 cm SL"
+},
+"parapercis-maculata": {
+"size": "Up to 12 cm SL"
+},
+"parascolopsis-eriomma": {
+"size": "Up to 26 cm SL"
+},
+"parascombrops-adeni": {
+"size": "Up to 9 cm SL"
+},
+"parascorpaena-aurita": {
+"size": "Up to 15 cm TL"
+},
+"parascorpaena-mcadamsi": {
+"size": "Up to 8 cm SL"
+},
+"parascorpaena-mossambica": {
+"size": "Up to 12 cm SL"
+},
+"paratrypauchen-microcephalus": {
+"size": "Up to 15 cm SL"
+},
+"paraulopus-maculatus": {
+"size": "Up to 10 cm SL"
+},
+"pardachirus-marmoratus": {
+"size": "Up to 26 cm TL"
+},
+"pardachirus-morrowi": {
+"size": "Up to 18 cm TL"
+},
+"pardipicus-caroli": {
+"size": "19 cm",
+"rarity": "Uncommon"
+},
+"pardipicus-nivosus": {
+"size": "15 cm",
+"rarity": "Uncommon"
+},
+"parioglossus-raoi": {
+"size": "Up to 30 mm SL"
+},
+"parupeneus-barberinus": {
+"size": "Up to 41 cm SL"
+},
+"parupeneus-ciliatus": {
+"size": "Up to 34 cm SL"
+},
+"parupeneus-cyclostomus": {
+"size": "Up to 41 cm SL"
+},
+"parupeneus-heptacanthus": {
+"size": "Up to 29 cm SL"
+},
+"parupeneus-indicus": {
+"size": "Up to 30 cm SL"
+},
+"parupeneus-macronemus": {
+"size": "Up to 25 cm SL"
+},
+"parupeneus-pleurostigma": {
+"size": "Up to 26 cm SL"
+},
+"parupeneus-rubescens": {
+"size": "Up to 33 cm SL"
+},
+"parupeneus-trifasciatus": {
+"size": "Up to 27 cm SL"
+},
+"passer-castanopterus": {
+"size": "11 cm",
+"rarity": "Uncommon"
+},
+"passer-eminibey": {
+"size": "10 cm",
+"rarity": "Common"
+},
+"passer-gongonensis": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"passer-griseus": {
+"size": "15 cm"
+},
+"passer-rufocinctus": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"passer-suahelicus": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"passer-swainsonii": {
+"size": "15 cm"
+},
+"pastinachus-ater": {
+"size": "Up to 200 cm DW"
+},
+"pateobatis-jenkinsii": {
+"size": "Up to 104 cm DW"
+},
+"pegasus-volitans": {
+"size": "Up to 17.5 cm SL"
+},
+"pelecanus-onocrotalus": {
+"size": "140–180 cm (wingspan 250–300 cm)"
+},
+"pelecanus-rufescens": {
+"size": "135–150 cm (wingspan 215–240 cm)",
+"rarity": "Common"
+},
+"pempheris-flavicycla": {
+"size": "Up to 140 mm SL"
+},
+"pempheris-rhomboidea": {
+"size": "Up to 140 mm SL"
+},
+"periophthalmus-argentilineatus": {
+"size": "Up to 95 mm SL"
+},
+"periophthalmus-kalolo": {
+"size": "Up to 140 mm SL"
+},
+"pernis-apivorus": {
+"size": "60 cm (wingspan 135 cm)",
+"rarity": "Uncommon"
+},
+"pervagor-janthinosoma": {
+"size": "Up to 14 cm TL"
+},
+"petroscirtes-ancylodon": {
+"size": "Up to 11.5 cm TL"
+},
+"petroscirtes-breviceps": {
+"size": "Up to 11.5 cm TL"
+},
+"petroscirtes-mitratus": {
+"size": "Up to 85 mm TL"
+},
+"phalacrocorax-carbo": {
+"size": "100 cm",
+"rarity": "Common"
+},
+"phalaropus-lobatus": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"phoenicopterus-roseus": {
+"size": "140 cm"
+},
+"phoeniculus-bollei": {
+"size": "35 cm",
+"rarity": "Common"
+},
+"phoeniculus-damarensis": {
+"size": "37 cm",
+"rarity": "Uncommon"
+},
+"phoeniculus-purpureus": {
+"size": "37 cm",
+"rarity": "Common"
+},
+"phoeniculus-somaliensis": {
+"size": "37 cm",
+"rarity": "Uncommon"
+},
+"phoenicurus-phoenicurus": {
+"size": "14 cm"
+},
+"pholia-sharpii": {
+"size": "17 cm",
+"rarity": "Uncommon"
+},
+"phoxocampus-belcheri": {
+"size": "Up to 73 mm SL"
+},
+"phyllastrephus-cabanisi": {
+"size": "19 cm"
+},
+"phyllastrephus-debilis": {
+"size": "13 cm",
+"rarity": "Uncommon"
+},
+"phyllastrephus-hypochloris": {
+"size": "18 cm",
+"rarity": "Uncommon"
+},
+"phyllastrephus-strepitans": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"phyllolais-pulchella": {
+"size": "10 cm",
+"rarity": "Common"
+},
+"phyllophichthus-xenodontus": {
+"size": "Up to 42 cm TL"
+},
+"phylloscopus-budongoensis": {
+"size": "10 cm"
+},
+"phylloscopus-collybita": {
+"size": "11 cm",
+"rarity": "Uncommon"
+},
+"phylloscopus-ruficapilla": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"phylloscopus-trochilus": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"phylloscopus-umbrovirens": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"picasso-triggerfish": {
+"size": "Up to 25 cm TL"
+},
+"pinarochroa-sordida": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"pitta-angolensis": {
+"size": "18 cm"
+},
+"plagiotremus-rhinorhynchos": {
+"size": "Up to 12 cm TL"
+},
+"plagiotremus-tapeinosoma": {
+"size": "Up to 14 cm TL"
+},
+"platalea-alba": {
+"size": "91 cm",
+"rarity": "Common"
+},
+"platalea-leucorodia": {
+"size": "89 cm",
+"rarity": "Very Rare"
+},
+"platax-boersii": {
+"size": "Up to 40 cm TL"
+},
+"platax-orbicularis": {
+"size": "Up to 50 cm TL"
+},
+"platax-teira": {
+"size": "Up to 65 cm TL"
+},
+"platysteira-concreta": {
+"size": "9 cm",
+"rarity": "Uncommon"
+},
+"platysteira-cyanea": {
+"size": "13 cm",
+"rarity": "Common"
+},
+"platysteira-jamesoni": {
+"size": "9 cm",
+"rarity": "Uncommon"
+},
+"platysteira-peltata": {
+"size": "13 cm"
+},
+"plectorhinchus-albovittatus": {
+"size": "Up to 120 cm TL"
+},
+"plectorhinchus-chubbi": {
+"size": "Up to 75 cm TL"
+},
+"plectorhinchus-flavomaculatus": {
+"size": "Up to 72 cm TL"
+},
+"plectorhinchus-gaterinus": {
+"size": "Up to 50 cm TL"
+},
+"plectorhinchus-gibbosus": {
+"size": "Up to 75 cm TL"
+},
+"plectorhinchus-paulayi": {
+"size": "Up to 45 cm TL"
+},
+"plectorhinchus-plagiodesmus": {
+"size": "Up to 90 cm TL"
+},
+"plectorhinchus-playfairi": {
+"size": "Up to 90 cm TL"
+},
+"plectorhinchus-schotaf": {
+"size": "Up to 90 cm TL"
+},
+"plectorhinchus-vittatus": {
+"size": "Up to 72 cm TL"
+},
+"plectranthias-longimanus": {
+"size": "Up to 3 cm SL"
+},
+"plectranthias-morgansi": {
+"size": "Up to 5 cm SL"
+},
+"plectroglyphidodon-dickii": {
+"size": "Up to 11.5 cm TL"
+},
+"plectroglyphidodon-imparipennis": {
+"size": "Up to 6 cm TL"
+},
+"plectroglyphidodon-johnstonianus": {
+"size": "Up to 9 cm TL"
+},
+"plectroglyphidodon-leucozonus": {
+"size": "Up to 12 cm TL"
+},
+"plectroglyphidodon-phoenixensis": {
+"size": "Up to 9 cm TL"
+},
+"plectropomus-areolatus": {
+"size": "Up to 91 cm TL"
+},
+"plectropomus-laevis": {
+"size": "Up to 130 cm TL"
+},
+"plectropomus-punctatus": {
+"size": "Up to 110 cm TL"
+},
+"plegadis-falcinellus": {
+"size": "65 cm",
+"rarity": "Common"
+},
+"plesiops-coeruleolineatus": {
+"size": "Up to 10 cm TL"
+},
+"plocepasser-donaldsoni": {
+"size": "17 cm",
+"rarity": "Uncommon"
+},
+"plocepasser-mahali": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"plocepasser-superciliosus": {
+"size": "17 cm",
+"rarity": "Uncommon"
+},
+"ploceus-baglafecht": {
+"size": "15 cm"
+},
+"ploceus-bicolor": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"ploceus-bojeri": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"ploceus-castaneiceps": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"ploceus-castanops": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"ploceus-cucullatus": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"ploceus-heuglini": {
+"size": "12 cm",
+"rarity": "Uncommon"
+},
+"ploceus-insignis": {
+"size": "13 cm",
+"rarity": "Uncommon"
+},
+"ploceus-intermedius": {
+"size": "13 cm",
+"rarity": "Common"
+},
+"ploceus-jacksoni": {
+"size": "13 cm"
+},
+"ploceus-luteolus": {
+"size": "10 cm",
+"rarity": "Uncommon"
+},
+"ploceus-melanocephalus": {
+"size": "13 cm",
+"rarity": "Common"
+},
+"ploceus-melanogaster": {
+"size": "14 cm",
+"rarity": "Uncommon"
+},
+"ploceus-nigerrimus": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"ploceus-nigricollis": {
+"size": "14 cm"
+},
+"ploceus-ocularis": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"ploceus-pelzelni": {
+"size": "11 cm"
+},
+"ploceus-rubiginosus": {
+"size": "15 cm"
+},
+"ploceus-spekei": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"ploceus-subaureus": {
+"size": "14 cm",
+"rarity": "Uncommon"
+},
+"ploceus-taeniopterus": {
+"size": "13 cm"
+},
+"ploceus-vitellinus": {
+"size": "13 cm"
+},
+"ploceus-xanthops": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"plotosus-limbatus": {
+"size": "Up to 58.5 cm TL"
+},
+"plotosus-lineatus": {
+"size": "Up to 32 cm SL"
+},
+"pluvialis-squatarola": {
+"size": "31 cm",
+"rarity": "Common"
+},
+"podica-senegalensis": {
+"size": "66 cm",
+"rarity": "Uncommon"
+},
+"podiceps-nigricollis": {
+"size": "33 cm",
+"rarity": "Uncommon"
+},
+"poecilopsetta-natalensis": {
+"size": "Up to 15 cm TL"
+},
+"poecilopsetta-zanzibarensis": {
+"size": "Up to 16 cm TL"
+},
+"poeoptera-kenricki": {
+"size": "19 cm",
+"rarity": "Uncommon"
+},
+"poeoptera-stuhlmanni": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"pogoniulus-bilineatus": {
+"size": "10 cm",
+"rarity": "Common"
+},
+"pogoniulus-chrysoconus": {
+"size": "10 cm",
+"rarity": "Uncommon"
+},
+"pogoniulus-leucomystax": {
+"size": "9 cm",
+"rarity": "Common"
+},
+"pogoniulus-simplex": {
+"size": "9 cm"
+},
+"pogonocichla-stellata": {
+"size": "15 cm"
+},
+"pogonornis-bidentatus": {
+"size": "23 cm",
+"rarity": "Common"
+},
+"pogonornis-melanopterus": {
+"size": "19 cm",
+"rarity": "Common"
+},
+"poicephalus-cryptoxanthus": {
+"size": "24 cm",
+"rarity": "Uncommon"
+},
+"poicephalus-gulielmi": {
+"size": "28 cm",
+"rarity": "Common"
+},
+"poicephalus-meyeri": {
+"size": "23 cm",
+"rarity": "Common"
+},
+"poicephalus-rufiventris": {
+"size": "25 cm",
+"rarity": "Uncommon"
+},
+"polihierax-semitorquatus": {
+"size": "20 cm (wingspan 38 cm)",
+"rarity": "Common"
+},
+"polyboroides-typus": {
+"size": "66 cm (wingspan 160 cm)",
+"rarity": "Uncommon"
+},
+"polydactylus-malagasyensis": {
+"size": "Up to 21 cm TL"
+},
+"polydactylus-plebeius": {
+"size": "Up to 55 cm TL"
+},
+"polydactylus-sexfilis": {
+"size": "Up to 60 cm TL"
+},
+"polymixia-berndti": {
+"size": "Up to 48 cm SL"
+},
+"pomacanthus-chrysurus": {
+"size": "Up to 33 cm TL"
+},
+"pomacanthus-maculosus": {
+"size": "Up to 50 cm TL"
+},
+"pomacanthus-semicirculatus": {
+"size": "Up to 40 cm TL"
+},
+"pomacentrus-aquilus": {
+"size": "Up to 12 cm TL"
+},
+"pomacentrus-baenschi": {
+"size": "Up to 11 cm TL"
+},
+"pomacentrus-caeruleus": {
+"size": "Up to 8 cm TL"
+},
+"pomacentrus-pavo": {
+"size": "Up to 13 cm TL"
+},
+"pomacentrus-sulfureus": {
+"size": "Up to 11 cm TL"
+},
+"pomacentrus-trichrourus": {
+"size": "Up to 11 cm TL"
+},
+"pomacentrus-trilineatus": {
+"size": "Up to 10 cm TL"
+},
+"pomadasys-multimaculatus": {
+"size": "Up to 76 cm TL"
+},
+"porphyrio-alleni": {
+"size": "26 cm",
+"rarity": "Rare"
+},
+"priacanthus-blochii": {
+"size": "Up to 25 cm SL"
+},
+"priacanthus-hamrur": {
+"size": "Up to 45 cm TL"
+},
+"prinia-bairdii": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"prinia-fluviatilis": {
+"size": "12 cm"
+},
+"prinia-rufifrons": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"prinia-somalica": {
+"size": "11 cm"
+},
+"prinia-subflava": {
+"size": "12 cm",
+"rarity": "Common"
+},
+"priolepis-cincta": {
+"size": "Up to 45 mm SL"
+},
+"priolepis-inhaca": {
+"size": "Up to 34 mm SL"
+},
+"prionops-plumatus": {
+"size": "18–23 cm",
+"rarity": "Uncommon"
+},
+"prionops-poliolophus": {
+"size": "26 cm",
+"rarity": "Uncommon"
+},
+"prionops-retzii": {
+"size": "21 cm",
+"rarity": "Uncommon"
+},
+"prionops-scopifrons": {
+"size": "18 cm"
+},
+"pristiapogon-exostigma": {
+"size": "Up to 94 mm SL"
+},
+"pristiapogon-fraenatus": {
+"size": "Up to 90 mm SL"
+},
+"pristiapogon-kallopterus": {
+"size": "Up to 122 mm SL"
+},
+"pristipomoides-multidens": {
+"size": "Up to 90 cm TL"
+},
+"pristipomoides-sieboldii": {
+"size": "Up to 60 cm TL"
+},
+"pristis-zijsron": {
+"size": "Up to 5.4 m TL"
+},
+"prodotiscus-regulus": {
+"size": "12 cm",
+"rarity": "Uncommon"
+},
+"prodotiscus-zambesiae": {
+"size": "11 cm",
+"rarity": "Uncommon"
+},
+"promethichthys-prometheus": {
+"size": "Up to 100 cm SL"
+},
+"psalidoprocne-albiceps": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"psalidoprocne-pristoptera": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"psammogobius-biocellatus": {
+"size": "Up to 80 mm SL"
+},
+"psenopsis-intermedia": {
+"size": "Up to 15 cm TL"
+},
+"pseudamia-gelatinosa": {
+"size": "Up to 79 mm SL"
+},
+"pseudamiops-pellucidus": {
+"size": "Up to 36 mm SL"
+},
+"pseudanthias-cooperi": {
+"size": "Up to 10 cm SL"
+},
+"pseudanthias-squamipinnis": {
+"size": "Up to 9 cm SL"
+},
+"pseudhirundo-griseopyga": {
+"size": "15 cm",
+"rarity": "Uncommon"
+},
+"pseudobalistes-flavimarginatus": {
+"size": "Up to 60 cm TL"
+},
+"pseudobalistes-fuscus": {
+"size": "Up to 55 cm TL"
+},
+"pseudocheilinus-evanidus": {
+"size": "Up to 8 cm TL"
+},
+"pseudocheilinus-hexataenia": {
+"size": "Up to 7.5 cm TL"
+},
+"pseudochromis-dutoiti": {
+"size": "Up to 8.5 cm SL"
+},
+"pseudochromis-kristinae": {
+"size": "Up to 9 cm SL"
+},
+"pseudochromis-leucorhynchus": {
+"size": "Up to 10 cm SL"
+},
+"pseudochromis-melas": {
+"size": "Up to 10 cm SL"
+},
+"pseudochromis-natalensis": {
+"size": "Up to 9 cm SL"
+},
+"pseudochromis-tauberae": {
+"size": "Up to 8 cm SL"
+},
+"pseudocoris-occidentalis": {
+"size": "Up to 20 cm TL"
+},
+"pseudodax-moluccanus": {
+"size": "Up to 25 cm TL"
+},
+"pseudoginglymostoma-brevicaudatum": {
+"size": "Up to 75 cm TL"
+},
+"pseudogramma-polyacantha": {
+"size": "Up to 7 cm SL"
+},
+"pseudojuloides-argyreogaster": {
+"size": "Up to 10.5 cm TL"
+},
+"pseudojuloides-edwardi": {
+"size": "Up to 73 mm SL"
+},
+"pseudojuloides-erythrops": {
+"size": "Up to 10 cm TL"
+},
+"pseudojuloides-polackorum": {
+"size": "Up to 8.5 cm SL"
+},
+"pseudonigrita-arnaudi": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"pseudonigrita-cabanisi": {
+"size": "13 cm"
+},
+"pteragogus-flagellifer": {
+"size": "Up to 20 cm TL"
+},
+"ptereleotris-evides": {
+"size": "Up to 112 mm SL"
+},
+"pternistis-hildebrandti": {
+"size": "41 cm",
+"rarity": "Uncommon"
+},
+"pternistis-squamatus": {
+"size": "31 cm",
+"rarity": "Uncommon"
+},
+"pterocaesio-chrysozona": {
+"size": "Up to 21 cm TL"
+},
+"pterocaesio-marri": {
+"size": "Up to 35 cm TL"
+},
+"pterocaesio-tile": {
+"size": "Up to 30 cm TL"
+},
+"pterocles-decoratus": {
+"size": "23 cm",
+"rarity": "Common"
+},
+"pterocles-gutturalis": {
+"size": "31 cm",
+"rarity": "Uncommon"
+},
+"pterocles-lichtensteinii": {
+"size": "28 cm",
+"rarity": "Uncommon"
+},
+"pteroplatytrygon-violacea": {
+"size": "Up to 80 cm DW"
+},
+"ptilopachus-petrosus": {
+"size": "28 cm",
+"rarity": "Common"
+},
+"ptilopsis-granti": {
+"size": "26 cm",
+"rarity": "Uncommon"
+},
+"ptilopsis-leucotis": {
+"size": "26 cm",
+"rarity": "Uncommon"
+},
+"ptilostomus-afer": {
+"size": "36 cm",
+"rarity": "Uncommon"
+},
+"pycnochromis-agilis": {
+"size": "Up to 7 cm TL"
+},
+"pycnochromis-nigrurus": {
+"size": "Up to 5.5 cm TL"
+},
+"pycnocraspedum-squamipinne": {
+"size": "Up to 13 cm SL"
+},
+"pycnonotus-barbatus": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"pygoplites-diacanthus": {
+"size": "Up to 25 cm TL"
+},
+"pyramodon-ventralis": {
+"size": "Up to 34 cm TL"
+},
+"pytilia-afra": {
+"size": "13 cm",
+"rarity": "Uncommon"
+},
+"pytilia-melba": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"quelea-cardinalis": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"quelea-erythrops": {
+"size": "13 cm",
+"rarity": "Common"
+},
+"quelea-quelea": {
+"size": "13 cm",
+"rarity": "Common"
+},
+"rachycentron-canadum": {
+"size": "Up to 2 m FL"
+},
+"rallus-caerulescens": {
+"size": "28 cm",
+"rarity": "Uncommon"
+},
+"rastrelliger-kanagurta": {
+"size": "Up to 35 cm FL"
+},
+"recurvirostra-avosetta": {
+"size": "43 cm",
+"rarity": "Uncommon"
+},
+"redigobius-balteatus": {
+"size": "Up to 36 mm SL"
+},
+"rexea-prometheoides": {
+"size": "Up to 40 cm SL"
+},
+"rhabdosargus-sarba": {
+"size": "Up to 80 cm TL"
+},
+"rhina-ancylostomus": {
+"size": "Up to 270 cm TL"
+},
+"rhinecanthus-rectangulus": {
+"size": "Up to 25 cm TL"
+},
+"rhinobatos-holcorhynchus": {
+"size": "Up to 127 cm TL"
+},
+"rhinomuraena-quaesita": {
+"size": "Up to 122 cm TL"
+},
+"rhinopias-eschmeyeri": {
+"size": "Up to 17 cm SL"
+},
+"rhinopias-frondosa": {
+"size": "Up to 17 cm SL"
+},
+"rhinopomastus-cyanomelas": {
+"size": "30 cm",
+"rarity": "Uncommon"
+},
+"rhinopomastus-minor": {
+"size": "24 cm",
+"rarity": "Uncommon"
+},
+"rhinoptera-jayakari": {
+"size": "Up to 80 cm DW"
+},
+"rhinoptilus-chalcopterus": {
+"size": "28 cm",
+"rarity": "Uncommon"
+},
+"rhinoptilus-cinctus": {
+"size": "27 cm",
+"rarity": "Common"
+},
+"rhizoprionodon-acutus": {
+"size": "Up to 178 cm TL"
+},
+"rhodophoneus-cruentus": {
+"size": "23 cm",
+"rarity": "Common"
+},
+"rhynchobatus-australiae": {
+"size": "Up to 3 m TL"
+},
+"riparia-paludicola": {
+"size": "12 cm",
+"rarity": "Common"
+},
+"riparia-riparia": {
+"size": "12 cm",
+"rarity": "Common"
+},
+"robinsia-catherinae": {
+"size": "Up to 20 cm TL"
+},
+"rostratula-benghalensis": {
+"size": "24 cm"
+},
+"ruppells-vulture": {
+"size": "90 cm (wingspan 238 cm)",
+"rarity": "Common"
+},
+"rusichthys-plesiomorphus": {
+"size": "Up to 4 cm SL"
+},
+"rynchops-flavirostris": {
+"size": "41 cm"
+},
+"sailfish": {
+"size": "Up to 3.4 m TL"
+},
+"salarias-fasciatus": {
+"size": "Up to 14 cm TL"
+},
+"salpornis-salvadori": {
+"size": "15 cm"
+},
+"samariscus-triocellatus": {
+"size": "Up to 9 cm SL"
+},
+"sardinella-melanura": {
+"size": "Up to 12 cm SL"
+},
+"sardinella-neglecta": {
+"size": "Up to 13 cm SL"
+},
+"sargocentron-caudimaculatum": {
+"size": "Up to 25 cm TL"
+},
+"sargocentron-diadema": {
+"size": "Up to 17 cm TL"
+},
+"sargocentron-macrosquamis": {
+"size": "Up to 9 cm TL"
+},
+"sargocentron-praslin": {
+"size": "Up to 25 cm SL"
+},
+"sargocentron-rubrum": {
+"size": "Up to 33 cm TL"
+},
+"sargocentron-spiniferum": {
+"size": "Up to 45 cm TL"
+},
+"sargocentron-violaceum": {
+"size": "Up to 34 cm TL"
+},
+"sarothrura-pulchra": {
+"size": "17 cm",
+"rarity": "Uncommon"
+},
+"saurenchelys-elongatum": {
+"size": "Up to 32 cm TL"
+},
+"saurida-gracilis": {
+"size": "Up to 32 cm SL"
+},
+"saurida-nebulosa": {
+"size": "Up to 17 cm SL"
+},
+"saxicola-rubetra": {
+"size": "13 cm",
+"rarity": "Common"
+},
+"saxicola-torquatus": {
+"size": "13 cm"
+},
+"scalloped-hammerhead": {
+"size": "Up to 4.2 m TL"
+},
+"scarus-caudofasciatus": {
+"size": "Up to 50 cm TL"
+},
+"scarus-falcipinnis": {
+"size": "Up to 60 cm TL"
+},
+"scarus-festivus": {
+"size": "Up to 45 cm TL"
+},
+"scarus-frenatus": {
+"size": "Up to 47 cm TL"
+},
+"scarus-ghobban": {
+"size": "Up to 90 cm TL"
+},
+"scarus-niger": {
+"size": "Up to 39 cm TL"
+},
+"scarus-psittacus": {
+"size": "Up to 30 cm TL"
+},
+"scarus-rubroviolaceus": {
+"size": "Up to 71 cm TL"
+},
+"scarus-russelii": {
+"size": "Up to 50 cm TL"
+},
+"scarus-scaber": {
+"size": "Up to 37 cm TL"
+},
+"scarus-tricolor": {
+"size": "Up to 40 cm TL"
+},
+"scarus-viridifucatus": {
+"size": "Up to 32 cm TL"
+},
+"schistolais-leucopogon": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"scleroptila-elgonensis": {
+"size": "38 cm",
+"rarity": "Uncommon"
+},
+"scleroptila-levaillantii": {
+"size": "38 cm"
+},
+"scleroptila-shelleyi": {
+"size": "33 cm",
+"rarity": "Uncommon"
+},
+"scolopsis-bimaculata": {
+"size": "Up to 25 cm SL"
+},
+"scolopsis-ghanam": {
+"size": "Up to 15 cm SL"
+},
+"scolopsis-kurite": {
+"size": "Up to 16 cm SL"
+},
+"scomberesox-simulans": {
+"size": "Up to 8 cm"
+},
+"scomberoides-lysan": {
+"size": "Up to 80 cm TL"
+},
+"scomberoides-tol": {
+"size": "Up to 60 cm TL"
+},
+"scomberomorus-commerson": {
+"size": "Up to 230 cm FL"
+},
+"scomberomorus-plurilineatus": {
+"size": "Up to 120 cm FL"
+},
+"scorpaenodes-corallinus": {
+"size": "Up to 10.5 cm SL"
+},
+"scorpaenodes-tribulosus": {
+"size": "Up to 4.5 cm SL"
+},
+"scorpaenopsis-diabolus": {
+"size": "Up to 30 cm TL"
+},
+"scorpaenopsis-gibbosa": {
+"size": "Up to 10.5 cm SL"
+},
+"scorpaenopsis-oxycephala": {
+"size": "Up to 35 cm TL"
+},
+"scorpaenopsis-venosa": {
+"size": "Up to 22 cm SL"
+},
+"scotopelia-peli": {
+"size": "61 cm",
+"rarity": "Uncommon"
+},
+"scuticaria-tigrina": {
+"size": "Up to 140 cm TL"
+},
+"sebastapistes-cyanostigma": {
+"size": "Up to 7 cm SL"
+},
+"sebastapistes-mauritiana": {
+"size": "Up to 7.5 cm SL"
+},
+"sebastapistes-strongia": {
+"size": "Up to 6 cm SL"
+},
+"secretarybird": {
+"size": "150 cm (wingspan 200 cm)",
+"rarity": "Uncommon"
+},
+"selar-crumenophthalmus": {
+"size": "Up to 60 cm TL"
+},
+"serinus-flavivertex": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"seriola-rivoliana": {
+"size": "Up to 160 cm TL"
+},
+"sharpes-longclaw": {
+"size": "17 cm"
+},
+"sheppardia-aequatorialis": {
+"size": "13 cm",
+"rarity": "Uncommon"
+},
+"sheppardia-gunningi": {
+"size": "12 cm",
+"rarity": "Uncommon"
+},
+"sheppardia-polioptera": {
+"size": "15 cm",
+"rarity": "Uncommon"
+},
+"siganus-argenteus": {
+"size": "Up to 46 cm TL"
+},
+"siganus-laqueus": {
+"size": "Up to 40 cm TL"
+},
+"siganus-luridus": {
+"size": "Up to 30 cm TL"
+},
+"siganus-sutor": {
+"size": "Up to 50 cm TL"
+},
+"sillago-sihama": {
+"size": "Up to 31 cm SL"
+},
+"siphamia-mossambica": {
+"size": "Up to 34 mm SL"
+},
+"siphamia-tubifer": {
+"size": "Up to 41 mm SL"
+},
+"smithornis-capensis": {
+"size": "13 cm",
+"rarity": "Uncommon"
+},
+"smutsornis-africanus": {
+"size": "24 cm",
+"rarity": "Uncommon"
+},
+"sokoke-scops-owl": {
+"size": "15 cm"
+},
+"solenostomus-cyanopterus": {
+"size": "Up to 11 cm SL"
+},
+"southern-ground-hornbill": {
+"size": "102 cm",
+"rarity": "Uncommon"
+},
+"spatula-clypeata": {
+"size": "51 cm",
+"rarity": "Common"
+},
+"spatula-hottentota": {
+"size": "36 cm",
+"rarity": "Common"
+},
+"spatula-querquedula": {
+"size": "41 cm",
+"rarity": "Common"
+},
+"speculipastor-bicolor": {
+"size": "19 cm",
+"rarity": "Uncommon"
+},
+"spermestes-bicolor": {
+"size": "9 cm",
+"rarity": "Common"
+},
+"spermestes-cucullata": {
+"size": "9 cm"
+},
+"spermestes-fringilloides": {
+"size": "13 cm",
+"rarity": "Uncommon"
+},
+"spermestes-griseicapilla": {
+"size": "11 cm"
+},
+"spermophaga-ruficapilla": {
+"size": "14 cm",
+"rarity": "Uncommon"
+},
+"sphaeramia-orbicularis": {
+"size": "Up to 77 mm SL"
+},
+"sphoeroides-pachygaster": {
+"size": "Up to 40 cm TL"
+},
+"sphyraena-barracuda": {
+"size": "Up to 205 cm TL"
+},
+"sphyraena-flavicauda": {
+"size": "Up to 45 cm TL"
+},
+"sphyraena-forsteri": {
+"size": "Up to 65 cm TL"
+},
+"sphyraena-jello": {
+"size": "Up to 140 cm TL"
+},
+"sphyraena-qenie": {
+"size": "Up to 140 cm TL"
+},
+"spilopelia-senegalensis": {
+"size": "23 cm"
+},
+"spizocorys-fremantlii": {
+"size": "14 cm"
+},
+"spizocorys-personata": {
+"size": "15 cm",
+"rarity": "Common"
+},
+"sporopipes-frontalis": {
+"size": "11 cm",
+"rarity": "Uncommon"
+},
+"spratellomorpha-bianalis": {
+"size": "Up to 4.5 cm SL"
+},
+"stactolaema-leucotis": {
+"size": "17 cm",
+"rarity": "Common"
+},
+"stegastes-albifasciatus": {
+"size": "Up to 11 cm TL"
+},
+"stegastes-lacrymatus": {
+"size": "Up to 10 cm TL"
+},
+"stegastes-nigricans": {
+"size": "Up to 14 cm TL"
+},
+"stegastes-pelicieri": {
+"size": "Up to 14 cm TL"
+},
+"stegastes-punctatus": {
+"size": "Up to 15 cm TL"
+},
+"stegostoma-tigrinum": {
+"size": "Up to 250 cm TL"
+},
+"stelgidillas-gracilirostris": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"stephanoaetus-coronatus": {
+"size": "84 cm (wingspan 180 cm)",
+"rarity": "Uncommon"
+},
+"stercorarius-parasiticus": {
+"size": "41 cm",
+"rarity": "Rare"
+},
+"sterna-dougallii": {
+"size": "38 cm",
+"rarity": "Uncommon"
+},
+"sterna-hirundo": {
+"size": "35 cm",
+"rarity": "Common"
+},
+"stethojulis-albovittata": {
+"size": "Up to 13 cm TL"
+},
+"stethojulis-interrupta": {
+"size": "Up to 13 cm TL"
+},
+"stethojulis-strigiventer": {
+"size": "Up to 12 cm TL"
+},
+"stolephorus-holodon": {
+"size": "Up to 8 cm SL"
+},
+"streptopelia-capicola": {
+"size": "25 cm",
+"rarity": "Common"
+},
+"streptopelia-decipiens": {
+"size": "29 cm",
+"rarity": "Common"
+},
+"streptopelia-lugens": {
+"size": "30 cm",
+"rarity": "Common"
+},
+"streptopelia-semitorquata": {
+"size": "32 cm",
+"rarity": "Common"
+},
+"strix-woodfordii": {
+"size": "34 cm",
+"rarity": "Common"
+},
+"suezichthys-russelli": {
+"size": "Up to 9 cm TL"
+},
+"sufflamen-bursa": {
+"size": "Up to 25 cm TL"
+},
+"sufflamen-chrysopterum": {
+"size": "Up to 30 cm TL"
+},
+"sufflamen-fraenatum": {
+"size": "Up to 38 cm TL"
+},
+"sula-sula": {
+"size": "74 cm (wingspan 142 cm)",
+"rarity": "Rare"
+},
+"superb-starling": {
+"size": "19 cm",
+"rarity": "Common"
+},
+"sylvia-abyssinica": {
+"size": "13 cm",
+"rarity": "Common"
+},
+"sylvia-atricapilla": {
+"size": "14 cm"
+},
+"sylvia-borin": {
+"size": "14 cm"
+},
+"sylvietta-brachyura": {
+"size": "8 cm",
+"rarity": "Common"
+},
+"sylvietta-isabellina": {
+"size": "10 cm",
+"rarity": "Uncommon"
+},
+"sylvietta-leucophrys": {
+"size": "9 cm"
+},
+"sylvietta-whytii": {
+"size": "9 cm",
+"rarity": "Common"
+},
+"synagrops-japonicus": {
+"size": "Up to 35 cm SL"
+},
+"synanceia-verrucosa": {
+"size": "Up to 37 cm SL"
+},
+"synchiropus-stellatus": {
+"size": "Up to 80 mm TL"
+},
+"syngnathoides-biaculeatus": {
+"size": "Up to 28 cm TL"
+},
+"synodus-jaculum": {
+"size": "Up to 18 cm SL"
+},
+"synodus-variegatus": {
+"size": "Up to 30 cm SL"
+},
+"tachybaptus-ruficollis": {
+"size": "28 cm",
+"rarity": "Common"
+},
+"tachymarptis-aequatorialis": {
+"size": "21 cm",
+"rarity": "Common"
+},
+"tachymarptis-melba": {
+"size": "22 cm",
+"rarity": "Uncommon"
+},
+"tachyspiza-badia": {
+"size": "30 cm (wingspan 58 cm)",
+"rarity": "Common"
+},
+"tachyspiza-minulla": {
+"size": "28 cm (wingspan 45 cm)",
+"rarity": "Uncommon"
+},
+"taeniamia-flavofasciata": {
+"size": "Up to 78 mm SL"
+},
+"taeniamia-fucata": {
+"size": "Up to 70 mm SL"
+},
+"taeniamia-mozambiquensis": {
+"size": "Up to 90 mm SL"
+},
+"taeniamia-pallida": {
+"size": "Up to 57 mm SL"
+},
+"taenianotus-triacanthus": {
+"size": "Up to 12 cm TL"
+},
+"taeniurops-meyeni": {
+"size": "Up to 180 cm DW"
+},
+"taita-thrush": {
+"size": "22 cm",
+"rarity": "Rare"
+},
+"tauraco-fischeri": {
+"size": "40 cm"
+},
+"tauraco-leucolophus": {
+"size": "40 cm",
+"rarity": "Uncommon"
+},
+"tauraco-rossae": {
+"size": "54 cm",
+"rarity": "Uncommon"
+},
+"tauraco-schalowi": {
+"size": "40 cm",
+"rarity": "Common"
+},
+"tauraco-schuettii": {
+"size": "40 cm",
+"rarity": "Rare"
+},
+"tchagra-australis": {
+"size": "18 cm"
+},
+"tchagra-jamesi": {
+"size": "17 cm"
+},
+"tchagra-senegalus": {
+"size": "21 cm",
+"rarity": "Common"
+},
+"teixeirichthys-jordani": {
+"size": "Up to 13 cm TL"
+},
+"telacanthura-ussheri": {
+"size": "14 cm",
+"rarity": "Uncommon"
+},
+"telophorus-dohertyi": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"terapon-jarbua": {
+"size": "Up to 35 cm TL"
+},
+"thalasseus-bengalensis": {
+"size": "39 cm",
+"rarity": "Common"
+},
+"thalasseus-bergii": {
+"size": "49 cm"
+},
+"thalasseus-sandvicensis": {
+"size": "41 cm",
+"rarity": "Uncommon"
+},
+"thalassoma-amblycephalum": {
+"size": "Up to 16 cm TL"
+},
+"thalassoma-hardwicke": {
+"size": "Up to 18 cm TL"
+},
+"thalassoma-hebraicum": {
+"size": "Up to 23 cm TL"
+},
+"thalassoma-lunare": {
+"size": "Up to 25 cm TL"
+},
+"thalassoma-lutescens": {
+"size": "Up to 25 cm TL"
+},
+"thalassoma-purpureum": {
+"size": "Up to 43 cm TL"
+},
+"thalassoma-trilobatum": {
+"size": "Up to 28 cm TL"
+},
+"thalassornis-leuconotus": {
+"size": "41 cm",
+"rarity": "Uncommon"
+},
+"thamnolaea-cinnamomeiventris": {
+"size": "21 cm"
+},
+"thinornis-dubius": {
+"size": "17 cm",
+"rarity": "Uncommon"
+},
+"thinornis-tricollaris": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"threskiornis-aethiopicus": {
+"size": "80 cm",
+"rarity": "Common"
+},
+"thysanophrys-chiltonae": {
+"size": "Up to 25 cm TL"
+},
+"tmetothylacus-tenellus": {
+"size": "16 cm",
+"rarity": "Common"
+},
+"tockus-deckeni": {
+"size": "48 cm",
+"rarity": "Common"
+},
+"tockus-erythrorhynchus": {
+"size": "45 cm",
+"rarity": "Common"
+},
+"tockus-flavirostris": {
+"size": "51 cm"
+},
+"tockus-jacksoni": {
+"size": "48 cm",
+"rarity": "Common"
+},
+"torgos-tracheliotos": {
+"size": "103 cm (wingspan 265 cm)",
+"rarity": "Uncommon"
+},
+"torpedo-fuscomaculata": {
+"size": "Up to 65 cm TL"
+},
+"torquigener-flavimaculosus": {
+"size": "Up to 13 cm TL"
+},
+"tosarhombus-smithi": {
+"size": "Up to 18 cm SL"
+},
+"trachinocephalus-trachinus": {
+"size": "Up to 23 cm SL"
+},
+"trachinotus-baillonii": {
+"size": "Up to 75 cm TL"
+},
+"trachinotus-blochii": {
+"size": "Up to 70 cm TL"
+},
+"trachinotus-botla": {
+"size": "Up to 75 cm TL"
+},
+"trachylaemus-purpuratus": {
+"size": "25 cm",
+"rarity": "Common"
+},
+"trachyphonus-darnaudii": {
+"size": "18 cm",
+"rarity": "Common"
+},
+"trachyphonus-erythrocephalus": {
+"size": "23 cm",
+"rarity": "Uncommon"
+},
+"trachyrhamphus-bicoarctatus": {
+"size": "Up to 39 cm SL"
+},
+"treron-calvus": {
+"size": "27 cm",
+"rarity": "Common"
+},
+"triaenodon-obesus": {
+"size": "Up to 213 cm TL"
+},
+"tricholaema-diademata": {
+"size": "17 cm"
+},
+"tricholaema-hirsuta": {
+"size": "18 cm",
+"rarity": "Uncommon"
+},
+"tricholaema-lacrymosa": {
+"size": "14 cm",
+"rarity": "Common"
+},
+"tricholaema-melanocephala": {
+"size": "14 cm"
+},
+"trigonoceps-occipitalis": {
+"size": "75 cm (wingspan 213 cm)",
+"rarity": "Common"
+},
+"trimma-flammeum": {
+"size": "Up to 22 mm SL"
+},
+"trimma-naudei": {
+"size": "Up to 26 mm SL"
+},
+"tringa-erythropus": {
+"size": "32 cm",
+"rarity": "Uncommon"
+},
+"tringa-glareola": {
+"size": "20 cm",
+"rarity": "Common"
+},
+"tringa-nebularia": {
+"size": "32 cm",
+"rarity": "Common"
+},
+"tringa-ochropus": {
+"size": "23 cm",
+"rarity": "Common"
+},
+"tringa-stagnatilis": {
+"size": "25 cm",
+"rarity": "Common"
+},
+"tripterodon-orbis": {
+"size": "Up to 75 cm TL"
+},
+"trochocercus-cyanomelas": {
+"size": "13 cm",
+"rarity": "Uncommon"
+},
+"turdoides-hypoleuca": {
+"size": "23 cm",
+"rarity": "Uncommon"
+},
+"turdoides-jardineii": {
+"size": "23 cm",
+"rarity": "Common"
+},
+"turdoides-plebejus": {
+"size": "23 cm"
+},
+"turdoides-sharpei": {
+"size": "23 cm",
+"rarity": "Common"
+},
+"turdoides-squamulata": {
+"size": "23 cm"
+},
+"turdus-abyssinicus": {
+"size": "22 cm",
+"rarity": "Common"
+},
+"turdus-pelios": {
+"size": "22 cm",
+"rarity": "Common"
+},
+"turdus-tephronotus": {
+"size": "22 cm",
+"rarity": "Common"
+},
+"turnix-sylvaticus": {
+"size": "14 cm",
+"rarity": "Uncommon"
+},
+"turrum-coeruleopinnatum": {
+"size": "Up to 50 cm TL"
+},
+"turrum-fulvoguttatum": {
+"size": "Up to 103 cm TL"
+},
+"turtur-afer": {
+"size": "20 cm",
+"rarity": "Common"
+},
+"turtur-chalcospilos": {
+"size": "20 cm",
+"rarity": "Common"
+},
+"turtur-tympanistria": {
+"size": "22 cm",
+"rarity": "Common"
+},
+"tychaedon-quadrivirgata": {
+"size": "15 cm"
+},
+"tydemania-navigatoris": {
+"size": "Up to 120 mm SL"
+},
+"tylosurus-crocodilus": {
+"size": "Up to 83 cm"
+},
+"tyto-alba": {
+"size": "35 cm",
+"rarity": "Uncommon"
+},
+"upeneus-guttatus": {
+"size": "Up to 16 cm SL"
+},
+"upeneus-heemstra": {
+"size": "Up to 15 cm SL"
+},
+"upeneus-margarethae": {
+"size": "Up to 13 cm SL"
+},
+"upeneus-suahelicus": {
+"size": "Up to 15 cm TL"
+},
+"upeneus-sulphureus": {
+"size": "Up to 14 cm SL"
+},
+"upupa-epops": {
+"size": "28 cm"
+},
+"uraeginthus-bengalus": {
+"size": "13 cm",
+"rarity": "Common"
+},
+"uraeginthus-cyanocephalus": {
+"size": "13 cm"
+},
+"uranoscopus-archionema": {
+"size": "Up to 33 cm TL"
+},
+"urocolius-macrourus": {
+"size": "35 cm",
+"rarity": "Common"
+},
+"urogymnus-asperrimus": {
+"size": "Up to 147 cm DW"
+},
+"urogymnus-granulatus": {
+"size": "Up to 141 cm DW"
+},
+"urolestes-melanoleucus": {
+"size": "43 cm"
+},
+"uropterygius-polyspilus": {
+"size": "Up to 78 cm TL"
+},
+"valenciennea-helsdingenii": {
+"size": "Up to 154 mm SL"
+},
+"valenciennea-sexguttata": {
+"size": "Up to 102 mm SL"
+},
+"valenciennea-strigata": {
+"size": "Up to 131 mm SL"
+},
+"valenciennea-wardii": {
+"size": "Up to 91 mm SL"
+},
+"vanderhorstia-ambanoro": {
+"size": "Up to 81 mm SL"
+},
+"vanderhorstia-delagoae": {
+"size": "Up to 60 mm SL"
+},
+"vanderhorstia-ornatissima": {
+"size": "Up to 45 mm SL"
+},
+"vanellus-armatus": {
+"size": "31 cm",
+"rarity": "Common"
+},
+"vanellus-coronatus": {
+"size": "31 cm",
+"rarity": "Common"
+},
+"vanellus-crassirostris": {
+"size": "31 cm",
+"rarity": "Uncommon"
+},
+"vanellus-lugubris": {
+"size": "26 cm",
+"rarity": "Common"
+},
+"vanellus-melanopterus": {
+"size": "27 cm",
+"rarity": "Common"
+},
+"vanellus-senegallus": {
+"size": "34 cm"
+},
+"vanellus-spinosus": {
+"size": "28 cm",
+"rarity": "Common"
+},
+"vanellus-superciliosus": {
+"size": "23 cm",
+"rarity": "Very Rare"
+},
+"vanellus-tectus": {
+"size": "26 cm"
+},
+"variola-albimarginata": {
+"size": "Up to 33 cm SL"
+},
+"variola-louti": {
+"size": "Up to 81 cm SL"
+},
+"velifer-hypselopterus": {
+"size": "Up to 40 cm TL"
+},
+"vidua-chalybeata": {
+"size": "10 cm",
+"rarity": "Common"
+},
+"vulturine-guineafowl": {
+"size": "71 cm",
+"rarity": "Uncommon"
+},
+"xanthichthys-lineopunctatus": {
+"size": "Up to 20 cm TL"
+},
+"xenus-cinereus": {
+"size": "25 cm",
+"rarity": "Common"
+},
+"yellow-billed-oxpecker": {
+"size": "22 cm",
+"rarity": "Uncommon"
+},
+"yongeichthys-audax": {
+"size": "Up to 61 mm SL"
+},
+"yongeichthys-nebulosus": {
+"size": "Up to 123 mm SL"
+},
+"zapornia-flavirostra": {
+"size": "20 cm",
+"rarity": "Common"
+},
+"zapornia-pusilla": {
+"size": "18 cm",
+"rarity": "Uncommon"
+},
+"zebrasoma-desjardinii": {
+"size": "Up to 40 cm TL"
+},
+"zebrasoma-scopas": {
+"size": "Up to 21.5 cm TL"
+},
+"zenarchopterus-dispar": {
+"size": "Up to 12 cm SL"
+},
+"zenion-hololepis": {
+"size": "Up to 11 cm SL"
+},
+"zenion-leptolepis": {
+"size": "Up to 16 cm SL"
+},
+"zosterops-flavilateralis": {
+"size": "10 cm"
+},
+"zosterops-kikuyuensis": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"zosterops-senegalensis": {
+"size": "11 cm",
+"rarity": "Common"
+},
+"zosterops-silvanus": {
+"size": "10 cm",
+"rarity": "Common"
+},
+"zu-cristatus": {
+"size": "Up to 120 cm SL"
+}
+}

@@ -1,0 +1,12 @@
+node_modules
+dist
+.DS_Store
+ios
+android
+.cache
+.env
+
+# Field guide PDFs and their extracted (copyrighted) content: local use only
+*.pdf
+public/books/
+sources/
